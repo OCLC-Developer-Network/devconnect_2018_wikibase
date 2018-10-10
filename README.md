@@ -47,7 +47,9 @@ If all goes well, the Wikibase UI should be available for your EC2 site’s IP a
 
 The Wikibase site is automatically configured with a username (Admin) and password (adminpass).  Login to the Wikibase UI with those credentials.
 
-We want to create a "bot password" associated with the Admin account, for Pywikibot scripts to use.  To do that, find the "Special pages" link on the left-hand side of the Wikibase screen, select that, and scroll down to its "Users and Rights" section, and select the link to "Create a bot password". 
+We want to create a "bot password" associated with the Admin account, for Pywikibot scripts to use.  To do that, find the "Special pages" link on the left-hand side of the Wikibase screen, select that, and scroll down to its "Users and Rights" section, and select the link to "Bot passwords". Enter the bot name "bot", and click "Create".  Check the boxes for "High-volume editing", "Edit existing pages", and "Create, edit, and move pages", then click Create.
+
+You should see a new bot password, something like "bot@rer5mtkvfvhui36ata36ac7nrmfaclrn".  Make a note of that, as you'll need it later when we configure Pywikibot.
 
 Install Pywikibot:
 
@@ -78,9 +80,17 @@ You should see your new family name in the prompted list of families.  Select it
 
 There are a couple of other changes to make to the user-config.py file.  Open it up with a text editor, and look for the line that reads "password_file = None", and change it to "password_file = password".  Later we'll be adding our Wikibase bot password to that file.  Also look for the line that reads "put_throttle = 10" and change it to "put_throttle = 0".  The "put_throttle" is the number of seconds Pywikibot will wait between commands sent to its target wiki.  So as not to swap other shared systems like Wikidata, it is set by default to 10 seconds.  But for our instance we can send commands without pausing, so we set it to 0 seconds.
 
+Finally, in the core directory create a file named "password", and enter your Wikibase Admin account's bot password there (the bot password created and (hopefully!) noted in an earlier step), using this text pattern (supplying your own password in place of the one shown here):
+
+  ("Admin", "bot@2li3nfhikmtu9c0pev15om7c9lik3vqc")
+
 Getting some sample data to load:
 
 The demonstration includes a Python script that reads in pre-assembled sample data for Wikibase items and properties from tab-delimited text files, and uses Pywikibot to create the entities in our Wikibase instance.  These files can be retrieved from this OCLC Developer Network project, in its sample directory.  Copy those files to the core/scripts/userscripts/ directory for your Pywikibot installation.
+
+Then try loading the sample data into your Wikibase, from the command line in the core directory, with the command:
+
+  python pwb.py /scripts/userscripts/classes.py
 
 
 
