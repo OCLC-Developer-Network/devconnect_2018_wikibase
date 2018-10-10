@@ -41,7 +41,7 @@ The following steps should work with any Linux or Mac machine, and may work in a
      
 ### Clone the Wikibase docker image repository
 
-`git clone https://github.com/wmde/wikibase-docker.git`
+* `git clone https://github.com/wmde/wikibase-docker.git`
 
 Change to the path for the Wikibase docker image repo, and start up with wikibase-docker images using docker-compose:
      
