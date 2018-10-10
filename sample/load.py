@@ -177,7 +177,7 @@ if __name__ == "__main__":
     }
 
     # set the wikibase site and login
-    site = pywikibot.Site('en', 'wikibasedocker')
+    site = pywikibot.Site('en', 'devnetdemo')
     site.login()
     
     # set the site data repository
