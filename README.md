@@ -8,9 +8,9 @@ These notes describe the steps for installing Wikibase and Pywikibot and an Amaz
 
 ### Create an AWS EC2 instance
 
-•	Use this image: Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type - ami-0b59bfac6be064b78.  
-•	Configure it as a “t2.large” instance (to get sufficient memory for Wikibase and the Query engine), with the default 8GB of storage (which should be plenty until working with larger datasets)
-•	In the instance’s security group, enable SSH port 22, and Custom http ports 8181 and 8282 (the Wikibase and SPARQL Query UIs), for access from the address ranges you want to support
+* Use this image: Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type - ami-0b59bfac6be064b78.  
+* Configure it as a “t2.large” instance (to get sufficient memory for Wikibase and the Query engine), with the default 8GB of storage (which should be plenty until working with larger datasets)
+* In the instance’s security group, enable SSH port 22, and Custom http ports 8181 and 8282 (the Wikibase and SPARQL Query UIs), for access from the address ranges you want to support
 
 Connect to your EC2 instance via SSH with a private key, and logon with username ec2-user.
 
@@ -18,18 +18,16 @@ The following steps should work with any Linux or Mac machine, and may work in a
 
 ### Install Docker
 
-Update installed packages
-
-`sudo yum update -y`
-
-Install the most recent Docker Community Edition package.
-  sudo yum install -y docker
-•	Start the Docker service.
-  sudo service docker start
-•	Add the ec2-user to the docker group so you can execute Docker commands without using sudo.
-  sudo usermod -a -G docker ec2-user
-•	Log out and log back in again to pick up the new docker group permissions. 
-•	Verify that the ec2-user can run Docker commands without sudo.
+* Update installed packages
+..`sudo yum update -y`
+* Install the most recent Docker Community Edition package.
+..`sudo yum install -y docker`
+* Start the Docker service.
+..`sudo service docker start`
+* Add the ec2-user to the docker group so you can execute Docker commands without using sudo.
+..`sudo usermod -a -G docker ec2-user`
+* Log out and log back in again to pick up the new docker group permissions. 
+* Verify that the ec2-user can run Docker commands without sudo.
   docker info
   
 ### Install docker-compose
