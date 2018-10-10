@@ -129,17 +129,6 @@ python pwb.py /scripts/userscripts/load.py
 ### Related Resources:
 
 * [Wikibase for Research Infrastructure — Part 1](https://medium.com/@thisismattmiller/wikibase-for-research-infrastructure-part-1-d3f640dfad34), by Matt Miller
+* [Wikibase docker images](https://addshore.com/2017/12/wikibase-docker-images/), by Addshore
 * [Customizing Wikibase config in the docker-compose example](https://addshore.com/2018/06/customizing-wikibase-config-in-the-docker-compose-example/), by Addshore
-
-
-
-
-
-
-
-
-
-
-
-
 
