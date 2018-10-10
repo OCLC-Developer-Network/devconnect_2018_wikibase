@@ -118,9 +118,10 @@ Then try loading the sample data into your Wikibase, from the command line in th
   
 (If you named your wikibase's pywikibot family something other than "devnetdemo", you'll have to hunt down that line in the load.py file and update it.  Sorry about that!)
 
-Some useful links:
+*** Related Resources:
 
-[Customizing Wikibase config in the docker-compose example](https://addshore.com/2018/06/customizing-wikibase-config-in-the-docker-compose-example/)
+[Wikibase for Research Infrastructure — Part 1](https://medium.com/@thisismattmiller/wikibase-for-research-infrastructure-part-1-d3f640dfad34), by Matt Miller
+[Customizing Wikibase config in the docker-compose example](https://addshore.com/2018/06/customizing-wikibase-config-in-the-docker-compose-example/), by Addshore
 
 
 
