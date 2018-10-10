@@ -19,32 +19,34 @@ The following steps should work with any Linux or Mac machine, and may work in a
 ### Install Docker
 
 * Update installed packages
-..`sudo yum update -y`
+* `sudo yum update -y`
 * Install the most recent Docker Community Edition package.
-..`sudo yum install -y docker`
+* `sudo yum install -y docker`
 * Start the Docker service.
-..`sudo service docker start`
+* `sudo service docker start`
 * Add the ec2-user to the docker group so you can execute Docker commands without using sudo.
-..`sudo usermod -a -G docker ec2-user`
+* `sudo usermod -a -G docker ec2-user`
 * Log out and log back in again to pick up the new docker group permissions. 
 * Verify that the ec2-user can run Docker commands without sudo.
   docker info
   
 ### Install docker-compose
 
-  sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-  sudo chmod +x /usr/local/bin/docker-compose
+* `sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
+* `sudo chmod +x /usr/local/bin/docker-compose`
   
 ### Install git
-     sudo yum install git
+
+`sudo yum install git`
      
 ### Clone the Wikibase docker image repository
 
-     git clone https://github.com/wmde/wikibase-docker.git
+`git clone https://github.com/wmde/wikibase-docker.git`
 
 Change to the path for the Wikibase docker image repo, and start up with wikibase-docker images using docker-compose:
-     cd wikibase-docker
-     docker-compose up
+     
+`cd wikibase-docker`
+`docker-compose up`
      
 If all goes well, the Wikibase UI should be available for your EC2 site’s IP address and public DNS on port 8181, and the SPARQL UI should be running on port 8282.  An updater script should be checking for Wikibase data changes every 10 seconds, synchronizing data in the SPARQL servers Blazegraph triplestore.  Go to your IP address (or localhost if running on a notebook) with those two ports and see if Wikibase is up and running.
 
@@ -71,38 +73,38 @@ Change to the "core" directory that should result from cloning the repo.
 
 Pywikibot is designed to work with any one of a number of "families" of wikis.  Out of the box, it's configured to work with Wikipedia, Wikidata, and assorted other wikis.  We're launching our own brand new wiki, which it doesn't yet know about. So we'll want to create a family configuration.  Run this script:
 
-  python generate_family_file.py
+`python generate_family_file.py`
   
 and supply a URL for your wikibase host (since we're running Pywikibot on the same machine as our host, http://localhost:8181/w/ should work) and supply a brief family name (like "devnetdemo").
 
 Generate a user-config.py file for your new wiki family by entering the command
 
-  python pwb.py generate_user_files
+`python pwb.py generate_user_files`
   
 You should see your new family name in the prompted list of families.  Select it, select the default language ('en'), enter "Admin" as your username (Wikibase is pre-configured with that username and a default password), and respond with "No" for the other prompts to add other users or bot passwords.
 
 There are a couple of other changes to make to the user-config.py file.  Open it up with a text editor, and look for the line that reads  
-  password_file = None
+`password_file = None`
 
 and change it to 
 
-  password_file = "password"
+`password_file = "password"`
   
 Later we'll be adding our Wikibase bot password to a file with that name.  
 
 Also look for the line that reads 
 
-  put_throttle = 10
+`put_throttle = 10`
 
 and change it to 
 
-  put_throttle = 0
+`put_throttle = 0`
 
 The "put_throttle" is the number of seconds Pywikibot will wait between commands sent to its target wiki.  So as not to swap other shared systems like Wikidata, it is set by default to 10 seconds.  But for our instance we can send commands without pausing, so we set it to 0 seconds.
 
 Finally, in the core directory create a file named "password", and enter your Wikibase Admin account's bot password there (the bot password created and (hopefully!) noted in an earlier step), using this text pattern (supplying your own password in place of the one shown here):
 
-  ("Admin", "bot@2li3nfhikmtu9c0pev15om7c9lik3vqc")
+`("Admin", "bot@2li3nfhikmtu9c0pev15om7c9lik3vqc")`
 
 ### Getting sample data to load
 
@@ -112,7 +114,7 @@ Copy the files in the sample to the core/scripts/userscripts/ directory for your
 
 Then try loading the sample data into your Wikibase, from the command line in the core directory, with the command:
 
-  python pwb.py /scripts/userscripts/load.py
+`python pwb.py /scripts/userscripts/load.py`
   
 (If you named your wikibase's pywikibot family something other than "devnetdemo", you'll have to hunt down that line in the load.py file and update it.  Sorry about that!)
 
