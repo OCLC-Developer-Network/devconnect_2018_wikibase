@@ -108,25 +108,27 @@ Finally, in the core directory create a file named "password", and enter your Wi
 ("Admin", "bot@2li3nfhikmtu9c0pev15om7c9lik3vqc")
 ```
 
-### Getting sample data to load
+### Loading sample data for properties and items
 
-The demonstration includes a Python script that reads in pre-assembled sample data for Wikibase items and properties from tab-delimited text files, and uses Pywikibot to create the entities in our Wikibase instance.  These files can be retrieved from this OCLC Developer Network project, in its sample directory.  To these files, you can clone this repo, with 
+This project includes a Python script that reads in pre-assembled sample data for Wikibase items and properties from tab-delimited text files, and uses Pywikibot to create the entities in our Wikibase instance.  By convention, user-developed scripts that interact with Pywikibot are stored in its core/scripts/userscripts path.  To retrieve the sample script and data files and copy them to that path, change to that path and send this git command to download the files: 
 
 ```
+cd ~
 git clone https://github.com/OCLC-Developer-Network/devconnect_2018_wikibase.git
+cd devconnect_2018_wikibase/sample
+cp * ../../pywikibot/core/scripts/userscripts/.
 ```
-
-Copy the files in the sample to the core/scripts/userscripts/ directory for your Pywikibot installation.
 
 Then try loading the sample data into your Wikibase, from the command line in the core directory, with the command:
 
 ```
+cd ~/pywikibot/core
 python pwb.py /scripts/userscripts/load.py
 ```
   
 (If you named your wikibase's pywikibot family something other than "devnetdemo", you'll have to hunt down that line in the load.py file and update it.  Sorry about that!)
 
-### Related Resources:
+### Related Resources
 
 * [Wikibase for Research Infrastructure — Part 1](https://medium.com/@thisismattmiller/wikibase-for-research-infrastructure-part-1-d3f640dfad34), by Matt Miller
 * [Wikibase docker images](https://addshore.com/2017/12/wikibase-docker-images/), by Addshore
