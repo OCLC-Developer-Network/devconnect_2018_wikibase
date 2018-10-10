@@ -18,23 +18,17 @@ The following steps should work with any Linux or Mac machine, and may work in a
 
 ### Install Docker
 
-* Update installed packages
-* `sudo yum update -y`
-* Install the most recent Docker Community Edition package.
-* `sudo yum install -y docker`
-* Start the Docker service.
-* `sudo service docker start`
-* Add the ec2-user to the docker group so you can execute Docker commands without using sudo.
-* `sudo usermod -a -G docker ec2-user`
+* Update installed packages with `sudo yum update -y`
+* Install the most recent Docker Community Edition package with `sudo yum install -y docker`
+* Start the Docker service with `sudo service docker start`
+* Add the ec2-user to the docker group so you can execute Docker commands without using sudo with `sudo usermod -a -G docker ec2-user`
 * Log out and log back in again to pick up the new docker group permissions. 
-* Verify that the ec2-user can run Docker commands without sudo.
-  docker info
+* Verify that the ec2-user can run Docker commands without sudo, with `docker info`
   
 ### Install docker-compose
 
-`sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
-
-`sudo chmod +x /usr/local/bin/docker-compose`
+```sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
+sudo chmod +x /usr/local/bin/docker-compose```
   
 ### Install git
 
@@ -46,9 +40,8 @@ The following steps should work with any Linux or Mac machine, and may work in a
 
 Change to the path for the Wikibase docker image repo, and start up with wikibase-docker images using docker-compose:
      
-`cd wikibase-docker`
-
-`docker-compose up`
+```cd wikibase-docker
+docker-compose up```
      
 If all goes well, the Wikibase UI should be available for your EC2 site’s IP address and public DNS on port 8181, and the SPARQL UI should be running on port 8282.  An updater script should be checking for Wikibase data changes every 10 seconds, synchronizing data in the SPARQL servers Blazegraph triplestore.  Go to your IP address (or localhost if running on a notebook) with those two ports and see if Wikibase is up and running.
 
