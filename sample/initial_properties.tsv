@@ -11,6 +11,9 @@ CREATE	property	equivalent class	equivalent class in other ontologies (use prope
 equivalent property	http://www.wikidata.org/prop/direct/P1709
 equivalent property	http://www.w3.org/2002/07/owl#equivalentClass
 equivalent property	http://www.w3.org/2004/02/skos/core#exactMatch
+CREATE	property	instance of	that class of which this subject is a particular example and member (subject typically an individual member with a proper name label); different from 'subclass of'; using this property as a qualifier is deprecated—use subject has role or object has role instead	has class, is a, has type	http://wikiba.se/ontology#WikibaseItem
+equivalent property	http://www.wikidata.org/prop/direct/P31
+equivalent property	http://www.w3.org/1999/02/22-rdf-syntax-ns#type
 CREATE	property	subclass of	all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with instance of	is also a	http://wikiba.se/ontology#WikibaseItem
 equivalent property	http://www.wikidata.org/prop/direct/P279
 external superproperty	http://www.w3.org/2000/01/rdf-schema#subClassOf
