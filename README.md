@@ -18,9 +18,11 @@ The following steps should work with any Linux or Mac machine, and may work in a
 
 ### Install Docker
 
-•	Update installed packages
-  sudo yum update -y
-•	Install the most recent Docker Community Edition package.
+Update installed packages
+
+`sudo yum update -y`
+
+Install the most recent Docker Community Edition package.
   sudo yum install -y docker
 •	Start the Docker service.
   sudo service docker start
