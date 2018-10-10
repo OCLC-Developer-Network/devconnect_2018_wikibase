@@ -78,7 +78,24 @@ Generate a user-config.py file for your new wiki family by entering the command
   
 You should see your new family name in the prompted list of families.  Select it, select the default language ('en'), enter "Admin" as your username (Wikibase is pre-configured with that username and a default password), and respond with "No" for the other prompts to add other users or bot passwords.
 
-There are a couple of other changes to make to the user-config.py file.  Open it up with a text editor, and look for the line that reads "password_file = None", and change it to "password_file = password".  Later we'll be adding our Wikibase bot password to that file.  Also look for the line that reads "put_throttle = 10" and change it to "put_throttle = 0".  The "put_throttle" is the number of seconds Pywikibot will wait between commands sent to its target wiki.  So as not to swap other shared systems like Wikidata, it is set by default to 10 seconds.  But for our instance we can send commands without pausing, so we set it to 0 seconds.
+There are a couple of other changes to make to the user-config.py file.  Open it up with a text editor, and look for the line that reads  
+  password_file = None
+
+and change it to 
+
+  password_file = "password"
+  
+Later we'll be adding our Wikibase bot password to a file with that name.  
+
+Also look for the line that reads 
+
+  put_throttle = 10
+
+and change it to 
+
+  put_throttle = 0
+
+The "put_throttle" is the number of seconds Pywikibot will wait between commands sent to its target wiki.  So as not to swap other shared systems like Wikidata, it is set by default to 10 seconds.  But for our instance we can send commands without pausing, so we set it to 0 seconds.
 
 Finally, in the core directory create a file named "password", and enter your Wikibase Admin account's bot password there (the bot password created and (hopefully!) noted in an earlier step), using this text pattern (supplying your own password in place of the one shown here):
 
@@ -86,11 +103,15 @@ Finally, in the core directory create a file named "password", and enter your Wi
 
 Getting some sample data to load:
 
-The demonstration includes a Python script that reads in pre-assembled sample data for Wikibase items and properties from tab-delimited text files, and uses Pywikibot to create the entities in our Wikibase instance.  These files can be retrieved from this OCLC Developer Network project, in its sample directory.  Copy those files to the core/scripts/userscripts/ directory for your Pywikibot installation.
+The demonstration includes a Python script that reads in pre-assembled sample data for Wikibase items and properties from tab-delimited text files, and uses Pywikibot to create the entities in our Wikibase instance.  These files can be retrieved from this OCLC Developer Network project, in its sample directory.  To these files, you can clone this repo, with git clone https://github.com/OCLC-Developer-Network/devconnect_2018_wikibase.git
+
+Copy the files in the sample to the core/scripts/userscripts/ directory for your Pywikibot installation.
 
 Then try loading the sample data into your Wikibase, from the command line in the core directory, with the command:
 
-  python pwb.py /scripts/userscripts/classes.py
+  python pwb.py /scripts/userscripts/load.py
+  
+(If you named your wikibase's pywikibot family something other than "devnetdemo", you'll have to hunt down that line in the load.py file and update it.  Sorry about that!)
 
 
 
