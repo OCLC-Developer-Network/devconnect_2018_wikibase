@@ -27,8 +27,10 @@ The following steps should work with any Linux or Mac machine, and may work in a
   
 ### Install docker-compose
 
-```sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
-sudo chmod +x /usr/local/bin/docker-compose```
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+```
   
 ### Install git
 
@@ -40,8 +42,10 @@ sudo chmod +x /usr/local/bin/docker-compose```
 
 Change to the path for the Wikibase docker image repo, and start up with wikibase-docker images using docker-compose:
      
-```cd wikibase-docker
-docker-compose up```
+```
+cd wikibase-docker
+docker-compose up
+```
      
 If all goes well, the Wikibase UI should be available for your EC2 site’s IP address and public DNS on port 8181, and the SPARQL UI should be running on port 8282.  An updater script should be checking for Wikibase data changes every 10 seconds, synchronizing data in the SPARQL servers Blazegraph triplestore.  Go to your IP address (or localhost if running on a notebook) with those two ports and see if Wikibase is up and running.
 
