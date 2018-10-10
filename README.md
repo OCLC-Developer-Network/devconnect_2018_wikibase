@@ -4,7 +4,7 @@
 
 ## Demonstration notes
 
-These notes describe the steps for installing Wikibase and Pywikibot and an Amazon Elastic Compute Cloud (EC2) virtual machine, running an image of the Amazon Linux system, and batch loading some sample data.  
+These notes describe the steps for installing Wikibase and Pywikibot on an Amazon Elastic Compute Cloud (EC2) virtual machine, running an image of the Amazon Linux system, and batch loading some sample data.  
 
 ### Create an AWS EC2 instance
 
