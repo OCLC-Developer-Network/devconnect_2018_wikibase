@@ -1,12 +1,12 @@
-OCLC Developer Network Webinar, 16 October 2018
+# OCLC Developer Network Webinar, 16 October 2018
 
-Using Wikibase as a platform for library linked data management and discovery
+## Using Wikibase as a platform for library linked data management and discovery
 
-Demonstration notes
+## Demonstration notes
 
 These notes describe the steps for installing Wikibase and Pywikibot and an Amazon Elastic Compute Cloud (EC2) virtual machine, running an image of the Amazon Linux system, and batch loading some sample data.  
 
-Create an AWS EC2 instance:
+### Create an AWS EC2 instance
 
 •	Use this image: Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type - ami-0b59bfac6be064b78.  
 •	Configure it as a “t2.large” instance (to get sufficient memory for Wikibase and the Query engine), with the default 8GB of storage (which should be plenty until working with larger datasets)
@@ -16,7 +16,8 @@ Connect to your EC2 instance via SSH with a private key, and logon with username
 
 The following steps should work with any Linux or Mac machine, and may work in a virtual Linux machine under Windows:
 
-Install Docker:
+### Install Docker
+
 •	Update installed packages
   sudo yum update -y
 •	Install the most recent Docker Community Edition package.
@@ -29,14 +30,16 @@ Install Docker:
 •	Verify that the ec2-user can run Docker commands without sudo.
   docker info
   
-Install docker-compose:
+### Install docker-compose
+
   sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
   sudo chmod +x /usr/local/bin/docker-compose
   
-Install git:
+### Install git
      sudo yum install git
      
-Clone the Wikibase docker image repository:
+### Clone the Wikibase docker image repository
+
      git clone https://github.com/wmde/wikibase-docker.git
 
 Change to the path for the Wikibase docker image repo, and start up with wikibase-docker images using docker-compose:
@@ -51,7 +54,7 @@ We want to create a "bot password" associated with the Admin account, for Pywiki
 
 You should see a new bot password, something like "bot@rer5mtkvfvhui36ata36ac7nrmfaclrn".  Make a note of that, as you'll need it later when we configure Pywikibot.
 
-Install Pywikibot:
+### Install Pywikibot
 
 Pywikibot is a Python library that provides support for creating and editing entity data in Wikibase.  Documentation is here: https://www.mediawiki.org/wiki/Manual:Pywikibot/Installation
 
@@ -64,7 +67,7 @@ git clone --recursive https://gerrit.wikimedia.org/r/pywikibot/core.git
 
 Change to the "core" directory that should result from cloning the repo.
 
-Configuring Pywikibot:
+### Configuring Pywikibot
 
 Pywikibot is designed to work with any one of a number of "families" of wikis.  Out of the box, it's configured to work with Wikipedia, Wikidata, and assorted other wikis.  We're launching our own brand new wiki, which it doesn't yet know about. So we'll want to create a family configuration.  Run this script:
 
@@ -101,7 +104,7 @@ Finally, in the core directory create a file named "password", and enter your Wi
 
   ("Admin", "bot@2li3nfhikmtu9c0pev15om7c9lik3vqc")
 
-Getting some sample data to load:
+### Getting sample data to load
 
 The demonstration includes a Python script that reads in pre-assembled sample data for Wikibase items and properties from tab-delimited text files, and uses Pywikibot to create the entities in our Wikibase instance.  These files can be retrieved from this OCLC Developer Network project, in its sample directory.  To these files, you can clone this repo, with git clone https://github.com/OCLC-Developer-Network/devconnect_2018_wikibase.git
 
