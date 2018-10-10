@@ -1,0 +1,100 @@
+CREATE	item	thing	the most generic type of item	entity, something
+equivalent class	http://www.wikidata.org/entity/Q17537576
+equivalent class	http://schema.org/Thing
+CREATE	item	action	an action performed by a direct agent and indirect participants upon a direct object	
+subclass of	thing
+equivalent class	http://www.wikidata.org/entity/Q4026292
+equivalent class	http://schema.org/Action
+CREATE	item	creative work	the most generic kind of creative work, including books, movies, photographs, software programs, etc.	
+subclass of	thing
+equivalent class	http://www.wikidata.org/entity/Q17537576
+equivalent class	http://schema.org/CreativeWork
+CREATE	item	book	a book	
+subclass of	creative work
+equivalent class	http://www.wikidata.org/entity/Q571
+equivalent class	http://schema.org/Book
+CREATE	item	article	an article, such as a news article or piece of investigative report. Newspapers and magazines have articles of many different types and this is intended to cover them all	
+subclass of	creative work
+equivalent class	http://www.wikidata.org/entity/Q191067
+equivalent class	http://schema.org/Article
+CREATE	item	map	a map	
+subclass of	creative work
+equivalent class	http://www.wikidata.org/entity/Q4006
+equivalent class	http://schema.org/Map
+CREATE	item	movie	a movie	
+subclass of	creative work
+equivalent class	http://www.wikidata.org/entity/Q11424
+equivalent class	http://schema.org/Movie
+CREATE	item	painting	a painting	
+subclass of	creative work
+equivalent class	http://www.wikidata.org/entity/Q3305213
+equivalent class	http://schema.org/Painting
+CREATE	item	photograph	a photograph	
+subclass of	creative work
+equivalent class	http://www.wikidata.org/entity/Q125191
+equivalent class	http://schema.org/Photograph
+CREATE	item	visual artwork	a work of art that is primarily visual in character	
+subclass of	creative work
+equivalent class	http://www.wikidata.org/entity/Q36649
+equivalent class	http://schema.org/VisualArtwork
+CREATE	item	event	an event happening at a certain time and location, such as a concert, lecture, or festival	
+subclass of	thing
+equivalent class	http://www.wikidata.org/entity/Q1190554
+equivalent class	http://schema.org/Event
+CREATE	item	literary event	literary event	
+subclass of	event
+equivalent class	http://schema.org/LiteraryEvent
+CREATE	item	publication event	a publication event corresponds indifferently to the event of publication for a Creative Work of any type e.g. a broadcast event, an on-demand event, a book/journal publication via a variety of delivery media.	
+subclass of	event
+equivalent class	http://schema.org/PublicationEvent
+CREATE	item	intangible	a utility class that serves as the umbrella for a number of 'intangible' things such as equivalent class	http://www.wikidata.org/entity/Quantities, structured values, etc.	
+subclass of	thing
+equivalent class	http://www.wikidata.org/entity/Q1518854
+equivalent class	http://schema.org/Intangible
+CREATE	item	organization	an organization such as a school, NGO, corporation, club, etc.	
+subclass of	thing
+equivalent class	http://www.wikidata.org/entity/Q43229
+equivalent class	http://schema.org/Organization
+CREATE	item	airline	an airline organization	
+subclass of	organization
+equivalent class	http://schema.org/Airline
+CREATE	item	corporation	a corporate organization	
+subclass of	organization
+equivalent class	http://schema.org/Corporation
+CREATE	item	educational organization	an educational organization	
+subclass of	organization
+equivalent class	http://schema.org/EducationalOrganization
+CREATE	item	government organization	a governmental organization	
+subclass of	organization
+equivalent class	http://schema.org/GovernmentOrganization
+CREATE	item	local business	a local business	
+subclass of	organization
+equivalent class	http://schema.org/LocalBusiness
+CREATE	item	medical organization	a medical organization	
+subclass of	organization
+equivalent class	http://schema.org/MedicalOrganization
+CREATE	item	NGO	a non-governmental organization	
+subclass of	organization
+equivalent class	http://schema.org/NGO
+CREATE	item	performing group	a performing group	
+subclass of	organization
+equivalent class	http://schema.org/PerformingGroup
+CREATE	item	sports organization	a sports organization	
+subclass of	organization
+equivalent class	http://schema.org/SportsOrganization
+CREATE	item	person	being that has certain capacities or attributes constituting personhood (avoid use with "instance of"; use "human" for human beings)	persons
+subclass of	thing
+equivalent class	http://www.wikidata.org/entity/Q215627
+equivalent class	http://schema.org/Person
+CREATE	item	human	common name of Homo sapiens, unique extant species of the genus Homo	human being, person, humankind, people, homosapien
+subclass of	person
+equivalent class	http://www.wikidata.org/entity/Q5
+equivalent class	http://schema.org/Person
+CREATE	item	place	entities that have a somewhat fixed, physical extension.	
+subclass of	thing	
+equivalent class	http://www.wikidata.org/entity/Q1496967
+equivalent class	http://schema.org/Place
+CREATE	item	product	Any offered product or service. For example: a pair of shoes; a concert ticket; the rental of a car; a haircut; or an episode of a TV show streamed online.	
+subclass of	thing
+equivalent class	http://www.wikidata.org/entity/Q2424752
+equivalent class	http://schema.org/Product

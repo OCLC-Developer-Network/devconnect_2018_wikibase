@@ -1,0 +1,22 @@
+CREATE	property	equivalent property	equivalent property in other ontologies (use in statements on properties, use property URI)	ontological equivalent, owl:equivalentProperty	http://wikiba.se/ontology#Url
+equivalent property	http://www.wikidata.org/prop/direct/P1628
+equivalent property	http://www.w3.org/2002/07/owl#equivalentProperty
+CREATE	property	external subproperty	all resources related by the property from external vocabularies are also related to this property	subproperty of external property, subproperty (external)	http://wikiba.se/ontology#Url
+equivalent property	http://www.wikidata.org/prop/direct/P2236
+CREATE	property	external superproperty	all resources related by this property are also related to that property from an external vocabulary	subproperty of (external), subproperty of external property	http://wikiba.se/ontology#Url
+equivalent property	http://www.wikidata.org/prop/direct/P2235
+equivalent property	https://www.w3.org/2000/01/rdf-schema#subPropertyOf
+external superproperty	https://www.w3.org/2009/08/skos-reference/skos.html#broadMatch
+CREATE	property	equivalent class	equivalent class in other ontologies (use property URI)	same kind of thing	http://wikiba.se/ontology#Url
+equivalent property	http://www.wikidata.org/prop/direct/P1709
+equivalent property	http://www.w3.org/2002/07/owl#equivalentClass
+equivalent property	http://www.w3.org/2004/02/skos/core#exactMatch
+CREATE	property	subclass of	all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with instance of	is also a	http://wikiba.se/ontology#WikibaseItem
+equivalent property	http://www.wikidata.org/prop/direct/P279
+external superproperty	http://www.w3.org/2000/01/rdf-schema#subClassOf
+CREATE	property	formatter URI (RDF resource)	formatter URL for RDF resource: URI template from which "$1" can be automatically replaced with the effective property value on items	RDF URL pattern	http://wikiba.se/ontology#String
+equivalent property	http://www.wikidata.org/prop/direct/P1921
+CREATE	property	Wikidata entity ID	identifier for an entity in Wikidata	Wikidata item ID, Wikidata property ID	http://wikiba.se/ontology#ExternalId
+formatter URI (RDF resource)	http://www.wikidata.org/entity/$1  
+CREATE	property	Schema.org ID	identifier for an entity in Schema.org	Schema ID	http://wikiba.se/ontology#ExternalId
+formatter URI (RDF resource)	http://schema.org/$1
