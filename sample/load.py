@@ -70,11 +70,6 @@ def get_target(value,datatype):
         try:
 
             if datatype == 'globe-coordinate':
-
-                precision = 0
-                if 'precision' in value:
-                       if not str(value['precision']) == "null" and not value['precision'] == None:
-                           precision = float(value['precision'])
                 try:
                     target = pywikibot.Coordinate(site=repo, lat=value['latitude'], lon=value['longitude'], precision=precision, globe='earth')
                 except Exception, e:
@@ -83,9 +78,37 @@ def get_target(value,datatype):
                     pass
 
             elif datatype == 'time':
+            
+                # the value should be a date formatted in these ways, to reflect the date's precision
+                # day = 1956-11-01
+                # month = 1956-11
+                # year = 1956
+                # decade = 1950s
+                # century = 1900s
+                precision = None # initialize the precision
+                value_list = value.split('-') # split the time value on '-'
+                date_str = value # initialize the date string
+                if len(value_list) == 3:
+                    precision = 11 # day precision
+                elif len(value_list) == 2:
+                    precision = 10 # month precision
+                    date_str += '-00'
+                else
+                    precision = 9 # year precision
+                    date_str += '-00-00'
+                if value.find('00s') >= 0:
+                    precision = 7 # century precision
+                elif value.find('0s') >= 0:
+                    precision = 8 # decade precision
+                
+                # remove "s" from the date string, if present
+                date_str = ''.join(date_str.split('s'))
+                
+                # put the date string into a UTC-ish format
+                date_str = '+'+date_str+'T00:00:00Z'
+
                 try:
-                    precision = int(value['precision'])
-                    target = pywikibot.WbTime.fromTimestr(value['time'], precision=precision, before=value['before'], after=value['after'], timezone=value['timezone'], calendarmodel=calendar_model[value['calendarmodel']], site=repo)
+                    target = pywikibot.WbTime.fromTimestr(date_str, precision=precision, before=0, after=0, timezone=0, calendarmodel='https://www.wikidata.org/wiki/Q1985727', site=repo)
                 except Exception, e:
                     msg = str(e).replace("\n"," ").replace("\r"," ")
                     print("WbTime ERROR IN "+entity_id+" FOR "+ds+": "+msg)

@@ -127,8 +127,6 @@ CREATE	property	day of week	day of the week on which this item occurs, applies t
 equivalent property	http://schema.org/dayOfWeek	Wikidata entity ID	P2894
 CREATE	property	dedicated to	person or organization to whom the subject was dedicated	dedication, dedicatee, tribute to	http://wikiba.se/ontology#WikibaseItem
 external subproperty	http://vocab.getty.edu/ontology#ulan2782_dedicated_to	Wikidata entity ID	P825
-CREATE	property	described at URL	item is described at the following URL	described in url, described in URL, info URL, URL described in, web page describing	http://wikiba.se/ontology#Url
-equivalent property	http://xmlns.com/foaf/0.1/page	Wikidata entity ID	P973
 CREATE	property	different from	item that is different from another item, but they are often confused	not, see also, confused with, different than, disambiguated from, distinct from, distinguished from, is different from, is not, isn't, mistakenly taken for, not same as, not the same as, not to be confused with	http://wikiba.se/ontology#WikibaseItem
 equivalent property	http://vocab.getty.edu/ontology#aat2100_distinguished_from	Wikidata entity ID	P1889
 equivalent property	http://vocab.getty.edu/ontology#tgn3001_distinguished_from	Wikidata entity ID	P1889

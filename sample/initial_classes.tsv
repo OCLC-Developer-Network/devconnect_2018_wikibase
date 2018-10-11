@@ -51,6 +51,9 @@ CREATE	item	intangible	a utility class that serves as the umbrella for a number 
 subclass of	thing
 equivalent class	http://www.wikidata.org/entity/Q1518854
 equivalent class	http://schema.org/Intangible
+CREATE	item	archive component	
+subclass of	intangible	an intangible type to be applied to any archive content, carrying with it a set of properties required to describe archival items and collections.	archival material
+equivalent class	http://archive.sdo-archive.appspot.com/ArchiveComponent
 CREATE	item	organization	an organization such as a school, NGO, corporation, club, etc.	
 subclass of	thing
 equivalent class	http://www.wikidata.org/entity/Q43229
@@ -70,6 +73,10 @@ equivalent class	http://schema.org/GovernmentOrganization
 CREATE	item	local business	a local business	
 subclass of	organization
 equivalent class	http://schema.org/LocalBusiness
+CREATE	item	archive	an organization which keeps and preserves archival material and potentially makes it accessible to the public.	archives
+subclass of	local business
+equivalent class	https://www.wikidata.org/wiki/Q166118
+equivalent class	http://archive.sdo-archive.appspot.com/Archive
 CREATE	item	medical organization	a medical organization	
 subclass of	organization
 equivalent class	http://schema.org/MedicalOrganization
@@ -98,3 +105,43 @@ CREATE	item	product	Any offered product or service. For example: a pair of shoes
 subclass of	thing
 equivalent class	http://www.wikidata.org/entity/Q2424752
 equivalent class	http://schema.org/Product
+CREATE	item	file format	formalized structure of information stored on a computer	file type
+equivalent class	https://www.wikidata.org/wiki/Q235557
+exact match	http://schema.org/fileFormat	Wikidata entity ID	Q235557
+CREATE	item	metadata standard	a standard for a metadata format	metadata format
+equivalent class	https://www.wikidata.org/wiki/Q1924747
+CREATE	item	Machine-Readable Cataloging	digital formats for library cataloguing	MARC, .marc, .mrc
+instance of	metadata standard	Wikidata entity ID	Q722609
+instance of	file format	Wikidata entity ID	Q722609
+equivalent class	https://www.wikidata.org/wiki/Q722609
+official website	https://www.loc.gov/marc/	Wikidata entity ID	Q722609
+described at URL	https://tools.ietf.org/html/rfc2220	Wikidata entity ID	Q722609
+file extension	marc	Wikidata entity ID	Q722609
+file extension	mrc	Wikidata entity ID	Q722609
+inception	1965	Wikidata entity ID	Q722609
+media type	https://www.iana.org/assignments/media-types/application/marc
+CREATE	item	Portable Document Format	family of file formats used to present documents	PDF, .pdf
+equivalent class	https://www.wikidata.org/wiki/Q42332
+instance of	file format	Wikidata entity ID	Q42332
+publication date	1963-06	Wikidata entity ID	Q42332
+official website	http://www.adobe.com/products/acrobat/adobepdf.html	Wikidata entity ID	Q42332
+media type	https://iana.org/assignments/media-types/application/pdf
+described at URL	https://www.sweetscape.com/010editor/repository/files/PDF.bt
+file extension	pdf
+CREATE	item	Encoded Archival Description	XML standard for encoding archival finding aids	EAD
+instance of	metadata standard	Wikidata entity ID	Q1340077
+instance of	file format	Wikidata entity ID	Q1340077
+equivalent class	https://www.wikidata.org/wiki/Q1340077
+official website	https://www.loc.gov/ead/	Wikidata entity ID	Q1340077
+CREATE	item	HyperText Markup Language	family of markup languages for displaying information viewable in a web browser	HTML
+instance of	file format	Wikidata entity ID	Q8811
+equivalent class	https://www.wikidata.org/wiki/Q8811
+official website	https://www.w3.org/html/	Wikidata entity ID	Q8811
+inception	1993	Wikidata entity ID	Q8811
+publication date	1993	Wikidata entity ID	Q8811
+media type	https://www.iana.org/assignments/media-types/text/html	Wikidata entity ID	Q8811
+file extension	html	Wikidata entity ID	Q8811
+file extension	htm	Wikidata entity ID	Q8811
+file extension	xhtml	Wikidata entity ID	Q8811
+file extension	xht	Wikidata entity ID	Q8811
+CREATE	item	finding aid	document containing detailed information about a specific collection of papers or records within an archive	collection guide

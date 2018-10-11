@@ -20,6 +20,9 @@ equivalent property	http://www.w3.org/2000/01/rdf-schema#subPropertyOf	Wikidata 
 CREATE	property	subclass of	all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with instance of	is also a	http://wikiba.se/ontology#WikibaseItem
 equivalent property	http://www.wikidata.org/prop/direct/P279
 external superproperty	http://www.w3.org/2000/01/rdf-schema#subClassOf	Wikidata entity ID	P279
+CREATE	property	exact match	used to link two concepts, indicating a high degree of confidence that the concepts can be used interchangeably	same as, sameas	http://wikiba.se/ontology#Url
+equivalent property	https://www.wikidata.org/wiki/Property:P2888
+equivalent property	http://www.w3.org/2004/02/skos/core#exactMatch	Wikidata entity ID	P2888
 CREATE	property	formatter URI (RDF resource)	formatter URL for RDF resource: URI template from which "$1" can be automatically replaced with the effective property value on items	RDF URL pattern	http://wikiba.se/ontology#String
 equivalent property	http://www.wikidata.org/prop/direct/P1921
 CREATE	property	Wikidata entity ID	identifier for an entity in Wikidata	Wikidata item ID, Wikidata property ID	http://wikiba.se/ontology#ExternalId
@@ -34,6 +37,19 @@ equivalent property	http://www.wikidata.org/prop/direct/P854
 equivalent property	http://schema.org/url	Wikidata entity ID	P854
 subproperty of	URL	Wikidata entity ID	P854
 CREATE	property	official website	URL of the official website of an item (current or former) [if the website changes, add an additional statement with preferred rank. Do not remove the former URL]	website, site, web site, home page, homepage, official homepage, official page, official site, official URL, official web site, URL (official), url official, web address, website (official), www site (official)	http://wikiba.se/ontology#Url
+equivalent property	https://www.wikidata.org/wiki/Property:P856
 equivalent property	http://schema.org/url	Wikidata entity ID	P856
 equivalent property	http://www.w3.org/2006/vcard/ns#url	Wikidata entity ID	P856
 equivalent property	http://xmlns.com/foaf/0.1/homepage	Wikidata entity ID	P856
+CREATE	property	described at URL	the URL that describes the resource	webpage describing	http://wikiba.se/ontology#Url
+equivalent property	https://www.wikidata.org/wiki/Property:P973
+equivalent property	http://xmlns.com/foaf/0.1/page	Wikidata entity ID	P973
+equivalent property	http://xmlns.com/foaf/spec/#term_page	Wikidata entity ID	P973
+subproperty of	URL	Wikidata entity ID	P973
+CREATE	property	file extension	identifier for a file format (e.g. txt for a text file) used as suffix to the file name, don't use dot at start	filename extension	http://wikiba.se/ontology#String
+equivalent property	https://www.wikidata.org/wiki/Property:P1195
+subproperty of	URL	Wikidata entity ID	P973
+CREATE	property	holding archive	archive that holds, keeps or maintains the archive component	archives at, fonds at, papers at, correspondence at
+equivalent property	http://archive.sdo-archive.appspot.com/holdingArchive
+equivalent proprety	https://www.wikidata.org/wiki/Property:P485
+CREATE	property	archive held	collection, fonds, or item held, kept or maintained by an archive. inverse of holding archive	
