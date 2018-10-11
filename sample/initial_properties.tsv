@@ -1,25 +1,39 @@
 CREATE	property	equivalent property	equivalent property in other ontologies (use in statements on properties, use property URI)	ontological equivalent, owl:equivalentProperty	http://wikiba.se/ontology#Url
 equivalent property	http://www.wikidata.org/prop/direct/P1628
-equivalent property	http://www.w3.org/2002/07/owl#equivalentProperty
+equivalent property	http://www.w3.org/2002/07/owl#equivalentProperty	Wikidata entity ID	P1628
 CREATE	property	external subproperty	all resources related by the property from external vocabularies are also related to this property	subproperty of external property, subproperty (external)	http://wikiba.se/ontology#Url
 equivalent property	http://www.wikidata.org/prop/direct/P2236
 CREATE	property	external superproperty	all resources related by this property are also related to that property from an external vocabulary	subproperty of (external), subproperty of external property	http://wikiba.se/ontology#Url
 equivalent property	http://www.wikidata.org/prop/direct/P2235
-equivalent property	https://www.w3.org/2000/01/rdf-schema#subPropertyOf
+equivalent property	https://www.w3.org/2000/01/rdf-schema#subPropertyOf	Wikidata entity ID	P2235
 external superproperty	https://www.w3.org/2009/08/skos-reference/skos.html#broadMatch
 CREATE	property	equivalent class	equivalent class in other ontologies (use property URI)	same kind of thing	http://wikiba.se/ontology#Url
 equivalent property	http://www.wikidata.org/prop/direct/P1709
-equivalent property	http://www.w3.org/2002/07/owl#equivalentClass
-equivalent property	http://www.w3.org/2004/02/skos/core#exactMatch
+equivalent property	http://www.w3.org/2002/07/owl#equivalentClass	Wikidata entity ID	P1709
+equivalent property	http://www.w3.org/2004/02/skos/core#exactMatch	Wikidata entity ID	P1709
 CREATE	property	instance of	that class of which this subject is a particular example and member (subject typically an individual member with a proper name label); different from 'subclass of'; using this property as a qualifier is deprecated—use subject has role or object has role instead	has class, is a, has type	http://wikiba.se/ontology#WikibaseItem
 equivalent property	http://www.wikidata.org/prop/direct/P31
-equivalent property	http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+equivalent property	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	Wikidata entity ID	P31
+CREATE	property	subproperty of	all resources related by this property are also related by that property	has parent property	http://wikiba.se/ontology#WikibaseProperty
+equivalent property	http://www.wikidata.org/prop/direct/P1647
+equivalent property	http://www.w3.org/2000/01/rdf-schema#subPropertyOf	Wikidata entity ID	P1647
 CREATE	property	subclass of	all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with instance of	is also a	http://wikiba.se/ontology#WikibaseItem
 equivalent property	http://www.wikidata.org/prop/direct/P279
-external superproperty	http://www.w3.org/2000/01/rdf-schema#subClassOf
+external superproperty	http://www.w3.org/2000/01/rdf-schema#subClassOf	Wikidata entity ID	P279
 CREATE	property	formatter URI (RDF resource)	formatter URL for RDF resource: URI template from which "$1" can be automatically replaced with the effective property value on items	RDF URL pattern	http://wikiba.se/ontology#String
 equivalent property	http://www.wikidata.org/prop/direct/P1921
 CREATE	property	Wikidata entity ID	identifier for an entity in Wikidata	Wikidata item ID, Wikidata property ID	http://wikiba.se/ontology#ExternalId
-formatter URI (RDF resource)	http://www.wikidata.org/entity/$1  
+formatter URI (RDF resource)	http://www.wikidata.org/entity/$1
 CREATE	property	Schema.org ID	identifier for an entity in Schema.org	Schema ID	http://wikiba.se/ontology#ExternalId
 formatter URI (RDF resource)	http://schema.org/$1
+CREATE	property	URL	location of a resource	uniform resource locator	http://wikiba.se/ontology#Url
+equivalent property	http://www.wikidata.org/prop/direct/P2699
+equivalent property	http://schema.org/url	Wikidata entity ID	P2699
+CREATE	property	reference URL	should be used for internet URLs as references.	website,url,Uniform Resource Locator,webref,URL,ref,ref URL,Source URL	http://wikiba.se/ontology#Url
+equivalent property	http://www.wikidata.org/prop/direct/P854
+equivalent property	http://schema.org/url	Wikidata entity ID	P854
+subproperty of	URL	Wikidata entity ID	P854
+CREATE	property	official website	URL of the official website of an item (current or former) [if the website changes, add an additional statement with preferred rank. Do not remove the former URL]	website, site, web site, home page, homepage, official homepage, official page, official site, official URL, official web site, URL (official), url official, web address, website (official), www site (official)	http://wikiba.se/ontology#Url
+equivalent property	http://schema.org/url	Wikidata entity ID	P856
+equivalent property	http://www.w3.org/2006/vcard/ns#url	Wikidata entity ID	P856
+equivalent property	http://xmlns.com/foaf/0.1/homepage	Wikidata entity ID	P856

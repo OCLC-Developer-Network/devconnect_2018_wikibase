@@ -44,8 +44,6 @@ CREATE	property	NAICS code	classification in the North American Industry Classif
 equivalent property	http://schema.org/naics	Wikidata entity ID	P3224
 CREATE	property	PO Box	Post Office box number, as part of an address	Post Office Box, Box number, P O Box, P. O. Box, P.O. Box	http://wikiba.se/ontology#String
 equivalent property	http://www.w3.org/2006/vcard/ns#post-office-box	Wikidata entity ID	P2918
-CREATE	property	URL	location of a resource	Uniform Resource Locator	http://wikiba.se/ontology#Url
-equivalent property	http://schema.org/url	Wikidata entity ID	P2699
 CREATE	property	appointed by	who appointed the person to the office, can be used as a qualifier		http://wikiba.se/ontology#WikibaseItem
 external subproperty	http://vocab.getty.edu/ontology#ulan1221_appointed_by	Wikidata entity ID	P748
 CREATE	property	aspect ratio	image width to height ratio of films, photographs, and other images	ratio, image aspect ratio	http://wikiba.se/ontology#WikibaseItem
@@ -298,10 +296,6 @@ CREATE	property	occupation	occupation of a person; see also "field of work" (Pro
 equivalent property	http://schema.org/hasOccupation	Wikidata entity ID	P106
 CREATE	property	officeholder	person who holds an office	incumbent	http://wikiba.se/ontology#WikibaseItem
 equivalent property	http://www.w3.org/ns/org#heldBy	Wikidata entity ID	P1308
-CREATE	property	official website	URL of the official website of an item (current or former) [if the website changes, add an additional statement with preferred rank. Do not remove the former URL]	website, site, web site, home page, homepage, official homepage, official page, official site, official URL, official web site, URL (official), url official, web address, website (official), www site (official)	http://wikiba.se/ontology#Url
-equivalent property	http://schema.org/url	Wikidata entity ID	P856
-equivalent property	http://www.w3.org/2006/vcard/ns#url	Wikidata entity ID	P856
-equivalent property	http://xmlns.com/foaf/0.1/homepage	Wikidata entity ID	P856
 CREATE	property	operating system	operating system (OS) on which a software works or the OS installed on hardware	OS	http://wikiba.se/ontology#WikibaseItem
 equivalent property	http://schema.org/operatingSystem	Wikidata entity ID	P306
 CREATE	property	organisation directed from the office or person		head of, organization directed from the office	http://wikiba.se/ontology#WikibaseItem
