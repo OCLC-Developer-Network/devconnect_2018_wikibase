@@ -105,10 +105,10 @@ def get_target(value,datatype):
                 date_str = ''.join(date_str.split('s'))
                 
                 # put the date string into a UTC-ish format
-                date_str = '+'+date_str+'T00:00:00Z'
+                date_str = '+0000000'+date_str+'T00:00:00Z'
 
                 try:
-                    target = pywikibot.WbTime.fromTimestr(date_str, precision=precision, before=0, after=0, timezone=0, calendarmodel='https://www.wikidata.org/wiki/Q1985727', site=repo)
+                    target = pywikibot.WbTime.fromTimestr(date_str, precision=precision, before=0, after=0, timezone=0, calendarmodel='http://www.wikidata.org/entity/Q1985727', site=repo)
                 except Exception, e:
                     msg = str(e).replace("\n"," ").replace("\r"," ")
                     print("WbTime ERROR IN "+entity_id+" FOR "+ds+": "+msg)
