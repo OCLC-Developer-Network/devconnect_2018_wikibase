@@ -188,18 +188,6 @@ if __name__ == "__main__":
     entity_dictionary = {}
     entity_dictionary['item']= {}
     entity_dictionary['property'] = {}
-    datatypes = {
-      "http://wikiba.se/ontology#ExternalId": "external-id",
-      "http://wikiba.se/ontology#GlobeCoordinate": "globe-coordinate",
-      "http://wikiba.se/ontology#Monolingualtext": "monolingualtext",
-      "http://wikiba.se/ontology#Quantity": "quantity",
-      "http://wikiba.se/ontology#String": "string",
-      "http://wikiba.se/ontology#Time": "time",
-      "http://wikiba.se/ontology#WikibaseItem": "wikibase-item",
-      "http://wikiba.se/ontology#WikibaseProperty": "wikibase-property",
-      "http://wikiba.se/ontology#CommonsMedia": "commonsMedia",
-      "http://wikiba.se/ontology#Url": "url"
-    }
 
     # set the wikibase site and login
     site = pywikibot.Site('en', 'devnetdemo')
@@ -292,8 +280,7 @@ if __name__ == "__main__":
                     
                     # if there is a datatype
                     if len(elements) == 6:
-                        if elements[5] in datatypes:
-                            fingerprint['datatype'] = datatypes[elements[5]]
+                        fingerprint['datatype'] = elements[5]
                         
                     
                     # set parameters for the pywikibot api call to add a new property entity
