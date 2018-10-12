@@ -316,7 +316,7 @@ if __name__ == "__main__":
                             obj['datatype'] = fingerprint['datatype']
                         entity_dictionary[entity_type][entity_label] = obj
                     
-                else:
+                elif len(elements) >=2:
                 
                     # the elements list represents a statement to be added to the last entity created
                     # including the property label in position 0 and the object value in position 1
