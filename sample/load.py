@@ -155,12 +155,12 @@ def get_target(value,datatype):
             elif datatype == 'wikibase-property':
                 # look up the property id using its label
                 if value in entity_dictionary['property']:
-                try:
-                    target = pywikibot.PropertyPage(repo, entity_dictionary['property'][value]['id'])
-                except Exception, e:
-                    msg = str(e).replace("\n"," ").replace("\r"," ")
-                    print("getTarget wikibase-property ERROR IN "+entity_id+" FOR "+str(value)+": "+msg)
-                    pass
+                    try:
+                        target = pywikibot.PropertyPage(repo, entity_dictionary['property'][value]['id'])
+                    except Exception, e:
+                        msg = str(e).replace("\n"," ").replace("\r"," ")
+                        print("getTarget wikibase-property ERROR IN "+entity_id+" FOR "+str(value)+": "+msg)
+                        pass
 
             elif datatype == "commonsMedia":
                 try:
