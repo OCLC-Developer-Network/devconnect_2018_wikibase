@@ -51,5 +51,5 @@ equivalent property	https://www.wikidata.org/wiki/Property:P1195
 subproperty of	URL	Wikidata entity ID	P973
 CREATE	property	holding archive	archive that holds, keeps or maintains the archive component	archives at, fonds at, papers at, correspondence at
 equivalent property	http://archive.sdo-archive.appspot.com/holdingArchive
-equivalent proprety	https://www.wikidata.org/wiki/Property:P485
+equivalent property	https://www.wikidata.org/wiki/Property:P485
 CREATE	property	archive held	collection, fonds, or item held, kept or maintained by an archive. inverse of holding archive	
