@@ -1,6 +1,6 @@
 # Using Wikibase as a platform for library linked data management and discovery
 
-OCLC Developer Network webinar, 16 October 2018
+OCLC DevConnect Online webinar, 16 October 2018
 
 This project includes sample data and a Python script used for a live demonstration of installing Wikibase and loading data with Pywikibot.  
 
