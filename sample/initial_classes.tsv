@@ -51,8 +51,8 @@ CREATE	item	intangible	a utility class that serves as the umbrella for a number 
 subclass of	thing
 equivalent class	http://www.wikidata.org/entity/Q1518854
 equivalent class	http://schema.org/Intangible
-CREATE	item	archive component	
-subclass of	intangible	an intangible type to be applied to any archive content, carrying with it a set of properties required to describe archival items and collections.	archival material
+CREATE	item	archive component	an intangible type to be applied to any archive content, carrying with it a set of properties required to describe archival items and collections.	archival material
+subclass of	intangible
 equivalent class	http://archive.sdo-archive.appspot.com/ArchiveComponent
 CREATE	item	organization	an organization such as a school, NGO, corporation, club, etc.	
 subclass of	thing
