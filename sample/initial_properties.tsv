@@ -49,7 +49,7 @@ subproperty of	URL	Wikidata entity ID	P973
 CREATE	property	file extension	identifier for a file format (e.g. txt for a text file) used as suffix to the file name, don't use dot at start	filename extension	http://wikiba.se/ontology#String
 equivalent property	https://www.wikidata.org/wiki/Property:P1195
 subproperty of	URL	Wikidata entity ID	P973
-CREATE	property	holding archive	archive that holds, keeps or maintains the archive component	archives at, fonds at, papers at, correspondence at
-equivalent property	http://archive.sdo-archive.appspot.com/holdingArchive
+CREATE	property	holding archive	archive that holds, keeps or maintains the archive component	archives at, fonds at, papers at, correspondence at	http://wikiba.se/ontology#WikibaseItem
+equivalent property	http://archive.sdo-archive.appspot.com/holdingArchive	http://wikiba.se/ontology#WikibaseItem
 equivalent property	https://www.wikidata.org/wiki/Property:P485
 CREATE	property	archive held	collection, fonds, or item held, kept or maintained by an archive. inverse of holding archive	
