@@ -199,9 +199,8 @@ if __name__ == "__main__":
     # set the path and tsv file names to process
     pathname = 'scripts/userscripts/'
     filenames = [
-        pathname+'initial_properties.tsv',
-        pathname+'domain_properties.tsv',
-        pathname+'initial_classes.tsv'
+        pathname+'properties.tsv',
+        pathname+'classes.tsv'
     ]
 
     # for each file name ...
