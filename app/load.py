@@ -200,7 +200,7 @@ if __name__ == "__main__":
     pathname = 'scripts/userscripts/'
     filenames = [
         pathname+'properties.tsv',
-        pathname+'classes.tsv'
+        pathname+'items.tsv'
     ]
 
     # for each file name ...
