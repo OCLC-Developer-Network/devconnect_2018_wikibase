@@ -151,153 +151,154 @@ instance of	country	Wikidata entity ID	Q30
 inception	1776-07-04	Wikidata entity ID	Q30
 CREATE	item	state of the United States	constituent political entity sharing sovereignty as the United States of America	US state
 country	United States of America	Wikidata entity ID	Q35657
-CREATE	Alabama	state of the United States	AL
+CREATE	item	Alabama	state of the United States	AL
 instance of	state of the united states	Wikidata entity ID	Q173
 inception	1819-12-14	Wikidata entity ID	Q173
-CREATE	Alaska	state of the United States	AK
+CREATE	item	Alaska	state of the United States	AK
 instance of	state of the united states	Wikidata entity ID	Q797
 inception	1959-01-03	Wikidata entity ID	Q797
-CREATE	Arizona	state of the United States	AZ
+CREATE	item	Arizona	state of the United States	AZ
 instance of	state of the united states	Wikidata entity ID	Q816
 inception	1912-02-14	Wikidata entity ID	Q816
-CREATE	Arkansas	state of the United States	AR
+CREATE	item	Arkansas	state of the United States	AR
 instance of	state of the united states	Wikidata entity ID	Q1612
 inception	1836-06-15	Wikidata entity ID	Q1612
-CREATE	California	state of the United States	CA
+CREATE	item	California	state of the United States	CA
 instance of	state of the united states	Wikidata entity ID	Q99
 inception	1850-09-09	Wikidata entity ID	Q99
-CREATE	Colorado	state of the United States	CO
+CREATE	item	Colorado	state of the United States	CO
 instance of	state of the united states	Wikidata entity ID	Q1261
 inception	1876-08-01	Wikidata entity ID	Q1261
-CREATE	Connecticut	state of the United States	CT
+CREATE	item	Connecticut	state of the United States	CT
 instance of	state of the united states	Wikidata entity ID	Q779
 inception	1788-01-09	Wikidata entity ID	Q779
-CREATE	Delaware	state of the United States	DE
+CREATE	item	Delaware	state of the United States	DE
 instance of	state of the united states	Wikidata entity ID	Q1393
 inception	1787-12-07	Wikidata entity ID	Q1393
-CREATE	Florida	state of the United States	FL
+CREATE	item	Florida	state of the United States	FL
 instance of	state of the united states	Wikidata entity ID	Q812
 inception	1845-03-03	Wikidata entity ID	Q812
-CREATE	Georgia	state of the United States	GA
+CREATE	item	Georgia	state of the United States	GA
 instance of	state of the united states	Wikidata entity ID	Q1428
 inception	1788-01-02	Wikidata entity ID	Q1428
-CREATE	Hawaii	state of the United States	HI
+CREATE	item	Hawaii	state of the United States	HI
 instance of	state of the united states	Wikidata entity ID	Q782
 inception	1959-08-21	Wikidata entity ID	Q782
-CREATE	Idaho	state of the United States	ID
+CREATE	item	Idaho	state of the United States	ID
 instance of	state of the united states	Wikidata entity ID	Q1221
 inception	1890-07-03	Wikidata entity ID	Q1221
-CREATE	Illinois	state of the United States	IL
+CREATE	item	Illinois	state of the United States	IL
 instance of	state of the united states	Wikidata entity ID	Q1204
 inception	1818-12-03	Wikidata entity ID	Q1204
-CREATE	Indiana	state of the United States	IN
+CREATE	item	Indiana	state of the United States	IN
 instance of	state of the united states	Wikidata entity ID	Q1415
 inception	1816-12-11	Wikidata entity ID	Q1415
-CREATE	Iowa	state of the United States	IA
+CREATE	item	Iowa	state of the United States	IA
 instance of	state of the united states	Wikidata entity ID	Q1546
 inception	1846-12-28	Wikidata entity ID	Q1546
-CREATE	Kansas	state of the United States	KS
+CREATE	item	Kansas	state of the United States	KS
 instance of	state of the united states	Wikidata entity ID	Q1558
 inception	1861-01-29	Wikidata entity ID	Q1558
-CREATE	Kentucky	state of the United States	KY
+CREATE	item	Kentucky	state of the United States	KY
 instance of	state of the united states	Wikidata entity ID	Q1603
 inception	1792-06-01	Wikidata entity ID	Q1603
-CREATE	Louisiana	state of the United States	LA
+CREATE	item	Louisiana	state of the United States	LA
 instance of	state of the united states	Wikidata entity ID	Q1588
 inception	1812-04-30	Wikidata entity ID	Q1588
-CREATE	Maine	state of the United States	ME
+CREATE	item	Maine	state of the United States	ME
 instance of	state of the united states	Wikidata entity ID	Q724
 inception	1820-03-15	Wikidata entity ID	Q724
-CREATE	Maryland	state of the United States	MD
+CREATE	item	Maryland	state of the United States	MD
 instance of	state of the united states	Wikidata entity ID	Q1391
 inception	1788-04-28	Wikidata entity ID	Q1391
-CREATE	Massachusetts	state of the United States	MA
+CREATE	item	Massachusetts	state of the United States	MA
 instance of	state of the united states	Wikidata entity ID	Q771
 inception	1788-02-06	Wikidata entity ID	Q771
-CREATE	Michigan	state of the United States	MI
+CREATE	item	Michigan	state of the United States	MI
 instance of	state of the united states	Wikidata entity ID	Q1166
 inception	1837-01-26	Wikidata entity ID	Q1166
-CREATE	Minnesota	state of the United States	MN
+CREATE	item	Minnesota	state of the United States	MN
 instance of	state of the united states	Wikidata entity ID	Q1527
 inception	1858-05-11	Wikidata entity ID	Q1527
-CREATE	Mississippi	state of the United States	MS
+CREATE	item	Mississippi	state of the United States	MS
 instance of	state of the united states	Wikidata entity ID	Q1494
 inception	1817-12-10	Wikidata entity ID	Q1494
-CREATE	Missouri	state of the United States	MO
+CREATE	item	Missouri	state of the United States	MO
 instance of	state of the united states	Wikidata entity ID	Q1581
 inception	1821-08-10	Wikidata entity ID	Q1581
-CREATE	Montana	state of the United States	MT
+CREATE	item	Montana	state of the United States	MT
 instance of	state of the united states	Wikidata entity ID	Q1212
 inception	1889-11-08	Wikidata entity ID	Q1212
-CREATE	Nebraska	state of the United States	NE
+CREATE	item	Nebraska	state of the United States	NE
 instance of	state of the united states	Wikidata entity ID	Q1553
 inception	1867-03-01	Wikidata entity ID	Q1553
-CREATE	Nevada	state of the United States	NV
+CREATE	item	Nevada	state of the United States	NV
 instance of	state of the united states	Wikidata entity ID	Q1227
 inception	1864-10-31	Wikidata entity ID	Q1227
-CREATE	New Hampshire	state of the United States	NH
+CREATE	item	New Hampshire	state of the United States	NH
 instance of	state of the united states	Wikidata entity ID	Q759
 inception	1788-06-21	Wikidata entity ID	Q759
-CREATE	New Jersey	state of the United States	NJ
+CREATE	item	New Jersey	state of the United States	NJ
 instance of	state of the united states	Wikidata entity ID	Q1408
 inception	1787-12-18	Wikidata entity ID	Q1408
-CREATE	New Mexico	state of the United States	NM
+CREATE	item	New Mexico	state of the United States	NM
 instance of	state of the united states	Wikidata entity ID	Q1522
 inception	1912-01-06	Wikidata entity ID	Q1522
-CREATE	New York	state of the United States	NY
+CREATE	item	New York	state of the United States	NY
 instance of	state of the united states	Wikidata entity ID	Q1384
 inception	1788-07-26	Wikidata entity ID	Q1384
-CREATE	North Carolina	state of the United States	NC
+CREATE	item	North Carolina	state of the United States	NC
 instance of	state of the united states	Wikidata entity ID	Q1454
 inception	1789-11-21	Wikidata entity ID	Q1454
-CREATE	North Dakota	state of the United States	ND
+CREATE	item	North Dakota	state of the United States	ND
 instance of	state of the united states	Wikidata entity ID	Q1207
 inception	1889-11-02	Wikidata entity ID	Q1207
-CREATE	Ohio	state of the United States	OH
+CREATE	item	Ohio	state of the United States	OH
 instance of	state of the united states	Wikidata entity ID	Q1397
 inception	1803-03-01	Wikidata entity ID	Q1397
-CREATE	Oklahoma	state of the United States	OK
+CREATE	item	Oklahoma	state of the United States	OK
 instance of	state of the united states	Wikidata entity ID	Q1649
 inception	1907-11-16	Wikidata entity ID	Q1649
-CREATE	Oregon	state of the United States	OR
+CREATE	item	Oregon	state of the United States	OR
 instance of	state of the united states	Wikidata entity ID	Q824
 inception	1859-02-14	Wikidata entity ID	Q824
-CREATE	Pennsylvania	state of the United States	PA
+CREATE	item	Pennsylvania	state of the United States	PA
 instance of	state of the united states	Wikidata entity ID	Q1400
 inception	1787-12-12	Wikidata entity ID	Q1400
-CREATE	Rhode Island	state of the United States	RI
+CREATE	item	Rhode Island	state of the United States	RI
 instance of	state of the united states	Wikidata entity ID	Q1387
 inception	1790-05-29	Wikidata entity ID	Q1387
-CREATE	South Carolina	state of the United States	SC
+CREATE	item	South Carolina	state of the United States	SC
 instance of	state of the united states	Wikidata entity ID	Q1456
 inception	1788-05-23	Wikidata entity ID	Q1456
-CREATE	South Dakota	state of the United States	SD
+CREATE	item	South Dakota	state of the United States	SD
 instance of	state of the united states	Wikidata entity ID	Q1211
 inception	1889-11-02	Wikidata entity ID	Q1211
-CREATE	Tennessee	state of the United States	TN
+CREATE	item	Tennessee	state of the United States	TN
 instance of	state of the united states	Wikidata entity ID	Q1509
 inception	1796-06-01	Wikidata entity ID	Q1509
-CREATE	Texas	state of the United States	TX
+CREATE	item	Texas	state of the United States	TX
 instance of	state of the united states	Wikidata entity ID	Q1439
 inception	1845-12-29	Wikidata entity ID	Q1439
-CREATE	Utah	state of the United States	UT
+CREATE	item	Utah	state of the United States	UT
 instance of	state of the united states	Wikidata entity ID	Q829
 inception	1896-01-04	Wikidata entity ID	Q829
-CREATE	Vermont	state of the United States	VT
+CREATE	item	Vermont	state of the United States	VT
 instance of	state of the united states	Wikidata entity ID	Q16551
 inception	1791-03-04	Wikidata entity ID	Q16551
-CREATE	Virginia	state of the United States	VA
+CREATE	item	Virginia	state of the United States	VA
 instance of	state of the united states	Wikidata entity ID	Q1370
 inception	1788-06-25	Wikidata entity ID	Q1370
-CREATE	Washington	state of the United States	WA
+CREATE	item	Washington	state of the United States	WA
 instance of	state of the united states	Wikidata entity ID	Q1223
 inception	1889-11-11	Wikidata entity ID	Q1223
-CREATE	West Virginia	state of the United States	WV
+CREATE	item	West Virginia	state of the United States	WV
 instance of	state of the united states	Wikidata entity ID	Q1371
 inception	1863-06-20	Wikidata entity ID	Q1371
-CREATE	Wisconsin	state of the United States	WI
+CREATE	item	Wisconsin	state of the United States	WI
 instance of	state of the united states	Wikidata entity ID	Q1537
 inception	1848-05-29	Wikidata entity ID	Q1537
-CREATE	Wyoming	state of the United States	WY
+CREATE	item	Wyoming	state of the United States	WY
 instance of	state of the united states	Wikidata entity ID	Q1214
 inception	1890-07-10	Wikidata entity ID	Q1214
+
