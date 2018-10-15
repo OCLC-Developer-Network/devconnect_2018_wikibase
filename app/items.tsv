@@ -494,7 +494,6 @@ name	University of California, Riverside - Water Resources Collections and Archi
 located at street address	 
 contact information website	http://library.ucr.edu/wrca/
 OCLC institution registry ID	67822
-coordinate location	,,earth
 postal code	92517
 CREATE	item	University of California, Riverside - Special Collections and University Archives	an institution in California	
 instance of	place
@@ -560,7 +559,6 @@ name	San Francisco Theological Seminary,en
 located at street address	 
 contact information website	http://sfts.edu/students/libraries/
 OCLC institution registry ID	392
-coordinate location	,,earth
 postal code	94960
 CREATE	item	Sutter's Fort State Historic Park	an institution in California	
 instance of	place
@@ -676,15 +674,14 @@ OCLC institution registry ID	5689
 OCLC holdings symbol	RQE
 coordinate location	37.8757515,-122.243408,earth
 postal code	947206000
-CREATE	item	University of California, Berkeley - East Asian Library	an institution in California	
+CREATE	item	University of California, Berkeley – East Asian Library	an institution in California	
 instance of	place
 instance of	archive
 ArchiveGrid contributor ID	144
 located in the administrative territorial entity	California
-name	University of California, Berkeley - East Asian Library,en
+name	University of California, Berkeley – East Asian Library,en
 located at street address	 
 contact information website	http://www.lib.berkeley.edu/EAL/about/hours.html
-coordinate location	,,earth
 postal code	947206000
 CREATE	item	University of California, Berkeley - School of Law Library	an institution in California	
 instance of	place
@@ -793,15 +790,14 @@ OCLC institution registry ID	8476
 OCLC holdings symbol	JQD
 coordinate location	33.83235,-117.907039,earth
 postal code	92805
-CREATE	item	University of California, Berkeley - Music Library	an institution in California	
+CREATE	item	University of California, Berkeley – Music Library	an institution in California	
 instance of	place
 instance of	archive
 ArchiveGrid contributor ID	175
 located in the administrative territorial entity	California
-name	University of California, Berkeley - Music Library,en
+name	University of California, Berkeley – Music Library,en
 located at street address	 
 contact information website	http://www.lib.berkeley.edu/MUSI/location.html
-coordinate location	,,earth
 postal code	94720
 CREATE	item	University of California, Los Angeles - Charles E. Young Research Library	an institution in California	
 instance of	place
@@ -908,7 +904,6 @@ located at street address
 contact information website	http://www.co.yuba.ca.us/Departments/Library/
 OCLC institution registry ID	8623
 OCLC holdings symbol	JTS
-coordinate location	,,earth
 postal code	95901
 CREATE	item	California State Library - Sutro Library	an institution in California	
 instance of	place
@@ -1329,16 +1324,15 @@ OCLC institution registry ID	5667
 OCLC holdings symbol	U$C
 coordinate location	34.220208,-118.997287,earth
 postal code	93012
-CREATE	item	Hebrew Union College - Jewish Institute of Religion - Frances-Henry Library	an institution in California	
+CREATE	item	Hebrew Union College – Jewish Institute of Religion – Frances-Henry Library	an institution in California	
 instance of	place
 instance of	archive
 ArchiveGrid contributor ID	446
 located in the administrative territorial entity	California
-name	Hebrew Union College - Jewish Institute of Religion - Frances-Henry Library,en
+name	Hebrew Union College – Jewish Institute of Religion – Frances-Henry Library,en
 located at street address	 
 contact information website	http://www.usc.edu/dept/huc-la/
 OCLC institution registry ID	88919
-coordinate location	,,earth
 postal code	900073796
 CREATE	item	Glendale Public Library - Special Collections Room	an institution in California	
 instance of	place
@@ -1373,7 +1367,6 @@ name	Stanford University Library,en
 located at street address	 
 contact information website	http://www-sul.stanford.edu/libraries_collections/hours_locations.html
 OCLC institution registry ID	3227
-coordinate location	,,earth
 postal code	94305
 CREATE	item	Mission Viejo Library	an institution in California	
 instance of	place
@@ -1944,7 +1937,6 @@ located in the administrative territorial entity	California
 name	OCLC Test Archive,en
 located at street address	 
 contact information website	http://www.oclc.org/research/about/default.htm
-coordinate location	,,earth
 postal code	94404
 CREATE	item	Jet Propulsion Laboratory Library and Archives	an institution in California	
 instance of	place
@@ -1970,16 +1962,15 @@ OCLC institution registry ID	52130
 OCLC holdings symbol	JSC
 coordinate location	32.8443,-117.271,earth
 postal code	92038
-CREATE	item	Stanford University - Martin Luther King Jr., Papers Project	an institution in California	
+CREATE	item	Stanford University – Martin Luther King Jr., Papers Project	an institution in California	
 instance of	place
 instance of	archive
 ArchiveGrid contributor ID	67
 located in the administrative territorial entity	California
-name	Stanford University - Martin Luther King Jr., Papers Project,en
+name	Stanford University – Martin Luther King Jr., Papers Project,en
 located at street address	 
 contact information website	http://www.stanford.edu/group/King/mlkpapers/
 OCLC institution registry ID	104404
-coordinate location	,,earth
 postal code	943054146
 CREATE	item	Chapman University - Frank Mt. Pleasant Library of Special Collections and Archives	an institution in California	
 instance of	place
@@ -2228,7 +2219,6 @@ located in the administrative territorial entity	California
 name	Yolo County Archives,en
 located at street address	 
 contact information website	http://www.yolocounty.org/index.aspx?page=1272
-coordinate location	,,earth
 postal code	95695
 CREATE	item	Point Loma Nazarene University - Ryan Library	an institution in California	
 instance of	place
@@ -2484,7 +2474,6 @@ located at street address
 contact information website	http://www.cinema.ucla.edu/education/research-archive
 OCLC institution registry ID	104511
 OCLC holdings symbol	UCFTA
-coordinate location	,,earth
 postal code	90038
 CREATE	item	Sacramento County Public Law Library	an institution in California	
 instance of	place
