@@ -676,12 +676,12 @@ OCLC institution registry ID	5689
 OCLC holdings symbol	RQE
 coordinate location	37.8757515,-122.243408,earth
 postal code	947206000
-CREATE	item	University of California, Berkeley – East Asian Library	an institution in California	
+CREATE	item	University of California, Berkeley - East Asian Library	an institution in California	
 instance of	place
 instance of	archive
 ArchiveGrid contributor ID	144
 located in the administrative territorial entity	California
-name	University of California, Berkeley – East Asian Library,en
+name	University of California, Berkeley - East Asian Library,en
 located at street address	 
 contact information website	http://www.lib.berkeley.edu/EAL/about/hours.html
 coordinate location	,,earth
@@ -793,12 +793,12 @@ OCLC institution registry ID	8476
 OCLC holdings symbol	JQD
 coordinate location	33.83235,-117.907039,earth
 postal code	92805
-CREATE	item	University of California, Berkeley – Music Library	an institution in California	
+CREATE	item	University of California, Berkeley - Music Library	an institution in California	
 instance of	place
 instance of	archive
 ArchiveGrid contributor ID	175
 located in the administrative territorial entity	California
-name	University of California, Berkeley – Music Library,en
+name	University of California, Berkeley - Music Library,en
 located at street address	 
 contact information website	http://www.lib.berkeley.edu/MUSI/location.html
 coordinate location	,,earth
@@ -1329,12 +1329,12 @@ OCLC institution registry ID	5667
 OCLC holdings symbol	U$C
 coordinate location	34.220208,-118.997287,earth
 postal code	93012
-CREATE	item	Hebrew Union College – Jewish Institute of Religion – Frances-Henry Library	an institution in California	
+CREATE	item	Hebrew Union College - Jewish Institute of Religion - Frances-Henry Library	an institution in California	
 instance of	place
 instance of	archive
 ArchiveGrid contributor ID	446
 located in the administrative territorial entity	California
-name	Hebrew Union College – Jewish Institute of Religion – Frances-Henry Library,en
+name	Hebrew Union College - Jewish Institute of Religion - Frances-Henry Library,en
 located at street address	 
 contact information website	http://www.usc.edu/dept/huc-la/
 OCLC institution registry ID	88919
@@ -1981,12 +1981,12 @@ OCLC institution registry ID	52130
 OCLC holdings symbol	JSC
 coordinate location	32.8443,-117.271,earth
 postal code	92038
-CREATE	item	Stanford University – Martin Luther King Jr., Papers Project	an institution in California	
+CREATE	item	Stanford University - Martin Luther King Jr., Papers Project	an institution in California	
 instance of	place
 instance of	archive
 ArchiveGrid contributor ID	67
 located in the administrative territorial entity	California
-name	Stanford University – Martin Luther King Jr., Papers Project,en
+name	Stanford University - Martin Luther King Jr., Papers Project,en
 located at street address	 
 contact information website	http://www.stanford.edu/group/King/mlkpapers/
 OCLC institution registry ID	104404
