@@ -70,6 +70,10 @@ def get_target(value,datatype):
         try:
 
             if datatype == 'globe-coordinate':
+                precision = 0
+                # expect the value to be a comma-separated string with the latitude (in position 0)  and longitude (in position 1)
+                # e.g., "37.43137,-122.168924"
+                arr = value.split(",")
                 try:
                     target = pywikibot.Coordinate(site=repo, lat=value['latitude'], lon=value['longitude'], precision=precision, globe='earth')
                 except Exception, e:
