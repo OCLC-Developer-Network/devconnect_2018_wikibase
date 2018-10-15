@@ -357,7 +357,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	100
 located in the administrative territorial entity	California
-name	San Francisco Maritime National Historical Park
+name	San Francisco Maritime National Historical Park,en
 located at street address	2 Marina Blvd., Bldg. E, 3rd floor 
 contact information website	http://www.nps.gov/safr/planyourvisit/index.htm
 OCLC institution registry ID	85575
@@ -369,7 +369,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10124
 located in the administrative territorial entity	California
-name	Siskiyou County Museum
+name	Siskiyou County Museum,en
 located at street address	910 S Main St 
 contact information website	http://www.siskiyoucountyhistoricalsociety.org/research-center-requests
 OCLC institution registry ID	62361
@@ -381,7 +381,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	101
 located in the administrative territorial entity	California
-name	Museum of Performance and Design
+name	Museum of Performance and Design,en
 located at street address	401 Van Ness Ave 4th Flr 
 contact information website	http://www.mpdsf.org/6.html
 OCLC institution registry ID	63217
@@ -393,7 +393,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10271
 located in the administrative territorial entity	California
-name	Center for the Study of Political Graphics
+name	Center for the Study of Political Graphics,en
 located at street address	 
 contact information website	http://www.politicalgraphics.org/
 coordinate location	34.0108596,-118.4150728
@@ -403,7 +403,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10274
 located in the administrative territorial entity	California
-name	University of California, Berkeley - Museum of Vertebrate Zoology
+name	University of California, Berkeley - Museum of Vertebrate Zoology,en
 located at street address	 
 contact information website	http://mvz.berkeley.edu/
 coordinate location	37.8733958,-122.2657171
@@ -413,7 +413,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	102
 located in the administrative territorial entity	California
-name	San Francisco Public Library
+name	San Francisco Public Library,en
 located at street address	100 Larkin Street 
 contact information website	http://sfpl.org/
 OCLC institution registry ID	8579
@@ -425,7 +425,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10361
 located in the administrative territorial entity	California
-name	San Diego Air and Space Museum Library and Archives
+name	San Diego Air and Space Museum Library and Archives,en
 located at street address	 
 contact information website	http://www.sandiegoairandspace.org/research/
 coordinate location	32.7268185,-117.1537806
@@ -435,7 +435,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10381
 located in the administrative territorial entity	California
-name	Academy of Motion Picture Arts and Sciences - Margaret Herrick Library
+name	Academy of Motion Picture Arts and Sciences - Margaret Herrick Library,en
 located at street address	333 S La Cienega Blvd 
 contact information website	http://www.oscars.org/library
 OCLC institution registry ID	85113
@@ -446,7 +446,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10385
 located in the administrative territorial entity	California
-name	J. Craig Venter Institute Archives
+name	J. Craig Venter Institute Archives,en
 located at street address	 
 contact information website	http://www.jcvi.org/cms/home/
 coordinate location	32.8703694,-117.2434775
@@ -456,7 +456,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	103
 located in the administrative territorial entity	California
-name	Santa Clara University
+name	Santa Clara University,en
 located at street address	500 El Camino Real 
 contact information website	http://www.scu.edu/archives/about/contact.cfm
 OCLC institution registry ID	404
@@ -468,7 +468,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10419
 located in the administrative territorial entity	California
-name	Charles M. Schulz Museum and Research Center
+name	Charles M. Schulz Museum and Research Center,en
 located at street address	 
 contact information website	http://schulzmuseum.org/explore/
 coordinate location	38.4603572,-122.7359502
@@ -478,7 +478,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	104
 located in the administrative territorial entity	California
-name	Shasta County Library
+name	Shasta County Library,en
 located at street address	1100 Parkview Ave 
 contact information website	http://www.shastalibraries.org/
 OCLC institution registry ID	52164
@@ -490,7 +490,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10568
 located in the administrative territorial entity	California
-name	University of California, Riverside - Water Resources Collections and Archives
+name	University of California, Riverside - Water Resources Collections and Archives,en
 located at street address	 
 contact information website	http://library.ucr.edu/wrca/
 OCLC institution registry ID	67822
@@ -501,7 +501,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10573
 located in the administrative territorial entity	California
-name	University of California, Riverside - Special Collections and University Archives
+name	University of California, Riverside - Special Collections and University Archives,en
 located at street address	PO Box 5900 
 contact information website	http://library.ucr.edu/?view=collections/spcol
 OCLC institution registry ID	91118
@@ -512,7 +512,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10671
 located in the administrative territorial entity	California
-name	Los Angeles County Museum of Art
+name	Los Angeles County Museum of Art,en
 located at street address	5905 Wilshire Blvd 
 contact information website	http://www.lacma.org/libraries-research-intro
 OCLC institution registry ID	42197
@@ -524,7 +524,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10749
 located in the administrative territorial entity	California
-name	Mojave Desert Archives
+name	Mojave Desert Archives,en
 located at street address	Po Box 7 
 contact information website	http://www.mdhca.org/cultural-center/mojave-desert-archives
 OCLC institution registry ID	44851
@@ -536,7 +536,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10754
 located in the administrative territorial entity	California
-name	San Diego City Clerk's Archives
+name	San Diego City Clerk's Archives,en
 located at street address	 
 contact information website	https://www.sandiego.gov/city-clerk/inforecords/archive
 coordinate location	32.7169145,-117.162969
@@ -546,7 +546,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10774
 located in the administrative territorial entity	California
-name	Archive of American Television
+name	Archive of American Television,en
 located at street address	 
 contact information website	http://www.emmytvlegends.org/about-the-archive
 coordinate location	34.1651654,-118.3747585
@@ -556,7 +556,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10917
 located in the administrative territorial entity	California
-name	San Francisco Theological Seminary
+name	San Francisco Theological Seminary,en
 located at street address	 
 contact information website	http://sfts.edu/students/libraries/
 OCLC institution registry ID	392
@@ -567,7 +567,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10929
 located in the administrative territorial entity	California
-name	Sutter's Fort State Historic Park
+name	Sutter's Fort State Historic Park,en
 contact information website	https://www.suttersfort.org/
 coordinate location	38.57230620000001,-121.4711749
 postal code	95816
@@ -576,7 +576,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	10937
 located in the administrative territorial entity	California
-name	Go For Broke National Education Center
+name	Go For Broke National Education Center,en
 contact information website	http://www.goforbroke.org/
 coordinate location	34.0494904,-118.2396105
 postal code	90012
@@ -585,7 +585,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	111
 located in the administrative territorial entity	California
-name	Sonoma State University - Schulz Library
+name	Sonoma State University - Schulz Library,en
 located at street address	1801 East Cotati Avenue 
 contact information website	http://library.sonoma.edu/regional/
 OCLC institution registry ID	420
@@ -597,7 +597,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	116
 located in the administrative territorial entity	California
-name	Stanford University 
+name	Stanford University ,en
 located at street address	 
 contact information website	http://library.stanford.edu/spc/
 OCLC institution registry ID	104405
@@ -609,7 +609,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	117
 located in the administrative territorial entity	California
-name	Stanford University - Hoover Institution Library and Archives
+name	Stanford University - Hoover Institution Library and Archives,en
 located at street address	Hoover Tower, 550 Serra Mall 
 contact information website	http://www.hoover.org/library-archives/using-the-archives
 OCLC institution registry ID	91156
@@ -621,7 +621,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	122
 located in the administrative territorial entity	California
-name	Saint Mary's College - Saint Albert Hall
+name	Saint Mary's College - Saint Albert Hall,en
 located at street address	1928 St. Mary's Road 
 contact information website	http://library.stmarys-ca.edu/
 OCLC institution registry ID	4678
@@ -633,7 +633,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	135
 located in the administrative territorial entity	California
-name	Orange Public Library
+name	Orange Public Library,en
 located at street address	407 East Chapman Avenue 
 contact information website	http://www.cityoforange.org/localhistory/
 OCLC institution registry ID	8551
@@ -645,7 +645,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	136
 located in the administrative territorial entity	California
-name	Pomona Public Library
+name	Pomona Public Library,en
 located at street address	625 S Garey Ave PO Box 2271
 contact information website	http://www.youseemore.com/pomona/
 OCLC institution registry ID	8563
@@ -657,7 +657,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	138
 located in the administrative territorial entity	California
-name	San Diego History Center
+name	San Diego History Center,en
 located at street address	Research Archives PO Box 81825
 contact information website	https://www.sandiegohistory.org/library_programs/
 OCLC institution registry ID	62225
@@ -669,7 +669,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	143
 located in the administrative territorial entity	California
-name	University of California, Berkeley - Bancroft Library
+name	University of California, Berkeley - Bancroft Library,en
 located at street address	The UC Berkeley Library 255 Doe Annex
 contact information website	http://www.lib.berkeley.edu/libraries/bancroft-library
 OCLC institution registry ID	5689
@@ -681,7 +681,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	144
 located in the administrative territorial entity	California
-name	University of California, Berkeley – East Asian Library
+name	University of California, Berkeley – East Asian Library,en
 located at street address	 
 contact information website	http://www.lib.berkeley.edu/EAL/about/hours.html
 coordinate location	,
@@ -691,7 +691,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	145
 located in the administrative territorial entity	California
-name	University of California, Berkeley - School of Law Library
+name	University of California, Berkeley - School of Law Library,en
 located at street address	Boalt Hall 
 contact information website	http://www.law.berkeley.edu/library.htm
 OCLC institution registry ID	4685
@@ -703,7 +703,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	146
 located in the administrative territorial entity	California
-name	University of California, Davis - Shields Library
+name	University of California, Davis - Shields Library,en
 located at street address	100 NW Quad 
 contact information website	http://www.lib.ucdavis.edu/dept/specol/
 OCLC institution registry ID	5697
@@ -715,7 +715,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	147
 located in the administrative territorial entity	California
-name	University of California, Riverside
+name	University of California, Riverside,en
 located at street address	Ill - Rivera Library / University of California 3401 Watkins Drive
 contact information website	http://library.ucr.edu/
 OCLC institution registry ID	208
@@ -727,7 +727,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	148
 located in the administrative territorial entity	California
-name	University of California, San Diego
+name	University of California, San Diego,en
 located at street address	9500 Gilman Drive, Dept. 0175G 
 contact information website	http://libraries.ucsd.edu/
 OCLC institution registry ID	30059
@@ -739,7 +739,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	149
 located in the administrative territorial entity	California
-name	University of California, San Francisco - Archives and Special Collections
+name	University of California, San Francisco - Archives and Special Collections,en
 located at street address	Library &amp; CKM 530 Parnassus Avenue
 contact information website	https://www.library.ucsf.edu/archives/
 OCLC institution registry ID	210
@@ -751,7 +751,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	150
 located in the administrative territorial entity	California
-name	University of California, Santa Barbara - Davidson Library
+name	University of California, Santa Barbara - Davidson Library,en
 located at street address	UCSB Library 525 UCEN Road
 contact information website	http://www.library.ucsb.edu/special-collections/collections
 OCLC institution registry ID	211
@@ -763,7 +763,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	151
 located in the administrative territorial entity	California
-name	University of California, Santa Cruz
+name	University of California, Santa Cruz,en
 located at street address	University of California, Santa Cruz University Library, 1156 High St
 contact information website	http://library.ucsc.edu/speccoll/
 OCLC institution registry ID	4688
@@ -775,7 +775,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	152
 located in the administrative territorial entity	California
-name	University of California, Irvine - Special Collections
+name	University of California, Irvine - Special Collections,en
 located at street address	Univ of California Irvine 
 contact information website	http://special.lib.uci.edu/
 OCLC institution registry ID	5656
@@ -786,7 +786,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	159
 located in the administrative territorial entity	California
-name	Anaheim Public Library - Anaheim Heritage Center
+name	Anaheim Public Library - Anaheim Heritage Center,en
 located at street address	500 W Broadway 
 contact information website	http://www.anaheim.net/765/Anaheim-Heritage-Center
 OCLC institution registry ID	8476
@@ -798,7 +798,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	175
 located in the administrative territorial entity	California
-name	University of California, Berkeley – Music Library
+name	University of California, Berkeley – Music Library,en
 located at street address	 
 contact information website	http://www.lib.berkeley.edu/MUSI/location.html
 coordinate location	,
@@ -808,7 +808,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	17
 located in the administrative territorial entity	California
-name	University of California, Los Angeles - Charles E. Young Research Library
+name	University of California, Los Angeles - Charles E. Young Research Library,en
 located at street address	University Res Libr 11334 PO Box 951575
 contact information website	http://www.library.ucla.edu/libraries/researchlibrary/research-library-charles-e-young
 OCLC institution registry ID	207
@@ -820,7 +820,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	180
 located in the administrative territorial entity	California
-name	Book Club of California
+name	Book Club of California,en
 located at street address	312 Sutter St Ste 510 
 contact information website	http://www.bccbooks.org/welcome/contact-us/
 OCLC institution registry ID	7459
@@ -832,7 +832,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	181
 located in the administrative territorial entity	California
-name	California State Archives
+name	California State Archives,en
 located at street address	1020 O Street 
 contact information website	http://www.sos.ca.gov/archives/
 OCLC institution registry ID	91372
@@ -844,7 +844,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	188
 located in the administrative territorial entity	California
-name	Silicon Valley Information Center
+name	Silicon Valley Information Center,en
 located at street address	 
 contact information website	http://www.sjpl.org/caroom
 OCLC institution registry ID	6576
@@ -856,7 +856,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	19
 located in the administrative territorial entity	California
-name	University of the Pacific - William Knox Holt Memorial Library
+name	University of the Pacific - William Knox Holt Memorial Library,en
 located at street address	3601 Pacific Avenue 
 contact information website	http://library.pacific.edu/ha/
 OCLC institution registry ID	360
@@ -868,7 +868,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	213
 located in the administrative territorial entity	California
-name	Holocaust Center of Northern California Archives
+name	Holocaust Center of Northern California Archives,en
 located at street address	2245 Post Street P.O. Box 159004
 contact information website	http://jfcsholocaustcenter.org/library-archives/
 OCLC institution registry ID	49801
@@ -880,7 +880,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	216
 located in the administrative territorial entity	California
-name	Intel Museum Archives
+name	Intel Museum Archives,en
 located at street address	2200 Mission College Blvd. 
 contact information website	http://www.intel.com/museum/index.htm
 OCLC institution registry ID	103356
@@ -891,7 +891,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	24
 located in the administrative territorial entity	California
-name	Los Angeles Public Library
+name	Los Angeles Public Library,en
 located at street address	630 West 5th Street 
 contact information website	http://www.lapl.org/about-lapl/about-library
 OCLC institution registry ID	8529
@@ -903,7 +903,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	252
 located in the administrative territorial entity	California
-name	Yuba County Library
+name	Yuba County Library,en
 located at street address	 
 contact information website	http://www.co.yuba.ca.us/Departments/Library/
 OCLC institution registry ID	8623
@@ -915,7 +915,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	2533
 located in the administrative territorial entity	California
-name	California State Library - Sutro Library
+name	California State Library - Sutro Library,en
 located at street address	J. Paul Leonard Library, Rm. 610 1630 Holloway Avenue
 contact information website	http://www.library.ca.gov/about/cslgen3.html
 OCLC institution registry ID	113597
@@ -927,7 +927,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	2535
 located in the administrative territorial entity	California
-name	University of Southern California - Hancock Natural History Collection
+name	University of Southern California - Hancock Natural History Collection,en
 located at street address	Doheny Libr 3550 Trousdale Pky
 contact information website	https://libraries.usc.edu/locations/special-collections/hancock-natural-history-collection
 OCLC institution registry ID	113522
@@ -939,7 +939,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	253
 located in the administrative territorial entity	California
-name	Sutter County Library
+name	Sutter County Library,en
 located at street address	750 Forbes Ave 
 contact information website	http://www.co.sutter.ca.us/doc/government/depts/library/library
 OCLC institution registry ID	8609
@@ -951,7 +951,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	254
 located in the administrative territorial entity	California
-name	Santa Clara City Library
+name	Santa Clara City Library,en
 located at street address	2635 Homestead Rd 
 contact information website	http://santaclaraca.gov/government/departments/library
 OCLC institution registry ID	8590
@@ -963,7 +963,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	255
 located in the administrative territorial entity	California
-name	San Jose Public Library - Local History Collection
+name	San Jose Public Library - Local History Collection,en
 located at street address	150 East San Fernando Street 
 contact information website	http://www.sjpl.org/caroom
 OCLC institution registry ID	8580
@@ -975,7 +975,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	256
 located in the administrative territorial entity	California
-name	San Joaquin Valley Library System
+name	San Joaquin Valley Library System,en
 located at street address	2420 Mariposa St 
 contact information website	http://www.sjvls.org/
 OCLC institution registry ID	6584
@@ -987,7 +987,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	257
 located in the administrative territorial entity	California
-name	Richmond Public Library
+name	Richmond Public Library,en
 located at street address	325 Civic Ctr Plz 
 contact information website	http://www.ci.richmond.ca.us/index.asp?NID=105
 OCLC institution registry ID	8567
@@ -999,7 +999,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	258
 located in the administrative territorial entity	California
-name	University of California, Los Angeles - Louise M. Darling Biomedical Library
+name	University of California, Los Angeles - Louise M. Darling Biomedical Library,en
 located at street address	12-077 Center For The Health Sciences, PO Box 951798 
 contact information website	https://www.library.ucla.edu/biomed
 OCLC institution registry ID	91088
@@ -1012,7 +1012,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	259
 located in the administrative territorial entity	California
-name	San Jose State University - Sourisseau Academy for State and Local History
+name	San Jose State University - Sourisseau Academy for State and Local History,en
 located at street address	One Washington Square King Library
 contact information website	http://www.sourisseauacademy.org/our_collections.html
 OCLC institution registry ID	400
@@ -1024,7 +1024,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	260
 located in the administrative territorial entity	California
-name	Stanford University - Archive of Recorded Sound
+name	Stanford University - Archive of Recorded Sound,en
 located at street address	 
 contact information website	http://www-sul.stanford.edu/depts/ars/about/access_circ.html
 OCLC institution registry ID	104403
@@ -1035,7 +1035,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	261
 located in the administrative territorial entity	California
-name	Chula Vista Public Library - John Rojas Local History Room
+name	Chula Vista Public Library - John Rojas Local History Room,en
 located at street address	365 F St 
 contact information website	http://www.chulavistalibrary.com/
 OCLC institution registry ID	8492
@@ -1047,7 +1047,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	262
 located in the administrative territorial entity	California
-name	Covina Public Library
+name	Covina Public Library,en
 located at street address	234 N 2nd Ave 
 contact information website	http://www.covinaca.gov/library/page/about-library
 OCLC institution registry ID	8499
@@ -1059,7 +1059,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	263
 located in the administrative territorial entity	California
-name	Santa Barbara Botanic Garden
+name	Santa Barbara Botanic Garden,en
 located at street address	1212 Mission Canyon Road 
 contact information website	http://www.sbbg.org/learn-discover/blaksley-library
 OCLC institution registry ID	85153
@@ -1071,7 +1071,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	264
 located in the administrative territorial entity	California
-name	Society of California Pioneers
+name	Society of California Pioneers,en
 located at street address	101 Montgomery Street, Suite 150 Presidio of San Francisco
 contact information website	http://www.californiapioneers.org/home/visit/
 OCLC institution registry ID	44352
@@ -1083,7 +1083,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	265
 located in the administrative territorial entity	California
-name	San Mateo Public Library
+name	San Mateo Public Library,en
 located at street address	55 West 3rd Avenue 
 contact information website	http://www.cityofsanmateo.org/index.aspx?nid=507
 OCLC institution registry ID	8586
@@ -1095,7 +1095,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	266
 located in the administrative territorial entity	California
-name	San Joaquin County Museum
+name	San Joaquin County Museum,en
 located at street address	11793 North Micke Grove Road 
 contact information website	http://www.sanjoaquinhistory.org/
 OCLC institution registry ID	103969
@@ -1106,7 +1106,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	267
 located in the administrative territorial entity	California
-name	San Bruno Public Library
+name	San Bruno Public Library,en
 located at street address	701 Angus Avenue West 
 contact information website	https://www.sanbruno.ca.gov/gov/city_departments/community_services/library/default.htm
 OCLC institution registry ID	8576
@@ -1118,7 +1118,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	268
 located in the administrative territorial entity	California
-name	Palos Verdes Public Library
+name	Palos Verdes Public Library,en
 located at street address	701 Silver Spur Rd. 
 contact information website	http://www.pvld.org/
 OCLC institution registry ID	8557
@@ -1130,7 +1130,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	269
 located in the administrative territorial entity	California
-name	Redwood City Public Library - Local History Collection
+name	Redwood City Public Library - Local History Collection,en
 located at street address	1044 Middlefield Rd 
 contact information website	https://www.redwoodcity.org/departments/library
 OCLC institution registry ID	8566
@@ -1142,7 +1142,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	26
 located in the administrative territorial entity	California
-name	Loyola Marymount University
+name	Loyola Marymount University,en
 located at street address	Library 1 LMU Dr, MS 8200
 contact information website	http://library.lmu.edu/
 OCLC institution registry ID	319
@@ -1154,7 +1154,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	270
 located in the administrative territorial entity	California
-name	Berkeley Public Library - Berkeley History Room
+name	Berkeley Public Library - Berkeley History Room,en
 located at street address	2090 Kittredge at Shattuck 
 contact information website	http://www.berkeleypubliclibrary.org/
 OCLC institution registry ID	8480
@@ -1166,7 +1166,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	271
 located in the administrative territorial entity	California
-name	Los Angeles County Metropolitan Transportation Authority
+name	Los Angeles County Metropolitan Transportation Authority,en
 located at street address	1 Gateway Plaza, 15th floor 
 contact information website	http://www.metro.net/about_us/library/contact.htm#TopOfPage
 OCLC institution registry ID	85107
@@ -1178,7 +1178,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	272
 located in the administrative territorial entity	California
-name	Oakland Public Library
+name	Oakland Public Library,en
 located at street address	125 14th Street 
 contact information website	http://www.oaklandlibrary.org/locations/oakland-history-room
 OCLC institution registry ID	8547
@@ -1190,7 +1190,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	318
 located in the administrative territorial entity	California
-name	Alameda County Law Library
+name	Alameda County Law Library,en
 located at street address	125 Twelfth Street 
 contact information website	http://www.acgov.org/law/
 OCLC institution registry ID	100128
@@ -1202,7 +1202,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	330
 located in the administrative territorial entity	California
-name	Autry National Center - Museum of the American West
+name	Autry National Center - Museum of the American West,en
 located at street address	4700 Western Heritage Way 
 contact information website	https://theautry.org/research-collections/library-and-archives-autry
 OCLC institution registry ID	91358
@@ -1214,7 +1214,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	342
 located in the administrative territorial entity	California
-name	California Historical Society - North Baker Research Library
+name	California Historical Society - North Baker Research Library,en
 located at street address	North Baker Research Library 678 Mission Street
 contact information website	http://www.californiahistoricalsociety.org/visit/
 OCLC institution registry ID	62265
@@ -1226,7 +1226,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	343
 located in the administrative territorial entity	California
-name	California Institute of Technology - Archives and Special Collections
+name	California Institute of Technology - Archives and Special Collections,en
 located at street address	1200 East California Blvd. Mail Code 1-32
 contact information website	http://archives.caltech.edu/contact/index.html
 OCLC institution registry ID	185
@@ -1238,7 +1238,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	344
 located in the administrative territorial entity	California
-name	California State Library - California History Room
+name	California State Library - California History Room,en
 located at street address	900 N Street 
 contact information website	http://www.library.ca.gov/about/cslgen3.html
 OCLC institution registry ID	64185
@@ -1250,7 +1250,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	346
 located in the administrative territorial entity	California
-name	Claremont Colleges
+name	Claremont Colleges,en
 located at street address	Honnold/Mudd Library 800 N Dartmouth Ave
 contact information website	http://libraries.claremont.edu/sc/
 OCLC institution registry ID	5640
@@ -1262,7 +1262,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	372
 located in the administrative territorial entity	California
-name	Fresno County Free Library
+name	Fresno County Free Library,en
 located at street address	2420 Mariposa Street 
 contact information website	http://www.fresnolibrary.org/
 OCLC institution registry ID	8509
@@ -1274,7 +1274,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	380
 located in the administrative territorial entity	California
-name	Getty Research Institute
+name	Getty Research Institute,en
 located at street address	1200 Getty Center Drive Suite 1100
 contact information website	http://www.getty.edu/research/
 OCLC institution registry ID	5616
@@ -1286,7 +1286,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	383
 located in the administrative territorial entity	California
-name	Graduate Theological Union - Special Collections and Archives
+name	Graduate Theological Union - Special Collections and Archives,en
 located at street address	2400 Ridge Road 
 contact information website	http://www.gtu.edu/
 OCLC institution registry ID	274
@@ -1298,7 +1298,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	395
 located in the administrative territorial entity	California
-name	University of California, Berkeley
+name	University of California, Berkeley,en
 located at street address	The UC Berkeley Library 255 Doe Annex
 contact information website	http://www.lib.berkeley.edu/
 OCLC institution registry ID	5689
@@ -1310,7 +1310,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	39
 located in the administrative territorial entity	California
-name	Mills College - F.W. Olin Library
+name	Mills College - F.W. Olin Library,en
 located at street address	Library 5000 Macarthur Blvd
 contact information website	http://www.mills.edu/academics/library/special_collections/sc_guide.php
 OCLC institution registry ID	331
@@ -1322,7 +1322,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	407
 located in the administrative territorial entity	California
-name	California State University, Channel Islands 
+name	California State University, Channel Islands ,en
 located at street address	John Spoor Broome Library 1 University Drive
 contact information website	http://library.csuci.edu/collections/index.htm
 OCLC institution registry ID	5667
@@ -1334,7 +1334,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	446
 located in the administrative territorial entity	California
-name	Hebrew Union College – Jewish Institute of Religion – Frances-Henry Library
+name	Hebrew Union College – Jewish Institute of Religion – Frances-Henry Library,en
 located at street address	 
 contact information website	http://www.usc.edu/dept/huc-la/
 OCLC institution registry ID	88919
@@ -1345,7 +1345,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	448
 located in the administrative territorial entity	California
-name	Glendale Public Library - Special Collections Room
+name	Glendale Public Library - Special Collections Room,en
 located at street address	222 E Harvard St 
 contact information website	http://www.glendalepubliclibrary.org
 OCLC institution registry ID	8511
@@ -1357,7 +1357,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	452
 located in the administrative territorial entity	California
-name	Humboldt State University - Special Collections
+name	Humboldt State University - Special Collections,en
 located at street address	One Harpst Street 
 contact information website	http://library.humboldt.edu/humco/
 OCLC institution registry ID	285
@@ -1369,7 +1369,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	454
 located in the administrative territorial entity	California
-name	Stanford University Library
+name	Stanford University Library,en
 located at street address	 
 contact information website	http://www-sul.stanford.edu/libraries_collections/hours_locations.html
 OCLC institution registry ID	3227
@@ -1380,7 +1380,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	455
 located in the administrative territorial entity	California
-name	Mission Viejo Library
+name	Mission Viejo Library,en
 located at street address	100 Civic Center 
 contact information website	http://cmvl.org/
 OCLC institution registry ID	8639
@@ -1392,7 +1392,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	456
 located in the administrative territorial entity	California
-name	Huntington Library, Art Collections, and Botanical Gardens
+name	Huntington Library, Art Collections, and Botanical Gardens,en
 located at street address	1151 Oxford Rd 
 contact information website	http://www.huntington.org
 OCLC institution registry ID	50042
@@ -1404,7 +1404,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	465
 located in the administrative territorial entity	California
-name	Kern County Library
+name	Kern County Library,en
 located at street address	701 Truxtun Ave 
 contact information website	http://www.kerncountylibrary.org/
 OCLC institution registry ID	8519
@@ -1416,7 +1416,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	466
 located in the administrative territorial entity	California
-name	Fresno City and County Historical Society Archives
+name	Fresno City and County Historical Society Archives,en
 located at street address	7160 West Kearney Boulevard 
 contact information website	http://www.valleyhistory.org/index.php?c=46
 OCLC institution registry ID	102936
@@ -1427,7 +1427,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	467
 located in the administrative territorial entity	California
-name	California State Railroad Museum - Library and Collections
+name	California State Railroad Museum - Library and Collections,en
 located at street address	Library 111 I St
 contact information website	https://www.californiarailroad.museum/visit/library
 OCLC institution registry ID	62040
@@ -1439,7 +1439,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	468
 located in the administrative territorial entity	California
-name	California State University, Chico - Special Collections
+name	California State University, Chico - Special Collections,en
 located at street address	Meriam Library 1st &amp; IVY ST
 contact information website	http://www.csuchico.edu/lbib/spc/netpages/home.html
 OCLC institution registry ID	5699
@@ -1451,7 +1451,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	469
 located in the administrative territorial entity	California
-name	California State University, Dominguez Hills - Department of Archives and Special Collections
+name	California State University, Dominguez Hills - Department of Archives and Special Collections,en
 located at street address	1000 East Victoria Street 
 contact information website	http://archives.csudh.edu/
 OCLC institution registry ID	197
@@ -1463,7 +1463,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	470
 located in the administrative territorial entity	California
-name	California State University, Fresno - Special Collections Research Center
+name	California State University, Fresno - Special Collections Research Center,en
 located at street address	5200 North Barton Avenue, M/S Ml 34 
 contact information website	http://scrc.lib.csufresno.edu/
 OCLC institution registry ID	198
@@ -1475,7 +1475,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	471
 located in the administrative territorial entity	California
-name	Gay, Lesbian, Bisexual, Transgender Historical Society
+name	Gay, Lesbian, Bisexual, Transgender Historical Society,en
 located at street address	657 Mission Street #300 
 contact information website	http://www.glbthistory.org/research/index.html
 OCLC institution registry ID	102939
@@ -1486,7 +1486,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	473
 located in the administrative territorial entity	California
-name	Japanese American National Museum
+name	Japanese American National Museum,en
 located at street address	Hirasaki Nat Res Ctr 369 E 1st St
 contact information website	http://www.janm.org/about/
 OCLC institution registry ID	31302
@@ -1497,7 +1497,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	475
 located in the administrative territorial entity	California
-name	Labor Archives and Research Center
+name	Labor Archives and Research Center,en
 located at street address	Route 1, Box 1001 
 contact information website	http://library.sfsu.edu/larc
 OCLC institution registry ID	103772
@@ -1508,7 +1508,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	477
 located in the administrative territorial entity	California
-name	Pasadena Historical Museum
+name	Pasadena Historical Museum,en
 located at street address	470 West Walnut Street 
 contact information website	http://pasadenahistory.org/archives-library/
 OCLC institution registry ID	103966
@@ -1519,7 +1519,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	478
 located in the administrative territorial entity	California
-name	Sacramento Archives and Museum Collection Center
+name	Sacramento Archives and Museum Collection Center,en
 located at street address	551 Sequoia Pacific Blvd 
 contact information website	http://www.cityofsacramento.org/ccl/history/default.asp
 OCLC institution registry ID	54380
@@ -1531,7 +1531,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	479
 located in the administrative territorial entity	California
-name	Southern California Library for Social Studies and Research
+name	Southern California Library for Social Studies and Research,en
 located at street address	6120 S. Vermont Avenue 
 contact information website	http://www.socallib.org/
 OCLC institution registry ID	104402
@@ -1542,7 +1542,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	47
 located in the administrative territorial entity	California
-name	NASA Ames Research Center
+name	NASA Ames Research Center,en
 located at street address	History Office Building N207 Room 112C
 contact information website	https://history.arc.nasa.gov/contacts.htm
 OCLC institution registry ID	74547
@@ -1556,7 +1556,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	482
 located in the administrative territorial entity	California
-name	Oakland Museum
+name	Oakland Museum,en
 located at street address	1000 Oak Street 
 contact information website	http://www.museumca.org/
 OCLC institution registry ID	103734
@@ -1567,7 +1567,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	483
 located in the administrative territorial entity	California
-name	Albany Public Library - Historical Collection
+name	Albany Public Library - Historical Collection,en
 located at street address	1247 Marin Avenue 
 contact information website	http://www.aclibrary.org/albany
 OCLC institution registry ID	76977
@@ -1578,7 +1578,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	485
 located in the administrative territorial entity	California
-name	Mill Valley Public Library
+name	Mill Valley Public Library,en
 located at street address	375 Throckmortn Ave 
 contact information website	http://www.millvalleylibrary.org/
 OCLC institution registry ID	8535
@@ -1590,7 +1590,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	487
 located in the administrative territorial entity	California
-name	History San Jose
+name	History San Jose,en
 located at street address	1650 Senter Rd 
 contact information website	http://www.historysanjose.org/
 OCLC institution registry ID	62647
@@ -1603,7 +1603,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	489
 located in the administrative territorial entity	California
-name	Wilson Riles Archives and Institute for Education
+name	Wilson Riles Archives and Institute for Education,en
 located at street address	Wells Fargo Center 400 Capitol Mall, Suite 1540
 contact information website	http://wredu.com/~wriles/archive/
 OCLC institution registry ID	104701
@@ -1614,7 +1614,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5110
 located in the administrative territorial entity	California
-name	California Institute of the Arts
+name	California Institute of the Arts,en
 located at street address	Library and Information Resources 24700 McBean Pky
 contact information website	http://calarts.edu/library
 OCLC institution registry ID	217
@@ -1626,7 +1626,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5113
 located in the administrative territorial entity	California
-name	California Academy of Sciences
+name	California Academy of Sciences,en
 located at street address	55 Music Concourse Drive Golden Gate Park
 contact information website	http://www.calacademy.org/research/library/
 OCLC institution registry ID	85563
@@ -1638,7 +1638,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5115
 located in the administrative territorial entity	California
-name	Marin County Free Library
+name	Marin County Free Library,en
 located at street address	3501 Civic Center Dr, Rm 414 
 contact information website	http://www.marinlibrary.org/
 OCLC institution registry ID	8531
@@ -1650,7 +1650,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	514
 located in the administrative territorial entity	California
-name	San Jose State University - Special Collections and Archives
+name	San Jose State University - Special Collections and Archives,en
 located at street address	One Washington Square King Library
 contact information website	http://library.sjsu.edu/
 OCLC institution registry ID	400
@@ -1662,7 +1662,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5206
 located in the administrative territorial entity	California
-name	Stanford University - Medical History Center
+name	Stanford University - Medical History Center,en
 located at street address	300 Pasteur Dr L109 
 contact information website	http://lane.stanford.edu/about/contact.html
 OCLC institution registry ID	5678
@@ -1674,7 +1674,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5287
 located in the administrative territorial entity	California
-name	University of California, Riverside - Water Resources Collections and Archives
+name	University of California, Riverside - Water Resources Collections and Archives,en
 located at street address	 
 contact information website	http://library.ucr.edu/wrca/
 OCLC holdings symbol	WCA
@@ -1685,7 +1685,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5315
 located in the administrative territorial entity	California
-name	Monterey Public Library - Archives
+name	Monterey Public Library - Archives,en
 located at street address	625 Pacific Street 
 contact information website	http://www.monterey.org/library/History-Room
 OCLC institution registry ID	8540
@@ -1697,7 +1697,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	531
 located in the administrative territorial entity	California
-name	Computer History Museum
+name	Computer History Museum,en
 located at street address	1401 N Shoreline Blvd. 
 contact information website	http://www.computerhistory.org/about/tour/
 OCLC institution registry ID	102545
@@ -1708,7 +1708,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5377
 located in the administrative territorial entity	California
-name	Sonoma County Library
+name	Sonoma County Library,en
 located at street address	211 E St. 
 contact information website	http://www.sonomalibrary.org/history/
 OCLC institution registry ID	8602
@@ -1720,7 +1720,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5455
 located in the administrative territorial entity	California
-name	Los Angeles County Law Library
+name	Los Angeles County Law Library,en
 located at street address	301 W 1st St 
 contact information website	http://www.lalawlibrary.org/index.php/legal-research/reference-assistance.html
 OCLC institution registry ID	54206
@@ -1732,7 +1732,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5494
 located in the administrative territorial entity	California
-name	American Jewish University - Ostrow Library
+name	American Jewish University - Ostrow Library,en
 located at street address	American Jewish University 15600 Mulholland Dr.
 contact information website	http://library.aju.edu/Default.aspx?id=6901
 OCLC institution registry ID	295
@@ -1744,7 +1744,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5517
 located in the administrative territorial entity	California
-name	Sacramento Public Library
+name	Sacramento Public Library,en
 located at street address	828 I St 
 contact information website	http://www.saclibrary.org/?pageId=59
 OCLC institution registry ID	8570
@@ -1756,7 +1756,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5587
 located in the administrative territorial entity	California
-name	Fuller Theological Seminary - David Allan Hubbard Library
+name	Fuller Theological Seminary - David Allan Hubbard Library,en
 located at street address	135 North Oakland Avenue 
 contact information website	http://library.fuller.edu/
 OCLC institution registry ID	268
@@ -1768,7 +1768,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5649
 located in the administrative territorial entity	California
-name	Watsonville Public Library
+name	Watsonville Public Library,en
 located at street address	275 Main Street 
 contact information website	http://cityofwatsonville.org/public-library/research-center
 OCLC institution registry ID	8618
@@ -1780,7 +1780,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5783
 located in the administrative territorial entity	California
-name	California State University, Northridge - Oviatt Library
+name	California State University, Northridge - Oviatt Library,en
 located at street address	18111 Nordhoff Street 
 contact information website	http://library.csun.edu/LibraryHours.php?prm=11&chm=-1
 OCLC institution registry ID	203
@@ -1792,7 +1792,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5844
 located in the administrative territorial entity	California
-name	Santa Clara County Archives
+name	Santa Clara County Archives,en
 located at street address	1875 Senter Rd 
 contact information website	https://www.sccgov.org/sites/archives/Pages/Santa-Clara-County-Archives.aspx
 OCLC institution registry ID	116387
@@ -1804,7 +1804,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5862
 located in the administrative territorial entity	California
-name	Stanford University Law School - Robert Crown Law Library
+name	Stanford University Law School - Robert Crown Law Library,en
 located at street address	Robert Crown Law Library 559 Nathan Abbott Way
 contact information website	http://www.law.stanford.edu//library/
 OCLC institution registry ID	5681
@@ -1816,7 +1816,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5870
 located in the administrative territorial entity	California
-name	Loma Linda University - Del E. Webb Memorial Library
+name	Loma Linda University - Del E. Webb Memorial Library,en
 located at street address	11072 Anderson Street 
 contact information website	http://www.llu.edu/library/about/locat.page
 OCLC institution registry ID	307
@@ -1828,7 +1828,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	5962
 located in the administrative territorial entity	California
-name	Sequoia & Kings Canyon National Parks
+name	Sequoia & Kings Canyon National Parks,en
 located at street address	47050 Generals Highway 
 contact information website	http://www.nps.gov/seki/historyculture/collections.htm
 OCLC institution registry ID	134565
@@ -1839,7 +1839,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6469
 located in the administrative territorial entity	California
-name	Agua Caliente Cultural Museum
+name	Agua Caliente Cultural Museum,en
 located at street address	219 South Palm Canyon Drive 
 contact information website	http://www.accmuseum.org/
 OCLC institution registry ID	134563
@@ -1850,7 +1850,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6474
 located in the administrative territorial entity	California
-name	University of California, Santa Barbara - Cheadle Center for Biodiversity and Ecological Restoration
+name	University of California, Santa Barbara - Cheadle Center for Biodiversity and Ecological Restoration,en
 located at street address	UCSB Library 525 UCEN Road
 contact information website	http://ccber.ucsb.edu/
 OCLC institution registry ID	211
@@ -1861,7 +1861,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6479
 located in the administrative territorial entity	California
-name	University of California, Los Angeles - Chicano Studies Research Center
+name	University of California, Los Angeles - Chicano Studies Research Center,en
 located at street address	144 Haines Hall 
 contact information website	http://www.chicano.ucla.edu/library
 OCLC institution registry ID	91081
@@ -1872,7 +1872,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6524
 located in the administrative territorial entity	California
-name	University of California, Irvine - Critical Theory Archive
+name	University of California, Irvine - Critical Theory Archive,en
 located at street address	Univ of California Irvine 
 contact information website	http://special.lib.uci.edu/contact/
 OCLC institution registry ID	5656
@@ -1883,7 +1883,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6526
 located in the administrative territorial entity	California
-name	University of California, Irvine
+name	University of California, Irvine,en
 located at street address	Univ of California Irvine 
 contact information website	https://www.lib.uci.edu/
 OCLC institution registry ID	5656
@@ -1895,7 +1895,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6528
 located in the administrative territorial entity	California
-name	University of California, Irvine - Southeast Asian Archive
+name	University of California, Irvine - Southeast Asian Archive,en
 located at street address	Univ of California Irvine 
 contact information website	http://seaa.lib.uci.edu/
 OCLC institution registry ID	5656
@@ -1906,7 +1906,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6530
 located in the administrative territorial entity	California
-name	University of California, Irvine - University Archives
+name	University of California, Irvine - University Archives,en
 located at street address	Univ of California Irvine 
 contact information website	http://special.lib.uci.edu/collections/university-archives/
 OCLC institution registry ID	5656
@@ -1917,7 +1917,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6534
 located in the administrative territorial entity	California
-name	Monterey Park Bruggemeyer Library
+name	Monterey Park Bruggemeyer Library,en
 located at street address	318 S Ramona Ave 
 contact information website	http://www.ci.monterey-park.ca.us/310/Local-History
 OCLC institution registry ID	8541
@@ -1929,7 +1929,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6538
 located in the administrative territorial entity	California
-name	ONE National Gay and Lesbian Archives
+name	ONE National Gay and Lesbian Archives,en
 located at street address	909 W. Adams Blvd. 
 contact information website	http://one.usc.edu
 OCLC institution registry ID	57656
@@ -1940,7 +1940,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6547
 located in the administrative territorial entity	California
-name	California Polytechnic State University - San Luis Obispo
+name	California Polytechnic State University - San Luis Obispo,en
 located at street address	Robert E. Kennedy Library 1 Grand Avenue
 contact information website	http://lib.calpoly.edu/about/hours/
 OCLC institution registry ID	187
@@ -1952,7 +1952,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6549
 located in the administrative territorial entity	California
-name	OCLC Test Archive
+name	OCLC Test Archive,en
 located at street address	 
 contact information website	http://www.oclc.org/research/about/default.htm
 coordinate location	,
@@ -1962,7 +1962,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6770
 located in the administrative territorial entity	California
-name	Jet Propulsion Laboratory Library and Archives
+name	Jet Propulsion Laboratory Library and Archives,en
 located at street address	Library 111-113 4800 Oak Grove Dr
 contact information website	http://beacon.jpl.nasa.gov/about
 OCLC institution registry ID	85125
@@ -1974,7 +1974,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6795
 located in the administrative territorial entity	California
-name	University of San Diego - Copley Library
+name	University of San Diego - Copley Library,en
 located at street address	PO Box 1530 1134 Kline St
 contact information website	http://www.sandiego.edu/library/
 OCLC institution registry ID	52130
@@ -1986,7 +1986,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	67
 located in the administrative territorial entity	California
-name	Stanford University – Martin Luther King Jr., Papers Project
+name	Stanford University – Martin Luther King Jr., Papers Project,en
 located at street address	 
 contact information website	http://www.stanford.edu/group/King/mlkpapers/
 OCLC institution registry ID	104404
@@ -1997,7 +1997,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6838
 located in the administrative territorial entity	California
-name	Chapman University - Frank Mt. Pleasant Library of Special Collections and Archives
+name	Chapman University - Frank Mt. Pleasant Library of Special Collections and Archives,en
 located at street address	One University Drive 
 contact information website	http://www1.chapman.edu/library/info/hours.html
 OCLC institution registry ID	3287
@@ -2009,7 +2009,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	6854
 located in the administrative territorial entity	California
-name	San Francisco State University - J. Paul Leonard Library
+name	San Francisco State University - J. Paul Leonard Library,en
 located at street address	1600 Holloway Avenue, Hss 289 
 contact information website	https://library.sfsu.edu/special-collections-archives
 OCLC institution registry ID	391
@@ -2021,7 +2021,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	72
 located in the administrative territorial entity	California
-name	Oxnard Public Library
+name	Oxnard Public Library,en
 located at street address	251 South A St 
 contact information website	https://www.oxnard.org/library/
 OCLC institution registry ID	8553
@@ -2033,7 +2033,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	73
 located in the administrative territorial entity	California
-name	Historical Sites Society of Arcata Library
+name	Historical Sites Society of Arcata Library,en
 located at street address	P.O. Box 4521 
 contact information website	http://www.oac.cdlib.org/institutions/Historical+Sites+Society+of+Arcata
 OCLC institution registry ID	103353
@@ -2044,7 +2044,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7410
 located in the administrative territorial entity	California
-name	Natural History Museum Foundation, Los Angeles County
+name	Natural History Museum Foundation, Los Angeles County,en
 located at street address	Research Libr, NHM 900 Exposition Blvd
 contact information website	http://www.nhm.org/site/about-our-museums
 OCLC institution registry ID	44062
@@ -2056,7 +2056,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7467
 located in the administrative territorial entity	California
-name	California State University - San Bernardino
+name	California State University - San Bernardino,en
 located at street address	5500 University Parkway 
 contact information website	http://www.lib.csusb.edu/about/hours.html
 OCLC institution registry ID	194
@@ -2068,7 +2068,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7494
 located in the administrative territorial entity	California
-name	LA84 Foundation - Sports Library
+name	LA84 Foundation - Sports Library,en
 located at street address	Library 2141 W Adams Blvd
 contact information website	http://www.la84.org/knowledge/
 OCLC institution registry ID	85093
@@ -2080,7 +2080,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	74
 located in the administrative territorial entity	California
-name	Scripps Institute of Oceanography Archives
+name	Scripps Institute of Oceanography Archives,en
 located at street address	Kresge Libr 400S 10550 N Torrey Pines Rd
 contact information website	http://libraries.ucsd.edu/locations/sio/contact-us.html
 OCLC institution registry ID	84961
@@ -2092,7 +2092,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7510
 located in the administrative territorial entity	California
-name	Sons of the Revolution in the State of California - American Heritage Library
+name	Sons of the Revolution in the State of California - American Heritage Library,en
 located at street address	600 S Central Ave 
 contact information website	http://www.srcalifornia.com/library/aboutlibrary.htm
 OCLC institution registry ID	63818
@@ -2104,7 +2104,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	75
 located in the administrative territorial entity	California
-name	Santa Ana Public Library
+name	Santa Ana Public Library,en
 located at street address	26 Civic Ctr Plz 
 contact information website	http://www.ci.santa-ana.ca.us/library/research/research.asp
 OCLC institution registry ID	8588
@@ -2116,7 +2116,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7679
 located in the administrative territorial entity	California
-name	California State University, East Bay
+name	California State University, East Bay,en
 located at street address	Library / Interlibrary Loan 25800 Carlos Bee Boulevard
 contact information website	http://library.csueastbay.edu/using-the-libraries/collections/archives/
 OCLC institution registry ID	200
@@ -2128,7 +2128,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7721
 located in the administrative territorial entity	California
-name	Occidental College Library
+name	Occidental College Library,en
 located at street address	1600 Campus Road 
 contact information website	http://oxy.edu/library/about
 OCLC institution registry ID	349
@@ -2140,7 +2140,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7821
 located in the administrative territorial entity	California
-name	Sierra Madre Public Library - Local History Collection
+name	Sierra Madre Public Library - Local History Collection,en
 located at street address	440 West Sierra Madre Boulevard 
 contact information website	http://www.smhps.org/archives.html
 OCLC institution registry ID	8599
@@ -2152,7 +2152,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7837
 located in the administrative territorial entity	California
-name	University of California, Berkeley - Institute of Governmental Studies
+name	University of California, Berkeley - Institute of Governmental Studies,en
 located at street address	Univ of California 109 Moses Hall #2370
 contact information website	https://igs.berkeley.edu/library
 OCLC institution registry ID	73244
@@ -2164,7 +2164,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7877
 located in the administrative territorial entity	California
-name	Claremont School of Theology - Special Collections
+name	Claremont School of Theology - Special Collections,en
 located at street address	1325 N College Ave 
 contact information website	http://www.cst.edu/library/special-collections/
 OCLC institution registry ID	432
@@ -2176,7 +2176,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	7939
 located in the administrative territorial entity	California
-name	California State University, Long Beach
+name	California State University, Long Beach,en
 located at street address	1250 Bellflower Boulevard 
 contact information website	http://www.csulb.edu/library/guide/serv/special.html
 OCLC institution registry ID	201
@@ -2188,7 +2188,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8034
 located in the administrative territorial entity	California
-name	Fresno Pacific University - Hiebert Library
+name	Fresno Pacific University - Hiebert Library,en
 located at street address	Hiebert Libr 1717 S Chestnut Ave
 contact information website	https://www.fresno.edu/students/hiebert-library
 OCLC institution registry ID	267
@@ -2200,7 +2200,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8036
 located in the administrative territorial entity	California
-name	Santa Barbara Historical Museum - Gledhill Library
+name	Santa Barbara Historical Museum - Gledhill Library,en
 located at street address	136 E De La Guerra St 
 contact information website	http://www.santabarbaramuseum.com/GledhillLibrary.html
 OCLC institution registry ID	85149
@@ -2212,7 +2212,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	80
 located in the administrative territorial entity	California
-name	Center for Mennonite Brethren Studies - Archives
+name	Center for Mennonite Brethren Studies - Archives,en
 located at street address	Library 1717 S Chestnut
 contact information website	http://fresno.libguides.com/mla
 OCLC institution registry ID	62101
@@ -2224,7 +2224,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8144
 located in the administrative territorial entity	California
-name	Pepperdine University - Payson Library
+name	Pepperdine University - Payson Library,en
 located at street address	Payson Library 24255 Pacific Coast Highway
 contact information website	http://library.pepperdine.edu/special-collections/
 OCLC institution registry ID	366
@@ -2236,7 +2236,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8170
 located in the administrative territorial entity	California
-name	Yolo County Archives
+name	Yolo County Archives,en
 located at street address	 
 contact information website	http://www.yolocounty.org/index.aspx?page=1272
 coordinate location	,
@@ -2246,7 +2246,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8195
 located in the administrative territorial entity	California
-name	Point Loma Nazarene University - Ryan Library
+name	Point Loma Nazarene University - Ryan Library,en
 located at street address	Ryan Library/PLNU 3900 Lomaland Dr
 contact information website	http://libguides.pointloma.edu/content.php?pid=269316&sid=2221868
 OCLC institution registry ID	369
@@ -2258,7 +2258,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	81
 located in the administrative territorial entity	California
-name	San Bernardino Public Library
+name	San Bernardino Public Library,en
 located at street address	555 W. Sixth St. 
 contact information website	http://www.sbpl.org/hoursinfo.html
 OCLC institution registry ID	8575
@@ -2270,7 +2270,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8236
 located in the administrative territorial entity	California
-name	University of California, San Francisco Medical Center at Mount Zion - H.M. Fishbon Memorial Library
+name	University of California, San Francisco Medical Center at Mount Zion - H.M. Fishbon Memorial Library,en
 located at street address	1600 Divisadero St, Rm A116 
 contact information website	http://mountzion.ucsfmedicalcenter.org/library/collection.html
 OCLC institution registry ID	5673
@@ -2282,7 +2282,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8254
 located in the administrative territorial entity	California
-name	Visual Communications Archives and Media Resource Library
+name	Visual Communications Archives and Media Resource Library,en
 located at street address	120 Judge John Aiso St. 
 contact information website	http://www.vconline.org/
 OCLC institution registry ID	134567
@@ -2293,7 +2293,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	86
 located in the administrative territorial entity	California
-name	University of California, Berkeley - Magnes Collection of Jewish Art and Life
+name	University of California, Berkeley - Magnes Collection of Jewish Art and Life,en
 located at street address	2911 Russell St 
 contact information website	http://www.magnes.org/about/contact-us
 OCLC institution registry ID	68409
@@ -2304,7 +2304,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8700
 located in the administrative territorial entity	California
-name	University of California, Berkeley - Environmental Design Archives
+name	University of California, Berkeley - Environmental Design Archives,en
 located at street address	280 Wurster Hall 
 contact information website	http://www.ced.berkeley.edu/cedarchives/
 OCLC institution registry ID	134566
@@ -2315,7 +2315,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8710
 located in the administrative territorial entity	California
-name	University of California, Los Angeles - Ethnomusicology Archive
+name	University of California, Los Angeles - Ethnomusicology Archive,en
 located at street address	1630 Schoenberg Music Building Box 951657
 contact information website	http://www.ethnomusic.ucla.edu/archive/
 OCLC institution registry ID	111198
@@ -2327,7 +2327,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8728
 located in the administrative territorial entity	California
-name	Santa Barbara Trust for Historic Preservation - Presidio Research Center
+name	Santa Barbara Trust for Historic Preservation - Presidio Research Center,en
 located at street address	215 East Canon Perdido St. 
 contact information website	http://www.sbthp.org/research-center
 OCLC institution registry ID	134564
@@ -2338,7 +2338,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8869
 located in the administrative territorial entity	California
-name	University of California, Los Angeles - William Andrews Clark Memorial Library
+name	University of California, Los Angeles - William Andrews Clark Memorial Library,en
 located at street address	2520 Cimarron Street 
 contact information website	http://clarklibrary.ucla.edu/
 OCLC institution registry ID	91052
@@ -2349,7 +2349,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8933
 located in the administrative territorial entity	California
-name	Los Angeles Maritime Museum
+name	Los Angeles Maritime Museum,en
 located at street address	Berth 84 Foot of Sixth Street 
 contact information website	http://www.lamaritimemuseum.org/discover-1/library/
 OCLC institution registry ID	29679
@@ -2360,7 +2360,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	8950
 located in the administrative territorial entity	California
-name	Riverside Public Library
+name	Riverside Public Library,en
 located at street address	3581 Mission Inn Avenue 
 contact information website	http://www.riversideca.gov/library/history.asp
 OCLC institution registry ID	8568
@@ -2372,7 +2372,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9019
 located in the administrative territorial entity	California
-name	Pasadena Public Library
+name	Pasadena Public Library,en
 located at street address	285 E. Walnut St. 
 contact information website	http://ww5.cityofpasadena.net/library/
 OCLC institution registry ID	8559
@@ -2384,7 +2384,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9023
 located in the administrative territorial entity	California
-name	California Maritime Academy Library
+name	California Maritime Academy Library,en
 located at street address	200 Maritime Academy Dr 
 contact information website	http://library.csum.edu/
 OCLC institution registry ID	218
@@ -2396,7 +2396,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9174
 located in the administrative territorial entity	California
-name	California State University, Fullerton - Paulina June and George Pollak Library
+name	California State University, Fullerton - Paulina June and George Pollak Library,en
 located at street address	800 N State College Blvd 
 contact information website	http://library.fullerton.edu/visiting/special-collections.php
 OCLC institution registry ID	199
@@ -2408,7 +2408,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9176
 located in the administrative territorial entity	California
-name	Whittier Public Library
+name	Whittier Public Library,en
 located at street address	7344 South Washington Avenue 
 contact information website	http://www.cityofwhittier.org/depts/library/
 OCLC institution registry ID	8619
@@ -2420,7 +2420,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9211
 located in the administrative territorial entity	California
-name	Golden Gate University - School of Law Library
+name	Golden Gate University - School of Law Library,en
 located at street address	536 Mission St 
 contact information website	http://law.ggu.edu/law-library/about/
 OCLC institution registry ID	90806
@@ -2432,7 +2432,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9288
 located in the administrative territorial entity	California
-name	California Judicial Center Library
+name	California Judicial Center Library,en
 located at street address	Center Libr Rm 4617 455 Golden Gate Ave
 contact information website	http://library.courtinfo.ca.gov/about_the_library/
 OCLC institution registry ID	53935
@@ -2444,7 +2444,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9329
 located in the administrative territorial entity	California
-name	African American Museum and Library at Oakland, Oakland Public Library
+name	African American Museum and Library at Oakland, Oakland Public Library,en
 located at street address	659 14th St. 
 contact information website	http://www.oaklandlibrary.org/locations/african-american-museum-library-oakland
 OCLC institution registry ID	77506
@@ -2455,7 +2455,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	94
 located in the administrative territorial entity	California
-name	University of Southern California - Doheny Library
+name	University of Southern California - Doheny Library,en
 located at street address	3550 Trousdale Pkwy Rm 337 Univ of Southern California
 contact information website	https://libraries.usc.edu/locations/special-collections/first-time-visitors
 OCLC institution registry ID	429
@@ -2467,7 +2467,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9643
 located in the administrative territorial entity	California
-name	University of San Francisco - Gleeson Library
+name	University of San Francisco - Gleeson Library,en
 located at street address	2130 Fulton St 
 contact information website	https://www.usfca.edu/library/specialcollections
 OCLC institution registry ID	393
@@ -2479,7 +2479,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9818
 located in the administrative territorial entity	California
-name	Writers Guild Foundation
+name	Writers Guild Foundation,en
 located at street address	7000 West Third Street 
 contact information website	https://www.wgfoundation.org/wgf-library-archive/about-the-film-and-tv-archive/
 OCLC institution registry ID	142564
@@ -2490,7 +2490,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	9823
 located in the administrative territorial entity	California
-name	UCLA Film and Television Archive
+name	UCLA Film and Television Archive,en
 located at street address	 
 contact information website	http://www.cinema.ucla.edu/education/research-archive
 OCLC institution registry ID	104511
@@ -2502,7 +2502,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	98
 located in the administrative territorial entity	California
-name	Sacramento County Public Law Library
+name	Sacramento County Public Law Library,en
 located at street address	609 9th Street 
 contact information website	https://saclaw.org/contact/
 OCLC institution registry ID	64471
@@ -2514,7 +2514,7 @@ instance of	place
 instance of	archive
 ArchiveGrid contributor ID	99
 located in the administrative territorial entity	California
-name	San Diego State University
+name	San Diego State University,en
 located at street address	5500 Campanile Drive 
 contact information website	http://scua.sdsu.edu/
 OCLC institution registry ID	387

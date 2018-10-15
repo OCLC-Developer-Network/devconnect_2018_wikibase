@@ -75,7 +75,7 @@ def get_target(value,datatype):
                 # e.g., "37.43137,-122.168924"
                 arr = value.split(",")
                 try:
-                    target = pywikibot.Coordinate(site=repo, lat=value['latitude'], lon=value['longitude'], precision=precision, globe='earth')
+                    target = pywikibot.Coordinate(site=repo, lat=arr[0], lon=arr[1], precision=precision, globe='earth')
                 except Exception, e:
                     msg = str(e).replace("\n"," ").replace("\r"," ")
                     print("Coordinate ERROR IN "+entity_id+": "+msg)
@@ -119,13 +119,16 @@ def get_target(value,datatype):
                     pass
 
             elif datatype == 'monolingualtext':
-                if value['language'] in language_codes:
-                    try:
-                        target = pywikibot.WbMonolingualText(text=value['text'], language=value['language'])
-                    except Exception, e:
-                        msg = str(e).replace("\n"," ").replace("\r"," ")
-                        print("WbMonolingualText ERROR IN "+entity_id+" FOR "+value['text']+": "+msg)
-                        pass
+                # expect the value to be a comma-separated string with the name (in position 0)  and language code (in position 1)
+                # e.g., "Siskiyou County Museum,en"
+                text = value[0:value.rfind(',')]
+                language = value[0:value.rfind(',')+1:]
+                try:
+                    target = pywikibot.WbMonolingualText(text=text, language=language)
+                except Exception, e:
+                    msg = str(e).replace("\n"," ").replace("\r"," ")
+                    print("WbMonolingualText ERROR IN "+entity_id+" FOR "+value+": "+msg)
+                    pass
 
             elif datatype == 'string' or datatype == 'url':
                 target = value.strip()
