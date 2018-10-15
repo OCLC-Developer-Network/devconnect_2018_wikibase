@@ -125,7 +125,7 @@ def get_target(value,datatype):
             elif datatype == 'monolingualtext':
                 # expect the value to be a comma-separated string with the name (in position 0)  and language code (in position 1)
                 # e.g., "Siskiyou County Museum,en"
-                text = value[0:value.rfind(',')]
+                text = value[0:value.rfind(',')].strip()
                 language = value[value.rfind(',')+1:]
                 try:
                     target = pywikibot.WbMonolingualText(text=text, language=language)
