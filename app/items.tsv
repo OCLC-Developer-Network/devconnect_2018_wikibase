@@ -1491,10 +1491,10 @@ instance of	archive
 ArchiveGrid contributor ID	475
 located in the administrative territorial entity	California
 name	Labor Archives and Research Center,en
-located at street address	Route 1, Box 1001 
+located at street address	1630 Holloway Ave. 
 contact information website	http://library.sfsu.edu/larc
 OCLC institution registry ID	103772
-coordinate location	45.7295,-107.627,earth
+coordinate location	37.721202,-122.474752,earth
 postal code	94132
 CREATE	item	Pasadena Historical Museum	an institution in California	
 instance of	place
@@ -2499,3 +2499,4 @@ OCLC institution registry ID	387
 OCLC holdings symbol	CDS
 coordinate location	32.7722626,-117.071907,earth
 postal code	92182
+
