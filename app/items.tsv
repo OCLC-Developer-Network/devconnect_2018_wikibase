@@ -362,7 +362,7 @@ located at street address	2 Marina Blvd., Bldg. E, 3rd floor
 contact information website	http://www.nps.gov/safr/planyourvisit/index.htm
 OCLC institution registry ID	85575
 OCLC holdings symbol	UDU
-coordinate location	37.8068886,-122.430374
+coordinate location	37.8068886,-122.430374,earth
 postal code	94123
 CREATE	item	Siskiyou County Museum	an institution in California	
 instance of	place
@@ -374,7 +374,7 @@ located at street address	910 S Main St
 contact information website	http://www.siskiyoucountyhistoricalsociety.org/research-center-requests
 OCLC institution registry ID	62361
 OCLC holdings symbol	S#K
-coordinate location	41.7244,-122.639
+coordinate location	41.7244,-122.639,earth
 postal code	96097
 CREATE	item	Museum of Performance and Design	an institution in California	
 instance of	place
@@ -386,7 +386,7 @@ located at street address	401 Van Ness Ave 4th Flr
 contact information website	http://www.mpdsf.org/6.html
 OCLC institution registry ID	63217
 OCLC holdings symbol	SF@
-coordinate location	37.779146,-122.420219
+coordinate location	37.779146,-122.420219,earth
 postal code	94102
 CREATE	item	Center for the Study of Political Graphics	an institution in California	
 instance of	place
@@ -396,7 +396,7 @@ located in the administrative territorial entity	California
 name	Center for the Study of Political Graphics,en
 located at street address	 
 contact information website	http://www.politicalgraphics.org/
-coordinate location	34.0108596,-118.4150728
+coordinate location	34.0108596,-118.4150728,earth
 postal code	90230
 CREATE	item	University of California, Berkeley - Museum of Vertebrate Zoology	an institution in California	
 instance of	place
@@ -406,7 +406,7 @@ located in the administrative territorial entity	California
 name	University of California, Berkeley - Museum of Vertebrate Zoology,en
 located at street address	 
 contact information website	http://mvz.berkeley.edu/
-coordinate location	37.8733958,-122.2657171
+coordinate location	37.8733958,-122.2657171,earth
 postal code	94720
 CREATE	item	San Francisco Public Library	an institution in California	
 instance of	place
@@ -418,7 +418,7 @@ located at street address	100 Larkin Street
 contact information website	http://sfpl.org/
 OCLC institution registry ID	8579
 OCLC holdings symbol	SFR
-coordinate location	37.7789,-122.416
+coordinate location	37.7789,-122.416,earth
 postal code	94102
 CREATE	item	San Diego Air and Space Museum Library and Archives	an institution in California	
 instance of	place
@@ -428,7 +428,7 @@ located in the administrative territorial entity	California
 name	San Diego Air and Space Museum Library and Archives,en
 located at street address	 
 contact information website	http://www.sandiegoairandspace.org/research/
-coordinate location	32.7268185,-117.1537806
+coordinate location	32.7268185,-117.1537806,earth
 postal code	92101
 CREATE	item	Academy of Motion Picture Arts and Sciences - Margaret Herrick Library	an institution in California	
 instance of	place
@@ -439,7 +439,7 @@ name	Academy of Motion Picture Arts and Sciences - Margaret Herrick Library,en
 located at street address	333 S La Cienega Blvd 
 contact information website	http://www.oscars.org/library
 OCLC institution registry ID	85113
-coordinate location	34.0603,-118.377
+coordinate location	34.0603,-118.377,earth
 postal code	90211
 CREATE	item	J. Craig Venter Institute Archives	an institution in California	
 instance of	place
@@ -449,7 +449,7 @@ located in the administrative territorial entity	California
 name	J. Craig Venter Institute Archives,en
 located at street address	 
 contact information website	http://www.jcvi.org/cms/home/
-coordinate location	32.8703694,-117.2434775
+coordinate location	32.8703694,-117.2434775,earth
 postal code	90237
 CREATE	item	Santa Clara University	an institution in California	
 instance of	place
@@ -461,7 +461,7 @@ located at street address	500 El Camino Real
 contact information website	http://www.scu.edu/archives/about/contact.cfm
 OCLC institution registry ID	404
 OCLC holdings symbol	STA
-coordinate location	37.34901,-121.939148
+coordinate location	37.34901,-121.939148,earth
 postal code	95053
 CREATE	item	Charles M. Schulz Museum and Research Center	an institution in California	
 instance of	place
@@ -471,7 +471,7 @@ located in the administrative territorial entity	California
 name	Charles M. Schulz Museum and Research Center,en
 located at street address	 
 contact information website	http://schulzmuseum.org/explore/
-coordinate location	38.4603572,-122.7359502
+coordinate location	38.4603572,-122.7359502,earth
 postal code	95403
 CREATE	item	Shasta County Library	an institution in California	
 instance of	place
@@ -483,7 +483,7 @@ located at street address	1100 Parkview Ave
 contact information website	http://www.shastalibraries.org/
 OCLC institution registry ID	52164
 OCLC holdings symbol	JTC
-coordinate location	40.57322,-122.385627
+coordinate location	40.57322,-122.385627,earth
 postal code	96001
 CREATE	item	University of California, Riverside - Water Resources Collections and Archives	an institution in California	
 instance of	place
@@ -494,7 +494,7 @@ name	University of California, Riverside - Water Resources Collections and Archi
 located at street address	 
 contact information website	http://library.ucr.edu/wrca/
 OCLC institution registry ID	67822
-coordinate location	,
+coordinate location	,,earth
 postal code	92517
 CREATE	item	University of California, Riverside - Special Collections and University Archives	an institution in California	
 instance of	place
@@ -505,7 +505,7 @@ name	University of California, Riverside - Special Collections and University Ar
 located at street address	PO Box 5900 
 contact information website	http://library.ucr.edu/?view=collections/spcol
 OCLC institution registry ID	91118
-coordinate location	33.97925,-117.371699
+coordinate location	33.97925,-117.371699,earth
 postal code	92517
 CREATE	item	Los Angeles County Museum of Art	an institution in California	
 instance of	place
@@ -517,7 +517,7 @@ located at street address	5905 Wilshire Blvd
 contact information website	http://www.lacma.org/libraries-research-intro
 OCLC institution registry ID	42197
 OCLC holdings symbol	CAM
-coordinate location	34.0628395,-118.357735
+coordinate location	34.0628395,-118.357735,earth
 postal code	90036
 CREATE	item	Mojave Desert Archives	an institution in California	
 instance of	place
@@ -529,7 +529,7 @@ located at street address	Po Box 7
 contact information website	http://www.mdhca.org/cultural-center/mojave-desert-archives
 OCLC institution registry ID	44851
 OCLC holdings symbol	D5M
-coordinate location	34.9212685,-115.067085
+coordinate location	34.9212685,-115.067085,earth
 postal code	92332
 CREATE	item	San Diego City Clerk's Archives	an institution in California	
 instance of	place
@@ -539,7 +539,7 @@ located in the administrative territorial entity	California
 name	San Diego City Clerk's Archives,en
 located at street address	 
 contact information website	https://www.sandiego.gov/city-clerk/inforecords/archive
-coordinate location	32.7169145,-117.162969
+coordinate location	32.7169145,-117.162969,earth
 postal code	92101
 CREATE	item	Archive of American Television	an institution in California	
 instance of	place
@@ -549,7 +549,7 @@ located in the administrative territorial entity	California
 name	Archive of American Television,en
 located at street address	 
 contact information website	http://www.emmytvlegends.org/about-the-archive
-coordinate location	34.1651654,-118.3747585
+coordinate location	34.1651654,-118.3747585,earth
 postal code	
 CREATE	item	San Francisco Theological Seminary	an institution in California	
 instance of	place
@@ -560,7 +560,7 @@ name	San Francisco Theological Seminary,en
 located at street address	 
 contact information website	http://sfts.edu/students/libraries/
 OCLC institution registry ID	392
-coordinate location	,
+coordinate location	,,earth
 postal code	94960
 CREATE	item	Sutter's Fort State Historic Park	an institution in California	
 instance of	place
@@ -569,7 +569,7 @@ ArchiveGrid contributor ID	10929
 located in the administrative territorial entity	California
 name	Sutter's Fort State Historic Park,en
 contact information website	https://www.suttersfort.org/
-coordinate location	38.57230620000001,-121.4711749
+coordinate location	38.57230620000001,-121.4711749,earth
 postal code	95816
 CREATE	item	Go For Broke National Education Center	an institution in California	
 instance of	place
@@ -578,7 +578,7 @@ ArchiveGrid contributor ID	10937
 located in the administrative territorial entity	California
 name	Go For Broke National Education Center,en
 contact information website	http://www.goforbroke.org/
-coordinate location	34.0494904,-118.2396105
+coordinate location	34.0494904,-118.2396105,earth
 postal code	90012
 CREATE	item	Sonoma State University - Schulz Library	an institution in California	
 instance of	place
@@ -590,7 +590,7 @@ located at street address	1801 East Cotati Avenue
 contact information website	http://library.sonoma.edu/regional/
 OCLC institution registry ID	420
 OCLC holdings symbol	CSO
-coordinate location	38.3439,-122.7
+coordinate location	38.3439,-122.7,earth
 postal code	94928
 CREATE	item	Stanford University 	an institution in California	
 instance of	place
@@ -602,7 +602,7 @@ located at street address
 contact information website	http://library.stanford.edu/spc/
 OCLC institution registry ID	104405
 OCLC holdings symbol	STF
-coordinate location	37.42401505,-122.17022705
+coordinate location	37.42401505,-122.17022705,earth
 postal code	94305
 CREATE	item	Stanford University - Hoover Institution Library and Archives	an institution in California	
 instance of	place
@@ -614,7 +614,7 @@ located at street address	Hoover Tower, 550 Serra Mall
 contact information website	http://www.hoover.org/library-archives/using-the-archives
 OCLC institution registry ID	91156
 OCLC holdings symbol	HIN
-coordinate location	37.43137,-122.168924
+coordinate location	37.43137,-122.168924,earth
 postal code	943056010
 CREATE	item	Saint Mary's College - Saint Albert Hall	an institution in California	
 instance of	place
@@ -626,7 +626,7 @@ located at street address	1928 St. Mary's Road
 contact information website	http://library.stmarys-ca.edu/
 OCLC institution registry ID	4678
 OCLC holdings symbol	GH0
-coordinate location	37.8596001,-122.12397
+coordinate location	37.8596001,-122.12397,earth
 postal code	94575
 CREATE	item	Orange Public Library	an institution in California	
 instance of	place
@@ -638,7 +638,7 @@ located at street address	407 East Chapman Avenue
 contact information website	http://www.cityoforange.org/localhistory/
 OCLC institution registry ID	8551
 OCLC holdings symbol	ORO
-coordinate location	33.7881,-117.85
+coordinate location	33.7881,-117.85,earth
 postal code	92866
 CREATE	item	Pomona Public Library	an institution in California	
 instance of	place
@@ -650,7 +650,7 @@ located at street address	625 S Garey Ave PO Box 2271
 contact information website	http://www.youseemore.com/pomona/
 OCLC institution registry ID	8563
 OCLC holdings symbol	PFO
-coordinate location	34.0546,-117.75
+coordinate location	34.0546,-117.75,earth
 postal code	91769
 CREATE	item	San Diego History Center	an institution in California	
 instance of	place
@@ -662,7 +662,7 @@ located at street address	Research Archives PO Box 81825
 contact information website	https://www.sandiegohistory.org/library_programs/
 OCLC institution registry ID	62225
 OCLC holdings symbol	RW7
-coordinate location	32.715685,-117.161724
+coordinate location	32.715685,-117.161724,earth
 postal code	92101
 CREATE	item	University of California, Berkeley - Bancroft Library	an institution in California	
 instance of	place
@@ -674,7 +674,7 @@ located at street address	The UC Berkeley Library 255 Doe Annex
 contact information website	http://www.lib.berkeley.edu/libraries/bancroft-library
 OCLC institution registry ID	5689
 OCLC holdings symbol	RQE
-coordinate location	37.8757515,-122.243408
+coordinate location	37.8757515,-122.243408,earth
 postal code	947206000
 CREATE	item	University of California, Berkeley – East Asian Library	an institution in California	
 instance of	place
@@ -684,7 +684,7 @@ located in the administrative territorial entity	California
 name	University of California, Berkeley – East Asian Library,en
 located at street address	 
 contact information website	http://www.lib.berkeley.edu/EAL/about/hours.html
-coordinate location	,
+coordinate location	,,earth
 postal code	947206000
 CREATE	item	University of California, Berkeley - School of Law Library	an institution in California	
 instance of	place
@@ -696,7 +696,7 @@ located at street address	Boalt Hall
 contact information website	http://www.law.berkeley.edu/library.htm
 OCLC institution registry ID	4685
 OCLC holdings symbol	BOL
-coordinate location	37.87,-122.253
+coordinate location	37.87,-122.253,earth
 postal code	947206000
 CREATE	item	University of California, Davis - Shields Library	an institution in California	
 instance of	place
@@ -708,7 +708,7 @@ located at street address	100 NW Quad
 contact information website	http://www.lib.ucdavis.edu/dept/specol/
 OCLC institution registry ID	5697
 OCLC holdings symbol	CUV
-coordinate location	38.5546417,-121.745003
+coordinate location	38.5546417,-121.745003,earth
 postal code	956165292
 CREATE	item	University of California, Riverside	an institution in California	
 instance of	place
@@ -720,7 +720,7 @@ located at street address	Ill - Rivera Library / University of California 3401 W
 contact information website	http://library.ucr.edu/
 OCLC institution registry ID	208
 OCLC holdings symbol	CRU
-coordinate location	33.972726,-117.32714
+coordinate location	33.972726,-117.32714,earth
 postal code	925175900
 CREATE	item	University of California, San Diego	an institution in California	
 instance of	place
@@ -732,7 +732,7 @@ located at street address	9500 Gilman Drive, Dept. 0175G
 contact information website	http://libraries.ucsd.edu/
 OCLC institution registry ID	30059
 OCLC holdings symbol	CUS
-coordinate location	32.8811,-117.237
+coordinate location	32.8811,-117.237,earth
 postal code	920930175
 CREATE	item	University of California, San Francisco - Archives and Special Collections	an institution in California	
 instance of	place
@@ -744,7 +744,7 @@ located at street address	Library &amp; CKM 530 Parnassus Avenue
 contact information website	https://www.library.ucsf.edu/archives/
 OCLC institution registry ID	210
 OCLC holdings symbol	CUN
-coordinate location	37.7616,-122.458
+coordinate location	37.7616,-122.458,earth
 postal code	941430840
 CREATE	item	University of California, Santa Barbara - Davidson Library	an institution in California	
 instance of	place
@@ -756,7 +756,7 @@ located at street address	UCSB Library 525 UCEN Road
 contact information website	http://www.library.ucsb.edu/special-collections/collections
 OCLC institution registry ID	211
 OCLC holdings symbol	CUT
-coordinate location	34.4329987,-119.835388
+coordinate location	34.4329987,-119.835388,earth
 postal code	93106
 CREATE	item	University of California, Santa Cruz	an institution in California	
 instance of	place
@@ -768,7 +768,7 @@ located at street address	University of California, Santa Cruz University Librar
 contact information website	http://library.ucsc.edu/speccoll/
 OCLC institution registry ID	4688
 OCLC holdings symbol	CUZ
-coordinate location	36.9961,-122.059
+coordinate location	36.9961,-122.059,earth
 postal code	950641019
 CREATE	item	University of California, Irvine - Special Collections	an institution in California	
 instance of	place
@@ -779,7 +779,7 @@ name	University of California, Irvine - Special Collections,en
 located at street address	Univ of California Irvine 
 contact information website	http://special.lib.uci.edu/
 OCLC institution registry ID	5656
-coordinate location	33.647265,-117.841035
+coordinate location	33.647265,-117.841035,earth
 postal code	926239557
 CREATE	item	Anaheim Public Library - Anaheim Heritage Center	an institution in California	
 instance of	place
@@ -791,7 +791,7 @@ located at street address	500 W Broadway
 contact information website	http://www.anaheim.net/765/Anaheim-Heritage-Center
 OCLC institution registry ID	8476
 OCLC holdings symbol	JQD
-coordinate location	33.83235,-117.907039
+coordinate location	33.83235,-117.907039,earth
 postal code	92805
 CREATE	item	University of California, Berkeley – Music Library	an institution in California	
 instance of	place
@@ -801,7 +801,7 @@ located in the administrative territorial entity	California
 name	University of California, Berkeley – Music Library,en
 located at street address	 
 contact information website	http://www.lib.berkeley.edu/MUSI/location.html
-coordinate location	,
+coordinate location	,,earth
 postal code	94720
 CREATE	item	University of California, Los Angeles - Charles E. Young Research Library	an institution in California	
 instance of	place
@@ -813,7 +813,7 @@ located at street address	University Res Libr 11334 PO Box 951575
 contact information website	http://www.library.ucla.edu/libraries/researchlibrary/research-library-charles-e-young
 OCLC institution registry ID	207
 OCLC holdings symbol	CLU
-coordinate location	34.0703,-118.448
+coordinate location	34.0703,-118.448,earth
 postal code	90018
 CREATE	item	Book Club of California	an institution in California	
 instance of	place
@@ -825,7 +825,7 @@ located at street address	312 Sutter St Ste 510
 contact information website	http://www.bccbooks.org/welcome/contact-us/
 OCLC institution registry ID	7459
 OCLC holdings symbol	BQT
-coordinate location	37.7897263,-122.405731
+coordinate location	37.7897263,-122.405731,earth
 postal code	94108
 CREATE	item	California State Archives	an institution in California	
 instance of	place
@@ -837,7 +837,7 @@ located at street address	1020 O Street
 contact information website	http://www.sos.ca.gov/archives/
 OCLC institution registry ID	91372
 OCLC holdings symbol	CSAVA
-coordinate location	38.5745,-121.496
+coordinate location	38.5745,-121.496,earth
 postal code	95814
 CREATE	item	Silicon Valley Information Center	an institution in California	
 instance of	place
@@ -849,7 +849,7 @@ located at street address
 contact information website	http://www.sjpl.org/caroom
 OCLC institution registry ID	6576
 OCLC holdings symbol	JUV
-coordinate location	37.330008,-121.889596
+coordinate location	37.330008,-121.889596,earth
 postal code	95192
 CREATE	item	University of the Pacific - William Knox Holt Memorial Library	an institution in California	
 instance of	place
@@ -861,7 +861,7 @@ located at street address	3601 Pacific Avenue
 contact information website	http://library.pacific.edu/ha/
 OCLC institution registry ID	360
 OCLC holdings symbol	UOP
-coordinate location	37.9767036,-121.315178
+coordinate location	37.9767036,-121.315178,earth
 postal code	95211
 CREATE	item	Holocaust Center of Northern California Archives	an institution in California	
 instance of	place
@@ -873,7 +873,7 @@ located at street address	2245 Post Street P.O. Box 159004
 contact information website	http://jfcsholocaustcenter.org/library-archives/
 OCLC institution registry ID	49801
 OCLC holdings symbol	HNO
-coordinate location	37.7931,-122.393
+coordinate location	37.7931,-122.393,earth
 postal code	94118
 CREATE	item	Intel Museum Archives	an institution in California	
 instance of	place
@@ -884,7 +884,7 @@ name	Intel Museum Archives,en
 located at street address	2200 Mission College Blvd. 
 contact information website	http://www.intel.com/museum/index.htm
 OCLC institution registry ID	103356
-coordinate location	37.38643265,-121.96379852
+coordinate location	37.38643265,-121.96379852,earth
 postal code	95054
 CREATE	item	Los Angeles Public Library	an institution in California	
 instance of	place
@@ -896,7 +896,7 @@ located at street address	630 West 5th Street
 contact information website	http://www.lapl.org/about-lapl/about-library
 OCLC institution registry ID	8529
 OCLC holdings symbol	LPU
-coordinate location	34.0503,-118.254
+coordinate location	34.0503,-118.254,earth
 postal code	900712097
 CREATE	item	Yuba County Library	an institution in California	
 instance of	place
@@ -908,7 +908,7 @@ located at street address
 contact information website	http://www.co.yuba.ca.us/Departments/Library/
 OCLC institution registry ID	8623
 OCLC holdings symbol	JTS
-coordinate location	,
+coordinate location	,,earth
 postal code	95901
 CREATE	item	California State Library - Sutro Library	an institution in California	
 instance of	place
@@ -920,7 +920,7 @@ located at street address	J. Paul Leonard Library, Rm. 610 1630 Holloway Avenue
 contact information website	http://www.library.ca.gov/about/cslgen3.html
 OCLC institution registry ID	113597
 OCLC holdings symbol	SUTRO
-coordinate location	37.721405,-122.47805
+coordinate location	37.721405,-122.47805,earth
 postal code	94237
 CREATE	item	University of Southern California - Hancock Natural History Collection	an institution in California	
 instance of	place
@@ -932,7 +932,7 @@ located at street address	Doheny Libr 3550 Trousdale Pky
 contact information website	https://libraries.usc.edu/locations/special-collections/hancock-natural-history-collection
 OCLC institution registry ID	113522
 OCLC holdings symbol	HBO
-coordinate location	34.0201967,-118.2837252
+coordinate location	34.0201967,-118.2837252,earth
 postal code	90089
 CREATE	item	Sutter County Library	an institution in California	
 instance of	place
@@ -944,7 +944,7 @@ located at street address	750 Forbes Ave
 contact information website	http://www.co.sutter.ca.us/doc/government/depts/library/library
 OCLC institution registry ID	8609
 OCLC holdings symbol	SUT
-coordinate location	39.137545,-121.624526
+coordinate location	39.137545,-121.624526,earth
 postal code	95991
 CREATE	item	Santa Clara City Library	an institution in California	
 instance of	place
@@ -956,7 +956,7 @@ located at street address	2635 Homestead Rd
 contact information website	http://santaclaraca.gov/government/departments/library
 OCLC institution registry ID	8590
 OCLC holdings symbol	JRZ
-coordinate location	37.3477287,-121.984909
+coordinate location	37.3477287,-121.984909,earth
 postal code	95051
 CREATE	item	San Jose Public Library - Local History Collection	an institution in California	
 instance of	place
@@ -968,7 +968,7 @@ located at street address	150 East San Fernando Street
 contact information website	http://www.sjpl.org/caroom
 OCLC institution registry ID	8580
 OCLC holdings symbol	SJP
-coordinate location	37.3356552,-121.885315
+coordinate location	37.3356552,-121.885315,earth
 postal code	95112
 CREATE	item	San Joaquin Valley Library System	an institution in California	
 instance of	place
@@ -980,7 +980,7 @@ located at street address	2420 Mariposa St
 contact information website	http://www.sjvls.org/
 OCLC institution registry ID	6584
 OCLC holdings symbol	SJL
-coordinate location	36.7379631,-119.7865443
+coordinate location	36.7379631,-119.7865443,earth
 postal code	93721
 CREATE	item	Richmond Public Library	an institution in California	
 instance of	place
@@ -992,7 +992,7 @@ located at street address	325 Civic Ctr Plz
 contact information website	http://www.ci.richmond.ca.us/index.asp?NID=105
 OCLC institution registry ID	8567
 OCLC holdings symbol	JRR
-coordinate location	37.9355431,-122.343643
+coordinate location	37.9355431,-122.343643,earth
 postal code	94066
 CREATE	item	University of California, Los Angeles - Louise M. Darling Biomedical Library	an institution in California	
 instance of	place
@@ -1005,7 +1005,7 @@ contact information website	https://www.library.ucla.edu/biomed
 OCLC institution registry ID	91088
 OCLC holdings symbol	TH0
 OCLC holdings symbol	UL1
-coordinate location	34.066557,-118.442779
+coordinate location	34.066557,-118.442779,earth
 postal code	90095
 CREATE	item	San Jose State University - Sourisseau Academy for State and Local History	an institution in California	
 instance of	place
@@ -1017,7 +1017,7 @@ located at street address	One Washington Square King Library
 contact information website	http://www.sourisseauacademy.org/our_collections.html
 OCLC institution registry ID	400
 OCLC holdings symbol	2CS
-coordinate location	37.3433,-121.891
+coordinate location	37.3433,-121.891,earth
 postal code	95051
 CREATE	item	Stanford University - Archive of Recorded Sound	an institution in California	
 instance of	place
@@ -1028,7 +1028,7 @@ name	Stanford University - Archive of Recorded Sound,en
 located at street address	 
 contact information website	http://www-sul.stanford.edu/depts/ars/about/access_circ.html
 OCLC institution registry ID	104403
-coordinate location	37.42401505,-122.17022705
+coordinate location	37.42401505,-122.17022705,earth
 postal code	94305-3076
 CREATE	item	Chula Vista Public Library - John Rojas Local History Room	an institution in California	
 instance of	place
@@ -1040,7 +1040,7 @@ located at street address	365 F St
 contact information website	http://www.chulavistalibrary.com/
 OCLC institution registry ID	8492
 OCLC holdings symbol	CVL
-coordinate location	32.624874,-117.014313
+coordinate location	32.624874,-117.014313,earth
 postal code	91910
 CREATE	item	Covina Public Library	an institution in California	
 instance of	place
@@ -1052,7 +1052,7 @@ located at street address	234 N 2nd Ave
 contact information website	http://www.covinaca.gov/library/page/about-library
 OCLC institution registry ID	8499
 OCLC holdings symbol	CVP
-coordinate location	34.0878181,-117.887718
+coordinate location	34.0878181,-117.887718,earth
 postal code	91723
 CREATE	item	Santa Barbara Botanic Garden	an institution in California	
 instance of	place
@@ -1064,7 +1064,7 @@ located at street address	1212 Mission Canyon Road
 contact information website	http://www.sbbg.org/learn-discover/blaksley-library
 OCLC institution registry ID	85153
 OCLC holdings symbol	SBB
-coordinate location	34.454212,-119.709384
+coordinate location	34.454212,-119.709384,earth
 postal code	93105
 CREATE	item	Society of California Pioneers	an institution in California	
 instance of	place
@@ -1076,7 +1076,7 @@ located at street address	101 Montgomery Street, Suite 150 Presidio of San Franc
 contact information website	http://www.californiapioneers.org/home/visit/
 OCLC institution registry ID	44352
 OCLC holdings symbol	CPZ
-coordinate location	37.8,-122.46
+coordinate location	37.8,-122.46,earth
 postal code	94107-1272
 CREATE	item	San Mateo Public Library	an institution in California	
 instance of	place
@@ -1088,7 +1088,7 @@ located at street address	55 West 3rd Avenue
 contact information website	http://www.cityofsanmateo.org/index.aspx?nid=507
 OCLC institution registry ID	8586
 OCLC holdings symbol	JTE
-coordinate location	37.5622902,-122.326805
+coordinate location	37.5622902,-122.326805,earth
 postal code	94402
 CREATE	item	San Joaquin County Museum	an institution in California	
 instance of	place
@@ -1099,7 +1099,7 @@ name	San Joaquin County Museum,en
 located at street address	11793 North Micke Grove Road 
 contact information website	http://www.sanjoaquinhistory.org/
 OCLC institution registry ID	103969
-coordinate location	38.0791,-121.272
+coordinate location	38.0791,-121.272,earth
 postal code	95241
 CREATE	item	San Bruno Public Library	an institution in California	
 instance of	place
@@ -1111,7 +1111,7 @@ located at street address	701 Angus Avenue West
 contact information website	https://www.sanbruno.ca.gov/gov/city_departments/community_services/library/default.htm
 OCLC institution registry ID	8576
 OCLC holdings symbol	JRX
-coordinate location	37.6252975,-122.414848
+coordinate location	37.6252975,-122.414848,earth
 postal code	94066
 CREATE	item	Palos Verdes Public Library	an institution in California	
 instance of	place
@@ -1123,7 +1123,7 @@ located at street address	701 Silver Spur Rd.
 contact information website	http://www.pvld.org/
 OCLC institution registry ID	8557
 OCLC holdings symbol	PVL
-coordinate location	33.771122,-118.370602
+coordinate location	33.771122,-118.370602,earth
 postal code	90274
 CREATE	item	Redwood City Public Library - Local History Collection	an institution in California	
 instance of	place
@@ -1135,7 +1135,7 @@ located at street address	1044 Middlefield Rd
 contact information website	https://www.redwoodcity.org/departments/library
 OCLC institution registry ID	8566
 OCLC holdings symbol	JRQ
-coordinate location	37.4840965,-122.227264
+coordinate location	37.4840965,-122.227264,earth
 postal code	94063
 CREATE	item	Loyola Marymount University	an institution in California	
 instance of	place
@@ -1147,7 +1147,7 @@ located at street address	Library 1 LMU Dr, MS 8200
 contact information website	http://library.lmu.edu/
 OCLC institution registry ID	319
 OCLC holdings symbol	LML
-coordinate location	33.951611,-118.387578
+coordinate location	33.951611,-118.387578,earth
 postal code	90045
 CREATE	item	Berkeley Public Library - Berkeley History Room	an institution in California	
 instance of	place
@@ -1159,7 +1159,7 @@ located at street address	2090 Kittredge at Shattuck
 contact information website	http://www.berkeleypubliclibrary.org/
 OCLC institution registry ID	8480
 OCLC holdings symbol	JQF
-coordinate location	37.8674164,-122.259659
+coordinate location	37.8674164,-122.259659,earth
 postal code	94704
 CREATE	item	Los Angeles County Metropolitan Transportation Authority	an institution in California	
 instance of	place
@@ -1171,7 +1171,7 @@ located at street address	1 Gateway Plaza, 15th floor
 contact information website	http://www.metro.net/about_us/library/contact.htm#TopOfPage
 OCLC institution registry ID	85107
 OCLC holdings symbol	CRD
-coordinate location	34.0563,-118.233
+coordinate location	34.0563,-118.233,earth
 postal code	90012-2952
 CREATE	item	Oakland Public Library	an institution in California	
 instance of	place
@@ -1183,7 +1183,7 @@ located at street address	125 14th Street
 contact information website	http://www.oaklandlibrary.org/locations/oakland-history-room
 OCLC institution registry ID	8547
 OCLC holdings symbol	JRK
-coordinate location	37.8102,-122.269
+coordinate location	37.8102,-122.269,earth
 postal code	94612
 CREATE	item	Alameda County Law Library	an institution in California	
 instance of	place
@@ -1195,7 +1195,7 @@ located at street address	125 Twelfth Street
 contact information website	http://www.acgov.org/law/
 OCLC institution registry ID	100128
 OCLC holdings symbol	CACLA
-coordinate location	37.7996,-122.264
+coordinate location	37.7996,-122.264,earth
 postal code	946074912
 CREATE	item	Autry National Center - Museum of the American West	an institution in California	
 instance of	place
@@ -1207,7 +1207,7 @@ located at street address	4700 Western Heritage Way
 contact information website	https://theautry.org/research-collections/library-and-archives-autry
 OCLC institution registry ID	91358
 OCLC holdings symbol	CGAVW
-coordinate location	34.1496429,-118.281883
+coordinate location	34.1496429,-118.281883,earth
 postal code	90027-1462
 CREATE	item	California Historical Society - North Baker Research Library	an institution in California	
 instance of	place
@@ -1219,7 +1219,7 @@ located at street address	North Baker Research Library 678 Mission Street
 contact information website	http://www.californiahistoricalsociety.org/visit/
 OCLC institution registry ID	62265
 OCLC holdings symbol	RX3
-coordinate location	37.789572,-122.394712
+coordinate location	37.789572,-122.394712,earth
 postal code	94105
 CREATE	item	California Institute of Technology - Archives and Special Collections	an institution in California	
 instance of	place
@@ -1231,7 +1231,7 @@ located at street address	1200 East California Blvd. Mail Code 1-32
 contact information website	http://archives.caltech.edu/contact/index.html
 OCLC institution registry ID	185
 OCLC holdings symbol	CIT
-coordinate location	34.1368828,-118.12458
+coordinate location	34.1368828,-118.12458,earth
 postal code	91125
 CREATE	item	California State Library - California History Room	an institution in California	
 instance of	place
@@ -1243,7 +1243,7 @@ located at street address	900 N Street
 contact information website	http://www.library.ca.gov/about/cslgen3.html
 OCLC institution registry ID	64185
 OCLC holdings symbol	CAX
-coordinate location	38.5758,-121.496
+coordinate location	38.5758,-121.496,earth
 postal code	942370001
 CREATE	item	Claremont Colleges	an institution in California	
 instance of	place
@@ -1255,7 +1255,7 @@ located at street address	Honnold/Mudd Library 800 N Dartmouth Ave
 contact information website	http://libraries.claremont.edu/sc/
 OCLC institution registry ID	5640
 OCLC holdings symbol	HDC
-coordinate location	34.1021309,-117.712601
+coordinate location	34.1021309,-117.712601,earth
 postal code	91711
 CREATE	item	Fresno County Free Library	an institution in California	
 instance of	place
@@ -1267,7 +1267,7 @@ located at street address	2420 Mariposa Street
 contact information website	http://www.fresnolibrary.org/
 OCLC institution registry ID	8509
 OCLC holdings symbol	JQR
-coordinate location	36.7343674,-119.782898
+coordinate location	36.7343674,-119.782898,earth
 postal code	93721
 CREATE	item	Getty Research Institute	an institution in California	
 instance of	place
@@ -1279,7 +1279,7 @@ located at street address	1200 Getty Center Drive Suite 1100
 contact information website	http://www.getty.edu/research/
 OCLC institution registry ID	5616
 OCLC holdings symbol	JPG
-coordinate location	34.088504,-118.476258
+coordinate location	34.088504,-118.476258,earth
 postal code	900491688
 CREATE	item	Graduate Theological Union - Special Collections and Archives	an institution in California	
 instance of	place
@@ -1291,7 +1291,7 @@ located at street address	2400 Ridge Road
 contact information website	http://www.gtu.edu/
 OCLC institution registry ID	274
 OCLC holdings symbol	GTX
-coordinate location	37.8756,-122.262
+coordinate location	37.8756,-122.262,earth
 postal code	94709
 CREATE	item	University of California, Berkeley	an institution in California	
 instance of	place
@@ -1303,7 +1303,7 @@ located at street address	The UC Berkeley Library 255 Doe Annex
 contact information website	http://www.lib.berkeley.edu/
 OCLC institution registry ID	5689
 OCLC holdings symbol	CUY
-coordinate location	37.8757515,-122.243408
+coordinate location	37.8757515,-122.243408,earth
 postal code	947206000
 CREATE	item	Mills College - F.W. Olin Library	an institution in California	
 instance of	place
@@ -1315,7 +1315,7 @@ located at street address	Library 5000 Macarthur Blvd
 contact information website	http://www.mills.edu/academics/library/special_collections/sc_guide.php
 OCLC institution registry ID	331
 OCLC holdings symbol	MIQ
-coordinate location	37.7796669,-122.183708
+coordinate location	37.7796669,-122.183708,earth
 postal code	94613
 CREATE	item	California State University, Channel Islands 	an institution in California	
 instance of	place
@@ -1327,7 +1327,7 @@ located at street address	John Spoor Broome Library 1 University Drive
 contact information website	http://library.csuci.edu/collections/index.htm
 OCLC institution registry ID	5667
 OCLC holdings symbol	U$C
-coordinate location	34.220208,-118.997287
+coordinate location	34.220208,-118.997287,earth
 postal code	93012
 CREATE	item	Hebrew Union College – Jewish Institute of Religion – Frances-Henry Library	an institution in California	
 instance of	place
@@ -1338,7 +1338,7 @@ name	Hebrew Union College – Jewish Institute of Religion – Frances-Henry Library
 located at street address	 
 contact information website	http://www.usc.edu/dept/huc-la/
 OCLC institution registry ID	88919
-coordinate location	,
+coordinate location	,,earth
 postal code	900073796
 CREATE	item	Glendale Public Library - Special Collections Room	an institution in California	
 instance of	place
@@ -1350,7 +1350,7 @@ located at street address	222 E Harvard St
 contact information website	http://www.glendalepubliclibrary.org
 OCLC institution registry ID	8511
 OCLC holdings symbol	CGL
-coordinate location	34.1442833,-118.253494
+coordinate location	34.1442833,-118.253494,earth
 postal code	91205
 CREATE	item	Humboldt State University - Special Collections	an institution in California	
 instance of	place
@@ -1362,7 +1362,7 @@ located at street address	One Harpst Street
 contact information website	http://library.humboldt.edu/humco/
 OCLC institution registry ID	285
 OCLC holdings symbol	CHU
-coordinate location	40.8740082,-124.081406
+coordinate location	40.8740082,-124.081406,earth
 postal code	95521
 CREATE	item	Stanford University Library	an institution in California	
 instance of	place
@@ -1373,7 +1373,7 @@ name	Stanford University Library,en
 located at street address	 
 contact information website	http://www-sul.stanford.edu/libraries_collections/hours_locations.html
 OCLC institution registry ID	3227
-coordinate location	,
+coordinate location	,,earth
 postal code	94305
 CREATE	item	Mission Viejo Library	an institution in California	
 instance of	place
@@ -1385,7 +1385,7 @@ located at street address	100 Civic Center
 contact information website	http://cmvl.org/
 OCLC institution registry ID	8639
 OCLC holdings symbol	MMK
-coordinate location	33.5952301,-117.659248
+coordinate location	33.5952301,-117.659248,earth
 postal code	92691
 CREATE	item	Huntington Library, Art Collections, and Botanical Gardens	an institution in California	
 instance of	place
@@ -1397,7 +1397,7 @@ located at street address	1151 Oxford Rd
 contact information website	http://www.huntington.org
 OCLC institution registry ID	50042
 OCLC holdings symbol	HUV
-coordinate location	34.1273766,-118.109528
+coordinate location	34.1273766,-118.109528,earth
 postal code	91108
 CREATE	item	Kern County Library	an institution in California	
 instance of	place
@@ -1409,7 +1409,7 @@ located at street address	701 Truxtun Ave
 contact information website	http://www.kerncountylibrary.org/
 OCLC institution registry ID	8519
 OCLC holdings symbol	KLC
-coordinate location	35.3835,-119.008
+coordinate location	35.3835,-119.008,earth
 postal code	93301
 CREATE	item	Fresno City and County Historical Society Archives	an institution in California	
 instance of	place
@@ -1420,7 +1420,7 @@ name	Fresno City and County Historical Society Archives,en
 located at street address	7160 West Kearney Boulevard 
 contact information website	http://www.valleyhistory.org/index.php?c=46
 OCLC institution registry ID	102936
-coordinate location	36.727932,-119.919118
+coordinate location	36.727932,-119.919118,earth
 postal code	93706
 CREATE	item	California State Railroad Museum - Library and Collections	an institution in California	
 instance of	place
@@ -1432,7 +1432,7 @@ located at street address	Library 111 I St
 contact information website	https://www.californiarailroad.museum/visit/library
 OCLC institution registry ID	62040
 OCLC holdings symbol	RRM
-coordinate location	38.5801,-121.495
+coordinate location	38.5801,-121.495,earth
 postal code	95814
 CREATE	item	California State University, Chico - Special Collections	an institution in California	
 instance of	place
@@ -1444,7 +1444,7 @@ located at street address	Meriam Library 1st &amp; IVY ST
 contact information website	http://www.csuchico.edu/lbib/spc/netpages/home.html
 OCLC institution registry ID	5699
 OCLC holdings symbol	CCH
-coordinate location	39.7281,-121.846
+coordinate location	39.7281,-121.846,earth
 postal code	959290925
 CREATE	item	California State University, Dominguez Hills - Department of Archives and Special Collections	an institution in California	
 instance of	place
@@ -1456,7 +1456,7 @@ located at street address	1000 East Victoria Street
 contact information website	http://archives.csudh.edu/
 OCLC institution registry ID	197
 OCLC holdings symbol	CDH
-coordinate location	33.8669,-118.254
+coordinate location	33.8669,-118.254,earth
 postal code	90747
 CREATE	item	California State University, Fresno - Special Collections Research Center	an institution in California	
 instance of	place
@@ -1468,7 +1468,7 @@ located at street address	5200 North Barton Avenue, M/S Ml 34
 contact information website	http://scrc.lib.csufresno.edu/
 OCLC institution registry ID	198
 OCLC holdings symbol	CFS
-coordinate location	36.8099,-119.75
+coordinate location	36.8099,-119.75,earth
 postal code	937408014
 CREATE	item	Gay, Lesbian, Bisexual, Transgender Historical Society	an institution in California	
 instance of	place
@@ -1479,7 +1479,7 @@ name	Gay, Lesbian, Bisexual, Transgender Historical Society,en
 located at street address	657 Mission Street #300 
 contact information website	http://www.glbthistory.org/research/index.html
 OCLC institution registry ID	102939
-coordinate location	37.78670883,-122.40084076
+coordinate location	37.78670883,-122.40084076,earth
 postal code	94142
 CREATE	item	Japanese American National Museum	an institution in California	
 instance of	place
@@ -1490,7 +1490,7 @@ name	Japanese American National Museum,en
 located at street address	Hirasaki Nat Res Ctr 369 E 1st St
 contact information website	http://www.janm.org/about/
 OCLC institution registry ID	31302
-coordinate location	34.06737,-118.240559
+coordinate location	34.06737,-118.240559,earth
 postal code	90012-3901
 CREATE	item	Labor Archives and Research Center	an institution in California	
 instance of	place
@@ -1501,7 +1501,7 @@ name	Labor Archives and Research Center,en
 located at street address	Route 1, Box 1001 
 contact information website	http://library.sfsu.edu/larc
 OCLC institution registry ID	103772
-coordinate location	45.7295,-107.627
+coordinate location	45.7295,-107.627,earth
 postal code	94132
 CREATE	item	Pasadena Historical Museum	an institution in California	
 instance of	place
@@ -1512,7 +1512,7 @@ name	Pasadena Historical Museum,en
 located at street address	470 West Walnut Street 
 contact information website	http://pasadenahistory.org/archives-library/
 OCLC institution registry ID	103966
-coordinate location	34.14902115,-118.16104889
+coordinate location	34.14902115,-118.16104889,earth
 postal code	911033594
 CREATE	item	Sacramento Archives and Museum Collection Center	an institution in California	
 instance of	place
@@ -1524,7 +1524,7 @@ located at street address	551 Sequoia Pacific Blvd
 contact information website	http://www.cityofsacramento.org/ccl/history/default.asp
 OCLC institution registry ID	54380
 OCLC holdings symbol	M4C
-coordinate location	38.598387,-121.496867
+coordinate location	38.598387,-121.496867,earth
 postal code	95814
 CREATE	item	Southern California Library for Social Studies and Research	an institution in California	
 instance of	place
@@ -1535,7 +1535,7 @@ name	Southern California Library for Social Studies and Research,en
 located at street address	6120 S. Vermont Avenue 
 contact information website	http://www.socallib.org/
 OCLC institution registry ID	104402
-coordinate location	33.98394428,-118.29150014
+coordinate location	33.98394428,-118.29150014,earth
 postal code	90044
 CREATE	item	NASA Ames Research Center	an institution in California	
 instance of	place
@@ -1549,7 +1549,7 @@ OCLC institution registry ID	74547
 OCLC holdings symbol	AAF
 OCLC holdings symbol	SSV
 OCLC holdings symbol	SSQ
-coordinate location	37.41411,-122.059449
+coordinate location	37.41411,-122.059449,earth
 postal code	94035
 CREATE	item	Oakland Museum	an institution in California	
 instance of	place
@@ -1560,7 +1560,7 @@ name	Oakland Museum,en
 located at street address	1000 Oak Street 
 contact information website	http://www.museumca.org/
 OCLC institution registry ID	103734
-coordinate location	37.7986,-122.264
+coordinate location	37.7986,-122.264,earth
 postal code	94607
 CREATE	item	Albany Public Library - Historical Collection	an institution in California	
 instance of	place
@@ -1571,7 +1571,7 @@ name	Albany Public Library - Historical Collection,en
 located at street address	1247 Marin Avenue 
 contact information website	http://www.aclibrary.org/albany
 OCLC institution registry ID	76977
-coordinate location	37.88797,-122.293198
+coordinate location	37.88797,-122.293198,earth
 postal code	94706
 CREATE	item	Mill Valley Public Library	an institution in California	
 instance of	place
@@ -1583,7 +1583,7 @@ located at street address	375 Throckmortn Ave
 contact information website	http://www.millvalleylibrary.org/
 OCLC institution registry ID	8535
 OCLC holdings symbol	MLV
-coordinate location	37.9065132,-122.554825
+coordinate location	37.9065132,-122.554825,earth
 postal code	94941
 CREATE	item	History San Jose	an institution in California	
 instance of	place
@@ -1596,7 +1596,7 @@ contact information website	http://www.historysanjose.org/
 OCLC institution registry ID	62647
 OCLC holdings symbol	S@J
 OCLC holdings symbol	HSJCD
-coordinate location	37.3191,-121.859
+coordinate location	37.3191,-121.859,earth
 postal code	95112
 CREATE	item	Wilson Riles Archives and Institute for Education	an institution in California	
 instance of	place
@@ -1607,7 +1607,7 @@ name	Wilson Riles Archives and Institute for Education,en
 located at street address	Wells Fargo Center 400 Capitol Mall, Suite 1540
 contact information website	http://wredu.com/~wriles/archive/
 OCLC institution registry ID	104701
-coordinate location	38.57833481,-121.50244904
+coordinate location	38.57833481,-121.50244904,earth
 postal code	95814
 CREATE	item	California Institute of the Arts	an institution in California	
 instance of	place
@@ -1619,7 +1619,7 @@ located at street address	Library and Information Resources 24700 McBean Pky
 contact information website	http://calarts.edu/library
 OCLC institution registry ID	217
 OCLC holdings symbol	CIA
-coordinate location	34.4116898,-118.565796
+coordinate location	34.4116898,-118.565796,earth
 postal code	91355
 CREATE	item	California Academy of Sciences	an institution in California	
 instance of	place
@@ -1631,7 +1631,7 @@ located at street address	55 Music Concourse Drive Golden Gate Park
 contact information website	http://www.calacademy.org/research/library/
 OCLC institution registry ID	85563
 OCLC holdings symbol	CAW
-coordinate location	37.7739677,-122.410446
+coordinate location	37.7739677,-122.410446,earth
 postal code	94118
 CREATE	item	Marin County Free Library	an institution in California	
 instance of	place
@@ -1643,7 +1643,7 @@ located at street address	3501 Civic Center Dr, Rm 414
 contact information website	http://www.marinlibrary.org/
 OCLC institution registry ID	8531
 OCLC holdings symbol	9JA
-coordinate location	37.9982,-122.532
+coordinate location	37.9982,-122.532,earth
 postal code	94903
 CREATE	item	San Jose State University - Special Collections and Archives	an institution in California	
 instance of	place
@@ -1655,7 +1655,7 @@ located at street address	One Washington Square King Library
 contact information website	http://library.sjsu.edu/
 OCLC institution registry ID	400
 OCLC holdings symbol	CSJ
-coordinate location	37.3433,-121.891
+coordinate location	37.3433,-121.891,earth
 postal code	95192
 CREATE	item	Stanford University - Medical History Center	an institution in California	
 instance of	place
@@ -1667,7 +1667,7 @@ located at street address	300 Pasteur Dr L109
 contact information website	http://lane.stanford.edu/about/contact.html
 OCLC institution registry ID	5678
 OCLC holdings symbol	CASUM
-coordinate location	37.4348,-122.18
+coordinate location	37.4348,-122.18,earth
 postal code	94305
 CREATE	item	University of California, Riverside - Water Resources Collections and Archives	an institution in California	
 instance of	place
@@ -1678,7 +1678,7 @@ name	University of California, Riverside - Water Resources Collections and Archi
 located at street address	 
 contact information website	http://library.ucr.edu/wrca/
 OCLC holdings symbol	WCA
-coordinate location	33.975426,-117.3315931
+coordinate location	33.975426,-117.3315931,earth
 postal code	92517
 CREATE	item	Monterey Public Library - Archives	an institution in California	
 instance of	place
@@ -1690,7 +1690,7 @@ located at street address	625 Pacific Street
 contact information website	http://www.monterey.org/library/History-Room
 OCLC institution registry ID	8540
 OCLC holdings symbol	JRD
-coordinate location	36.5963516,-121.896957
+coordinate location	36.5963516,-121.896957,earth
 postal code	93940
 CREATE	item	Computer History Museum	an institution in California	
 instance of	place
@@ -1701,7 +1701,7 @@ name	Computer History Museum,en
 located at street address	1401 N Shoreline Blvd. 
 contact information website	http://www.computerhistory.org/about/tour/
 OCLC institution registry ID	102545
-coordinate location	37.41443634,-122.07698822
+coordinate location	37.41443634,-122.07698822,earth
 postal code	94043
 CREATE	item	Sonoma County Library	an institution in California	
 instance of	place
@@ -1713,7 +1713,7 @@ located at street address	211 E St.
 contact information website	http://www.sonomalibrary.org/history/
 OCLC institution registry ID	8602
 OCLC holdings symbol	JTH
-coordinate location	38.441189,-122.71051
+coordinate location	38.441189,-122.71051,earth
 postal code	95404
 CREATE	item	Los Angeles County Law Library	an institution in California	
 instance of	place
@@ -1725,7 +1725,7 @@ located at street address	301 W 1st St
 contact information website	http://www.lalawlibrary.org/index.php/legal-research/reference-assistance.html
 OCLC institution registry ID	54206
 OCLC holdings symbol	XLX
-coordinate location	34.05437851,-118.24567413
+coordinate location	34.05437851,-118.24567413,earth
 postal code	90012
 CREATE	item	American Jewish University - Ostrow Library	an institution in California	
 instance of	place
@@ -1737,7 +1737,7 @@ located at street address	American Jewish University 15600 Mulholland Dr.
 contact information website	http://library.aju.edu/Default.aspx?id=6901
 OCLC institution registry ID	295
 OCLC holdings symbol	AI#
-coordinate location	34.1273842,-118.471611
+coordinate location	34.1273842,-118.471611,earth
 postal code	90077
 CREATE	item	Sacramento Public Library	an institution in California	
 instance of	place
@@ -1749,7 +1749,7 @@ located at street address	828 I St
 contact information website	http://www.saclibrary.org/?pageId=59
 OCLC institution registry ID	8570
 OCLC holdings symbol	JRS
-coordinate location	38.5816689,-121.495071
+coordinate location	38.5816689,-121.495071,earth
 postal code	95814
 CREATE	item	Fuller Theological Seminary - David Allan Hubbard Library	an institution in California	
 instance of	place
@@ -1761,7 +1761,7 @@ located at street address	135 North Oakland Avenue
 contact information website	http://library.fuller.edu/
 OCLC institution registry ID	268
 OCLC holdings symbol	CFT
-coordinate location	34.1478844,-118.140411
+coordinate location	34.1478844,-118.140411,earth
 postal code	91182
 CREATE	item	Watsonville Public Library	an institution in California	
 instance of	place
@@ -1773,7 +1773,7 @@ located at street address	275 Main Street
 contact information website	http://cityofwatsonville.org/public-library/research-center
 OCLC institution registry ID	8618
 OCLC holdings symbol	WTX
-coordinate location	36.9087486,-121.755417
+coordinate location	36.9087486,-121.755417,earth
 postal code	95076
 CREATE	item	California State University, Northridge - Oviatt Library	an institution in California	
 instance of	place
@@ -1785,7 +1785,7 @@ located at street address	18111 Nordhoff Street
 contact information website	http://library.csun.edu/LibraryHours.php?prm=11&chm=-1
 OCLC institution registry ID	203
 OCLC holdings symbol	CNO
-coordinate location	34.2348,-118.534
+coordinate location	34.2348,-118.534,earth
 postal code	91330
 CREATE	item	Santa Clara County Archives	an institution in California	
 instance of	place
@@ -1797,7 +1797,7 @@ located at street address	1875 Senter Rd
 contact information website	https://www.sccgov.org/sites/archives/Pages/Santa-Clara-County-Archives.aspx
 OCLC institution registry ID	116387
 OCLC holdings symbol	SCARC
-coordinate location	37.315,-121.857
+coordinate location	37.315,-121.857,earth
 postal code	95110
 CREATE	item	Stanford University Law School - Robert Crown Law Library	an institution in California	
 instance of	place
@@ -1809,7 +1809,7 @@ located at street address	Robert Crown Law Library 559 Nathan Abbott Way
 contact information website	http://www.law.stanford.edu//library/
 OCLC institution registry ID	5681
 OCLC holdings symbol	RCJ
-coordinate location	37.424282,-122.168177
+coordinate location	37.424282,-122.168177,earth
 postal code	94305
 CREATE	item	Loma Linda University - Del E. Webb Memorial Library	an institution in California	
 instance of	place
@@ -1821,7 +1821,7 @@ located at street address	11072 Anderson Street
 contact information website	http://www.llu.edu/library/about/locat.page
 OCLC institution registry ID	307
 OCLC holdings symbol	LLU
-coordinate location	34.0525,-117.263
+coordinate location	34.0525,-117.263,earth
 postal code	92350
 CREATE	item	Sequoia & Kings Canyon National Parks	an institution in California	
 instance of	place
@@ -1832,7 +1832,7 @@ name	Sequoia & Kings Canyon National Parks,en
 located at street address	47050 Generals Highway 
 contact information website	http://www.nps.gov/seki/historyculture/collections.htm
 OCLC institution registry ID	134565
-coordinate location	36.490935,-118.825256
+coordinate location	36.490935,-118.825256,earth
 postal code	93271
 CREATE	item	Agua Caliente Cultural Museum	an institution in California	
 instance of	place
@@ -1843,7 +1843,7 @@ name	Agua Caliente Cultural Museum,en
 located at street address	219 South Palm Canyon Drive 
 contact information website	http://www.accmuseum.org/
 OCLC institution registry ID	134563
-coordinate location	33.82075,-116.546844
+coordinate location	33.82075,-116.546844,earth
 postal code	92262
 CREATE	item	University of California, Santa Barbara - Cheadle Center for Biodiversity and Ecological Restoration	an institution in California	
 instance of	place
@@ -1854,7 +1854,7 @@ name	University of California, Santa Barbara - Cheadle Center for Biodiversity a
 located at street address	UCSB Library 525 UCEN Road
 contact information website	http://ccber.ucsb.edu/
 OCLC institution registry ID	211
-coordinate location	34.4329987,-119.835388
+coordinate location	34.4329987,-119.835388,earth
 postal code	93106
 CREATE	item	University of California, Los Angeles - Chicano Studies Research Center	an institution in California	
 instance of	place
@@ -1865,7 +1865,7 @@ name	University of California, Los Angeles - Chicano Studies Research Center,en
 located at street address	144 Haines Hall 
 contact information website	http://www.chicano.ucla.edu/library
 OCLC institution registry ID	91081
-coordinate location	34.05348969,-118.24532318
+coordinate location	34.05348969,-118.24532318,earth
 postal code	90095
 CREATE	item	University of California, Irvine - Critical Theory Archive	an institution in California	
 instance of	place
@@ -1876,7 +1876,7 @@ name	University of California, Irvine - Critical Theory Archive,en
 located at street address	Univ of California Irvine 
 contact information website	http://special.lib.uci.edu/contact/
 OCLC institution registry ID	5656
-coordinate location	33.647265,-117.841035
+coordinate location	33.647265,-117.841035,earth
 postal code	926239557
 CREATE	item	University of California, Irvine	an institution in California	
 instance of	place
@@ -1888,7 +1888,7 @@ located at street address	Univ of California Irvine
 contact information website	https://www.lib.uci.edu/
 OCLC institution registry ID	5656
 OCLC holdings symbol	CUI
-coordinate location	33.647265,-117.841035
+coordinate location	33.647265,-117.841035,earth
 postal code	926239557
 CREATE	item	University of California, Irvine - Southeast Asian Archive	an institution in California	
 instance of	place
@@ -1899,7 +1899,7 @@ name	University of California, Irvine - Southeast Asian Archive,en
 located at street address	Univ of California Irvine 
 contact information website	http://seaa.lib.uci.edu/
 OCLC institution registry ID	5656
-coordinate location	33.647265,-117.841035
+coordinate location	33.647265,-117.841035,earth
 postal code	926239557
 CREATE	item	University of California, Irvine - University Archives	an institution in California	
 instance of	place
@@ -1910,7 +1910,7 @@ name	University of California, Irvine - University Archives,en
 located at street address	Univ of California Irvine 
 contact information website	http://special.lib.uci.edu/collections/university-archives/
 OCLC institution registry ID	5656
-coordinate location	33.647265,-117.841035
+coordinate location	33.647265,-117.841035,earth
 postal code	926239557
 CREATE	item	Monterey Park Bruggemeyer Library	an institution in California	
 instance of	place
@@ -1922,7 +1922,7 @@ located at street address	318 S Ramona Ave
 contact information website	http://www.ci.monterey-park.ca.us/310/Local-History
 OCLC institution registry ID	8541
 OCLC holdings symbol	MEY
-coordinate location	34.050201,-118.148903
+coordinate location	34.050201,-118.148903,earth
 postal code	91754
 CREATE	item	ONE National Gay and Lesbian Archives	an institution in California	
 instance of	place
@@ -1933,7 +1933,7 @@ name	ONE National Gay and Lesbian Archives,en
 located at street address	909 W. Adams Blvd. 
 contact information website	http://one.usc.edu
 OCLC institution registry ID	57656
-coordinate location	34.031077,-118.281574
+coordinate location	34.031077,-118.281574,earth
 postal code	90007
 CREATE	item	California Polytechnic State University - San Luis Obispo	an institution in California	
 instance of	place
@@ -1945,7 +1945,7 @@ located at street address	Robert E. Kennedy Library 1 Grand Avenue
 contact information website	http://lib.calpoly.edu/about/hours/
 OCLC institution registry ID	187
 OCLC holdings symbol	CPS
-coordinate location	35.3018,-120.664
+coordinate location	35.3018,-120.664,earth
 postal code	93407
 CREATE	item	OCLC Test Archive	an institution in California	
 instance of	place
@@ -1955,7 +1955,7 @@ located in the administrative territorial entity	California
 name	OCLC Test Archive,en
 located at street address	 
 contact information website	http://www.oclc.org/research/about/default.htm
-coordinate location	,
+coordinate location	,,earth
 postal code	94404
 CREATE	item	Jet Propulsion Laboratory Library and Archives	an institution in California	
 instance of	place
@@ -1967,7 +1967,7 @@ located at street address	Library 111-113 4800 Oak Grove Dr
 contact information website	http://beacon.jpl.nasa.gov/about
 OCLC institution registry ID	85125
 OCLC holdings symbol	SSJ
-coordinate location	34.1986504,-118.174583
+coordinate location	34.1986504,-118.174583,earth
 postal code	91109
 CREATE	item	University of San Diego - Copley Library	an institution in California	
 instance of	place
@@ -1979,7 +1979,7 @@ located at street address	PO Box 1530 1134 Kline St
 contact information website	http://www.sandiego.edu/library/
 OCLC institution registry ID	52130
 OCLC holdings symbol	JSC
-coordinate location	32.8443,-117.271
+coordinate location	32.8443,-117.271,earth
 postal code	92038
 CREATE	item	Stanford University – Martin Luther King Jr., Papers Project	an institution in California	
 instance of	place
@@ -1990,7 +1990,7 @@ name	Stanford University – Martin Luther King Jr., Papers Project,en
 located at street address	 
 contact information website	http://www.stanford.edu/group/King/mlkpapers/
 OCLC institution registry ID	104404
-coordinate location	,
+coordinate location	,,earth
 postal code	943054146
 CREATE	item	Chapman University - Frank Mt. Pleasant Library of Special Collections and Archives	an institution in California	
 instance of	place
@@ -2002,7 +2002,7 @@ located at street address	One University Drive
 contact information website	http://www1.chapman.edu/library/info/hours.html
 OCLC institution registry ID	3287
 OCLC holdings symbol	CCX
-coordinate location	33.7873,-117.844
+coordinate location	33.7873,-117.844,earth
 postal code	92866
 CREATE	item	San Francisco State University - J. Paul Leonard Library	an institution in California	
 instance of	place
@@ -2014,7 +2014,7 @@ located at street address	1600 Holloway Avenue, Hss 289
 contact information website	https://library.sfsu.edu/special-collections-archives
 OCLC institution registry ID	391
 OCLC holdings symbol	CSF
-coordinate location	37.7231,-122.478
+coordinate location	37.7231,-122.478,earth
 postal code	94132
 CREATE	item	Oxnard Public Library	an institution in California	
 instance of	place
@@ -2026,7 +2026,7 @@ located at street address	251 South A St
 contact information website	https://www.oxnard.org/library/
 OCLC institution registry ID	8553
 OCLC holdings symbol	JRN
-coordinate location	34.2009773,-119.178719
+coordinate location	34.2009773,-119.178719,earth
 postal code	93030
 CREATE	item	Historical Sites Society of Arcata Library	an institution in California	
 instance of	place
@@ -2037,7 +2037,7 @@ name	Historical Sites Society of Arcata Library,en
 located at street address	P.O. Box 4521 
 contact information website	http://www.oac.cdlib.org/institutions/Historical+Sites+Society+of+Arcata
 OCLC institution registry ID	103353
-coordinate location	40.864385,-124.080515
+coordinate location	40.864385,-124.080515,earth
 postal code	95503
 CREATE	item	Natural History Museum Foundation, Los Angeles County	an institution in California	
 instance of	place
@@ -2049,7 +2049,7 @@ located at street address	Research Libr, NHM 900 Exposition Blvd
 contact information website	http://www.nhm.org/site/about-our-museums
 OCLC institution registry ID	44062
 OCLC holdings symbol	CNH
-coordinate location	34.017073,-118.288925
+coordinate location	34.017073,-118.288925,earth
 postal code	90007
 CREATE	item	California State University - San Bernardino	an institution in California	
 instance of	place
@@ -2061,7 +2061,7 @@ located at street address	5500 University Parkway
 contact information website	http://www.lib.csusb.edu/about/hours.html
 OCLC institution registry ID	194
 OCLC holdings symbol	CSB
-coordinate location	34.1792107,-117.326691
+coordinate location	34.1792107,-117.326691,earth
 postal code	92407
 CREATE	item	LA84 Foundation - Sports Library	an institution in California	
 instance of	place
@@ -2073,7 +2073,7 @@ located at street address	Library 2141 W Adams Blvd
 contact information website	http://www.la84.org/knowledge/
 OCLC institution registry ID	85093
 OCLC holdings symbol	OLY
-coordinate location	34.02781,-118.317664
+coordinate location	34.02781,-118.317664,earth
 postal code	90018
 CREATE	item	Scripps Institute of Oceanography Archives	an institution in California	
 instance of	place
@@ -2085,7 +2085,7 @@ located at street address	Kresge Libr 400S 10550 N Torrey Pines Rd
 contact information website	http://libraries.ucsd.edu/locations/sio/contact-us.html
 OCLC institution registry ID	84961
 OCLC holdings symbol	SCB
-coordinate location	32.895629,-117.242454
+coordinate location	32.895629,-117.242454,earth
 postal code	920930219
 CREATE	item	Sons of the Revolution in the State of California - American Heritage Library	an institution in California	
 instance of	place
@@ -2097,7 +2097,7 @@ located at street address	600 S Central Ave
 contact information website	http://www.srcalifornia.com/library/aboutlibrary.htm
 OCLC institution registry ID	63818
 OCLC holdings symbol	SONRE
-coordinate location	34.139035,-118.257563
+coordinate location	34.139035,-118.257563,earth
 postal code	91204
 CREATE	item	Santa Ana Public Library	an institution in California	
 instance of	place
@@ -2109,7 +2109,7 @@ located at street address	26 Civic Ctr Plz
 contact information website	http://www.ci.santa-ana.ca.us/library/research/research.asp
 OCLC institution registry ID	8588
 OCLC holdings symbol	JRT
-coordinate location	33.7515348,-117.8721064
+coordinate location	33.7515348,-117.8721064,earth
 postal code	92701
 CREATE	item	California State University, East Bay	an institution in California	
 instance of	place
@@ -2121,7 +2121,7 @@ located at street address	Library / Interlibrary Loan 25800 Carlos Bee Boulevard
 contact information website	http://library.csueastbay.edu/using-the-libraries/collections/archives/
 OCLC institution registry ID	200
 OCLC holdings symbol	CSH
-coordinate location	37.6583,-122.044
+coordinate location	37.6583,-122.044,earth
 postal code	94542
 CREATE	item	Occidental College Library	an institution in California	
 instance of	place
@@ -2133,7 +2133,7 @@ located at street address	1600 Campus Road
 contact information website	http://oxy.edu/library/about
 OCLC institution registry ID	349
 OCLC holdings symbol	CCO
-coordinate location	34.1262474,-118.214157
+coordinate location	34.1262474,-118.214157,earth
 postal code	90041
 CREATE	item	Sierra Madre Public Library - Local History Collection	an institution in California	
 instance of	place
@@ -2145,7 +2145,7 @@ located at street address	440 West Sierra Madre Boulevard
 contact information website	http://www.smhps.org/archives.html
 OCLC institution registry ID	8599
 OCLC holdings symbol	SIE
-coordinate location	34.1614647,-118.062004
+coordinate location	34.1614647,-118.062004,earth
 postal code	91024
 CREATE	item	University of California, Berkeley - Institute of Governmental Studies	an institution in California	
 instance of	place
@@ -2157,7 +2157,7 @@ located at street address	Univ of California 109 Moses Hall #2370
 contact information website	https://igs.berkeley.edu/library
 OCLC institution registry ID	73244
 OCLC holdings symbol	CBG
-coordinate location	37.8752251,-122.254204
+coordinate location	37.8752251,-122.254204,earth
 postal code	94720
 CREATE	item	Claremont School of Theology - Special Collections	an institution in California	
 instance of	place
@@ -2169,7 +2169,7 @@ located at street address	1325 N College Ave
 contact information website	http://www.cst.edu/library/special-collections/
 OCLC institution registry ID	432
 OCLC holdings symbol	CST
-coordinate location	34.1081009,-117.71608
+coordinate location	34.1081009,-117.71608,earth
 postal code	91711
 CREATE	item	California State University, Long Beach	an institution in California	
 instance of	place
@@ -2181,7 +2181,7 @@ located at street address	1250 Bellflower Boulevard
 contact information website	http://www.csulb.edu/library/guide/serv/special.html
 OCLC institution registry ID	201
 OCLC holdings symbol	CLO
-coordinate location	33.7772,-118.115
+coordinate location	33.7772,-118.115,earth
 postal code	90840
 CREATE	item	Fresno Pacific University - Hiebert Library	an institution in California	
 instance of	place
@@ -2193,7 +2193,7 @@ located at street address	Hiebert Libr 1717 S Chestnut Ave
 contact information website	https://www.fresno.edu/students/hiebert-library
 OCLC institution registry ID	267
 OCLC holdings symbol	FPD
-coordinate location	36.74074,-119.754374
+coordinate location	36.74074,-119.754374,earth
 postal code	93702
 CREATE	item	Santa Barbara Historical Museum - Gledhill Library	an institution in California	
 instance of	place
@@ -2205,7 +2205,7 @@ located at street address	136 E De La Guerra St
 contact information website	http://www.santabarbaramuseum.com/GledhillLibrary.html
 OCLC institution registry ID	85149
 OCLC holdings symbol	BQH
-coordinate location	34.421534,-119.697266
+coordinate location	34.421534,-119.697266,earth
 postal code	93101
 CREATE	item	Center for Mennonite Brethren Studies - Archives	an institution in California	
 instance of	place
@@ -2217,7 +2217,7 @@ located at street address	Library 1717 S Chestnut
 contact information website	http://fresno.libguides.com/mla
 OCLC institution registry ID	62101
 OCLC holdings symbol	RT5
-coordinate location	36.74074,-119.754374
+coordinate location	36.74074,-119.754374,earth
 postal code	93702
 CREATE	item	Pepperdine University - Payson Library	an institution in California	
 instance of	place
@@ -2229,7 +2229,7 @@ located at street address	Payson Library 24255 Pacific Coast Highway
 contact information website	http://library.pepperdine.edu/special-collections/
 OCLC institution registry ID	366
 OCLC holdings symbol	CPE
-coordinate location	34.0386238,-118.70639
+coordinate location	34.0386238,-118.70639,earth
 postal code	90263
 CREATE	item	Yolo County Archives	an institution in California	
 instance of	place
@@ -2239,7 +2239,7 @@ located in the administrative territorial entity	California
 name	Yolo County Archives,en
 located at street address	 
 contact information website	http://www.yolocounty.org/index.aspx?page=1272
-coordinate location	,
+coordinate location	,,earth
 postal code	95695
 CREATE	item	Point Loma Nazarene University - Ryan Library	an institution in California	
 instance of	place
@@ -2251,7 +2251,7 @@ located at street address	Ryan Library/PLNU 3900 Lomaland Dr
 contact information website	http://libguides.pointloma.edu/content.php?pid=269316&sid=2221868
 OCLC institution registry ID	369
 OCLC holdings symbol	CPT
-coordinate location	32.7169876,-117.251022
+coordinate location	32.7169876,-117.251022,earth
 postal code	92106
 CREATE	item	San Bernardino Public Library	an institution in California	
 instance of	place
@@ -2263,7 +2263,7 @@ located at street address	555 W. Sixth St.
 contact information website	http://www.sbpl.org/hoursinfo.html
 OCLC institution registry ID	8575
 OCLC holdings symbol	SBD
-coordinate location	34.11,-117.295
+coordinate location	34.11,-117.295,earth
 postal code	92410
 CREATE	item	University of California, San Francisco Medical Center at Mount Zion - H.M. Fishbon Memorial Library	an institution in California	
 instance of	place
@@ -2275,7 +2275,7 @@ located at street address	1600 Divisadero St, Rm A116
 contact information website	http://mountzion.ucsfmedicalcenter.org/library/collection.html
 OCLC institution registry ID	5673
 OCLC holdings symbol	HMF
-coordinate location	37.7877502,-122.438232
+coordinate location	37.7877502,-122.438232,earth
 postal code	94115
 CREATE	item	Visual Communications Archives and Media Resource Library	an institution in California	
 instance of	place
@@ -2286,7 +2286,7 @@ name	Visual Communications Archives and Media Resource Library,en
 located at street address	120 Judge John Aiso St. 
 contact information website	http://www.vconline.org/
 OCLC institution registry ID	134567
-coordinate location	34.051001,-118.239927
+coordinate location	34.051001,-118.239927,earth
 postal code	90012
 CREATE	item	University of California, Berkeley - Magnes Collection of Jewish Art and Life	an institution in California	
 instance of	place
@@ -2297,7 +2297,7 @@ name	University of California, Berkeley - Magnes Collection of Jewish Art and Li
 located at street address	2911 Russell St 
 contact information website	http://www.magnes.org/about/contact-us
 OCLC institution registry ID	68409
-coordinate location	37.8589,-122.248
+coordinate location	37.8589,-122.248,earth
 postal code	94704
 CREATE	item	University of California, Berkeley - Environmental Design Archives	an institution in California	
 instance of	place
@@ -2308,7 +2308,7 @@ name	University of California, Berkeley - Environmental Design Archives,en
 located at street address	280 Wurster Hall 
 contact information website	http://www.ced.berkeley.edu/cedarchives/
 OCLC institution registry ID	134566
-coordinate location	37.870606,-122.254926
+coordinate location	37.870606,-122.254926,earth
 postal code	94720
 CREATE	item	University of California, Los Angeles - Ethnomusicology Archive	an institution in California	
 instance of	place
@@ -2320,7 +2320,7 @@ located at street address	1630 Schoenberg Music Building Box 951657
 contact information website	http://www.ethnomusic.ucla.edu/archive/
 OCLC institution registry ID	111198
 OCLC holdings symbol	CLETH
-coordinate location	34.0522,-118.244
+coordinate location	34.0522,-118.244,earth
 postal code	90095
 CREATE	item	Santa Barbara Trust for Historic Preservation - Presidio Research Center	an institution in California	
 instance of	place
@@ -2331,7 +2331,7 @@ name	Santa Barbara Trust for Historic Preservation - Presidio Research Center,en
 located at street address	215 East Canon Perdido St. 
 contact information website	http://www.sbthp.org/research-center
 OCLC institution registry ID	134564
-coordinate location	34.423218,-119.697858
+coordinate location	34.423218,-119.697858,earth
 postal code	93101
 CREATE	item	University of California, Los Angeles - William Andrews Clark Memorial Library	an institution in California	
 instance of	place
@@ -2342,7 +2342,7 @@ name	University of California, Los Angeles - William Andrews Clark Memorial Libr
 located at street address	2520 Cimarron Street 
 contact information website	http://clarklibrary.ucla.edu/
 OCLC institution registry ID	91052
-coordinate location	34.033523,-118.315321
+coordinate location	34.033523,-118.315321,earth
 postal code	90018
 CREATE	item	Los Angeles Maritime Museum	an institution in California	
 instance of	place
@@ -2353,7 +2353,7 @@ name	Los Angeles Maritime Museum,en
 located at street address	Berth 84 Foot of Sixth Street 
 contact information website	http://www.lamaritimemuseum.org/discover-1/library/
 OCLC institution registry ID	29679
-coordinate location	33.7398376,-118.278763
+coordinate location	33.7398376,-118.278763,earth
 postal code	90405
 CREATE	item	Riverside Public Library	an institution in California	
 instance of	place
@@ -2365,7 +2365,7 @@ located at street address	3581 Mission Inn Avenue
 contact information website	http://www.riversideca.gov/library/history.asp
 OCLC institution registry ID	8568
 OCLC holdings symbol	CRP
-coordinate location	33.9827,-117.372
+coordinate location	33.9827,-117.372,earth
 postal code	92501
 CREATE	item	Pasadena Public Library	an institution in California	
 instance of	place
@@ -2377,7 +2377,7 @@ located at street address	285 E. Walnut St.
 contact information website	http://ww5.cityofpasadena.net/library/
 OCLC institution registry ID	8559
 OCLC holdings symbol	CPP
-coordinate location	34.1497,-118.145
+coordinate location	34.1497,-118.145,earth
 postal code	91101
 CREATE	item	California Maritime Academy Library	an institution in California	
 instance of	place
@@ -2389,7 +2389,7 @@ located at street address	200 Maritime Academy Dr
 contact information website	http://library.csum.edu/
 OCLC institution registry ID	218
 OCLC holdings symbol	CVM
-coordinate location	38.069022,-122.229747
+coordinate location	38.069022,-122.229747,earth
 postal code	94590
 CREATE	item	California State University, Fullerton - Paulina June and George Pollak Library	an institution in California	
 instance of	place
@@ -2401,7 +2401,7 @@ located at street address	800 N State College Blvd
 contact information website	http://library.fullerton.edu/visiting/special-collections.php
 OCLC institution registry ID	199
 OCLC holdings symbol	CFI
-coordinate location	33.8703232,-117.929108
+coordinate location	33.8703232,-117.929108,earth
 postal code	92834
 CREATE	item	Whittier Public Library	an institution in California	
 instance of	place
@@ -2413,7 +2413,7 @@ located at street address	7344 South Washington Avenue
 contact information website	http://www.cityofwhittier.org/depts/library/
 OCLC institution registry ID	8619
 OCLC holdings symbol	WRP
-coordinate location	33.9742546,-118.034859
+coordinate location	33.9742546,-118.034859,earth
 postal code	90602
 CREATE	item	Golden Gate University - School of Law Library	an institution in California	
 instance of	place
@@ -2425,7 +2425,7 @@ located at street address	536 Mission St
 contact information website	http://law.ggu.edu/law-library/about/
 OCLC institution registry ID	90806
 OCLC holdings symbol	AE#
-coordinate location	37.7891,-122.398
+coordinate location	37.7891,-122.398,earth
 postal code	94105
 CREATE	item	California Judicial Center Library	an institution in California	
 instance of	place
@@ -2437,7 +2437,7 @@ located at street address	Center Libr Rm 4617 455 Golden Gate Ave
 contact information website	http://library.courtinfo.ca.gov/about_the_library/
 OCLC institution registry ID	53935
 OCLC holdings symbol	LOI
-coordinate location	37.7799,-122.419
+coordinate location	37.7799,-122.419,earth
 postal code	94102
 CREATE	item	African American Museum and Library at Oakland, Oakland Public Library	an institution in California	
 instance of	place
@@ -2448,7 +2448,7 @@ name	African American Museum and Library at Oakland, Oakland Public Library,en
 located at street address	659 14th St. 
 contact information website	http://www.oaklandlibrary.org/locations/african-american-museum-library-oakland
 OCLC institution registry ID	77506
-coordinate location	37.8062,-122.276
+coordinate location	37.8062,-122.276,earth
 postal code	94612
 CREATE	item	University of Southern California - Doheny Library	an institution in California	
 instance of	place
@@ -2460,7 +2460,7 @@ located at street address	3550 Trousdale Pkwy Rm 337 Univ of Southern California
 contact information website	https://libraries.usc.edu/locations/special-collections/first-time-visitors
 OCLC institution registry ID	429
 OCLC holdings symbol	CSL
-coordinate location	34.020128,-118.283754
+coordinate location	34.020128,-118.283754,earth
 postal code	90089
 CREATE	item	University of San Francisco - Gleeson Library	an institution in California	
 instance of	place
@@ -2472,7 +2472,7 @@ located at street address	2130 Fulton St
 contact information website	https://www.usfca.edu/library/specialcollections
 OCLC institution registry ID	393
 OCLC holdings symbol	CUF
-coordinate location	37.7753,-122.452
+coordinate location	37.7753,-122.452,earth
 postal code	94117
 CREATE	item	Writers Guild Foundation	an institution in California	
 instance of	place
@@ -2483,7 +2483,7 @@ name	Writers Guild Foundation,en
 located at street address	7000 West Third Street 
 contact information website	https://www.wgfoundation.org/wgf-library-archive/about-the-film-and-tv-archive/
 OCLC institution registry ID	142564
-coordinate location	34.0711517,-118.361732
+coordinate location	34.0711517,-118.361732,earth
 postal code	90048
 CREATE	item	UCLA Film and Television Archive	an institution in California	
 instance of	place
@@ -2495,7 +2495,7 @@ located at street address
 contact information website	http://www.cinema.ucla.edu/education/research-archive
 OCLC institution registry ID	104511
 OCLC holdings symbol	UCFTA
-coordinate location	,
+coordinate location	,,earth
 postal code	90038
 CREATE	item	Sacramento County Public Law Library	an institution in California	
 instance of	place
@@ -2507,7 +2507,7 @@ located at street address	609 9th Street
 contact information website	https://saclaw.org/contact/
 OCLC institution registry ID	64471
 OCLC holdings symbol	SZY
-coordinate location	38.5848122,-121.492897
+coordinate location	38.5848122,-121.492897,earth
 postal code	95814
 CREATE	item	San Diego State University	an institution in California	
 instance of	place
@@ -2519,5 +2519,5 @@ located at street address	5500 Campanile Drive
 contact information website	http://scua.sdsu.edu/
 OCLC institution registry ID	387
 OCLC holdings symbol	CDS
-coordinate location	32.7722626,-117.071907
+coordinate location	32.7722626,-117.071907,earth
 postal code	92182

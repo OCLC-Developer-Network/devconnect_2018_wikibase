@@ -71,14 +71,14 @@ def get_target(value,datatype):
 
             if datatype == 'globe-coordinate':
                 precision = 0
-                # expect the value to be a comma-separated string with the latitude (in position 0)  and longitude (in position 1)
-                # e.g., "37.43137,-122.168924"
+                # expect the value to be a comma-separated string with the latitude (in position 0), longitude (in position 1), and globe name (in position 2)
+                # e.g., "37.43137,-122.168924,earth"
                 arr = value.split(",")
                 try:
-                    target = pywikibot.Coordinate(site=repo, lat=arr[0], lon=arr[1], precision=precision, globe='earth')
+                    target = pywikibot.Coordinate(site=repo, lat=arr[0], lon=arr[1], precision=precision, globe=arr[2])
                 except Exception, e:
                     msg = str(e).replace("\n"," ").replace("\r"," ")
-                    print("Coordinate ERROR IN "+entity_id+": "+msg)
+                    print("Coordinate ERROR IN "+entity_id+" FOR "+value+", "+msg)
                     pass
 
             elif datatype == 'time':
@@ -122,7 +122,7 @@ def get_target(value,datatype):
                 # expect the value to be a comma-separated string with the name (in position 0)  and language code (in position 1)
                 # e.g., "Siskiyou County Museum,en"
                 text = value[0:value.rfind(',')]
-                language = value[0:value.rfind(',')+1:]
+                language = value[value.rfind(',')+1:]
                 try:
                     target = pywikibot.WbMonolingualText(text=text, language=language)
                 except Exception, e:
