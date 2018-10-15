@@ -41,7 +41,7 @@ def add_statement(label,value,reference_source,reference_value):
                         try:
                             msg = "Add a reference url"
                             claim.addSource(reference, summary=msg)  
-                            print("Add to "+entity_id+" reference "+entity_dictionary['property'][reference_source]['id']+ " " +reference_value)
+                            print(entity_id + "add reference "+entity_dictionary['property'][reference_source]['id']+ " " +reference_value + " to statement " + entity_dictionary['property'][label]['id'])
                         except Exception as e:
                             if debug:
                                 write_exception("ERROR ADDING REFERENCE")
