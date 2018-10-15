@@ -76,7 +76,7 @@ def get_target(value,datatype):
                 arr = value.split(",")
                 lat = float(arr[0])
                 lon = float(arr[1])
-                globe = arr[2]
+                globe = "http://www.wikidata.org/entity/Q2"
                 try:
                     target = pywikibot.Coordinate(site=repo, lat=lat, lon=lon, precision=precision, globe=globe)
                 except Exception, e:
@@ -93,6 +93,7 @@ def get_target(value,datatype):
                 # decade = 1950s
                 # century = 1900s
                 precision = None # initialize the precision
+                calendermodel = 'http://www.wikidata.org/entity/Q1985727'
                 value_list = value.split('-') # split the time value on '-'
                 date_str = value # initialize the date string
                 if len(value_list) == 3:
@@ -115,7 +116,7 @@ def get_target(value,datatype):
                 date_str = '+0000000'+date_str+'T00:00:00Z'
 
                 try:
-                    target = pywikibot.WbTime.fromTimestr(date_str, precision=precision, before=0, after=0, timezone=0, calendarmodel='http://www.wikidata.org/entity/Q1985727', site=repo)
+                    target = pywikibot.WbTime.fromTimestr(date_str, precision=precision, before=0, after=0, timezone=0, calendarmodel=calendarmodel, site=repo)
                 except Exception, e:
                     msg = str(e).replace("\n"," ").replace("\r"," ")
                     print("WbTime ERROR IN "+entity_id+" FOR "+ds+": "+msg)
