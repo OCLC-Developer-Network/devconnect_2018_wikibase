@@ -1669,17 +1669,6 @@ OCLC institution registry ID	5678
 OCLC holdings symbol	CASUM
 coordinate location	37.4348,-122.18,earth
 postal code	94305
-CREATE	item	University of California, Riverside - Water Resources Collections and Archives	an institution in California	
-instance of	place
-instance of	archive
-ArchiveGrid contributor ID	5287
-located in the administrative territorial entity	California
-name	University of California, Riverside - Water Resources Collections and Archives,en
-located at street address	 
-contact information website	http://library.ucr.edu/wrca/
-OCLC holdings symbol	WCA
-coordinate location	33.975426,-117.3315931,earth
-postal code	92517
 CREATE	item	Monterey Public Library - Archives	an institution in California	
 instance of	place
 instance of	archive

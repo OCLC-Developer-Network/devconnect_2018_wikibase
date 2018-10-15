@@ -41,7 +41,7 @@ def add_statement(label,value,reference_source,reference_value):
                         try:
                             msg = "Add a reference url"
                             claim.addSource(reference, summary=msg)  
-                            print(entity_id + "add reference "+entity_dictionary['property'][reference_source]['id']+ " " +reference_value + " to statement " + entity_dictionary['property'][label]['id'])
+                            print(entity_id + " add reference "+entity_dictionary['property'][reference_source]['id']+ " " +reference_value + " to statement " + entity_dictionary['property'][label]['id'])
                         except Exception as e:
                             if debug:
                                 write_exception("ERROR ADDING REFERENCE")
@@ -76,7 +76,7 @@ def get_target(value,datatype):
                 arr = value.split(",")
                 lat = float(arr[0])
                 lon = float(arr[1])
-                globe = "http://www.wikidata.org/entity/Q2"
+                globe = "earth"
                 try:
                     target = pywikibot.Coordinate(site=repo, lat=lat, lon=lon, precision=precision, globe=globe)
                 except Exception, e:
