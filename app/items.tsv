@@ -2499,4 +2499,14 @@ OCLC institution registry ID	387
 OCLC holdings symbol	CDS
 coordinate location	32.7722626,-117.071907,earth
 postal code	92182
-
+CREATE	item	stereograph	double photographs of the same image taken from two slightly different perspectives	stereographs,card stereograph,card stereographs,stereo card,stereo cards,stereogram,stereographic image,stereoscopic card	
+subclass of	photograph
+CREATE	item	presumably	the source specified value and explicitly stated that value is presumed. Used with sourcing circumstances	
+CREATE	item	earthquake	result of a sudden release of energy in the Earth's crust that creates seismic waves	earthquakes,quake
+equivalent class	https://www.wikidata.org/wiki/Q7944
+CREATE	item	1906 San Francisco earthquake	major earthquake that struck San Francisco and the coast of Northern California	San Francisco earthquake of 1906
+instance of	earthquake
+CREATE	item	San Francisco	consolidated city-county in California, United States	SF, Frisco
+Wikidata entity ID	Q62
+CREATE	item	refugee camp	temporary settlement for refugees	
+Wikidata entity ID	Q622499

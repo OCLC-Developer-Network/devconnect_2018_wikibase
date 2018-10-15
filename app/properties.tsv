@@ -481,4 +481,13 @@ equivalent property	http://www.w3.org/ns/org#basedAt	Wikidata entity ID	P937
 CREATE	property	ArchiveGrid contributor ID	identifier for ArchiveGrid contributing institutions	ArchiveGrid ID, ArchiveGrid contributor identifier	string
 CREATE	property	OCLC institution registry ID	identifier for the OCLC institution registry	OCLC registry id	string
 CREATE	property	OCLC holdings symbol	identifier for institutions that contribute their holdings information to OCLC's WorldCat database	WorldCat ID, OCLC identifier	string
-
+CREATE	property	of	qualifier stating that a statement applies within the scope of a particular item	scope, in	wikibase-item
+equivalent property	http://www.wikidata.org/entity/P642
+CREATE	property	depicts	depicted entity	depiction of	wikibase-item
+equivalent property	http://www.wikidata.org/entity/P180
+CREATE	property	quantity	number of instances of this subject	amount	quantity
+equivalent property	http://www.wikidata.org/entity/P1114
+CREATE	property	production date	date of production of a creative work, like film or or opera, if different from the publication date.	year of production,production date,date of production	time
+equivalent property	http://www.wikidata.org/entity/P2754
+CREATE	property	sourcing circumstances	qualification of the truth or accuracy of a source: circa, near, presumably, etc.	accuracy, reliability	wikibase-item
+equivalent property	http://www.wikidata.org/entity/P1480
