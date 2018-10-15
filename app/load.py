@@ -134,7 +134,7 @@ def get_target(value,datatype):
                     pass
 
             elif datatype == 'string' or datatype == 'url':
-                target = unicode(value.strip())
+                target = value.strip()
 
             elif datatype == 'quantity':
                 try:
@@ -257,13 +257,13 @@ if __name__ == "__main__":
                         'descriptions': {
                             'en': {
                                 'language': lang,
-                                'value': elements[3]
+                                'value': unicode(elements[3])
                             }
                         },
                         'labels': {
                             'en': {
                                 'language': lang,
-                                'value': entity_label
+                                'value': unicode(entity_label)
                             }
                         }
                     }
@@ -279,7 +279,7 @@ if __name__ == "__main__":
                             aliases_object_list = []
                             for alias in aliases:
                                 obj = {}
-                                obj['value'] = alias
+                                obj['value'] = unicode(alias)
                                 obj['language'] = lang
                                 aliases_object_list.append(obj)
                             
@@ -304,26 +304,32 @@ if __name__ == "__main__":
                     }
                     
                     # submit the request
-                    req = site._simple_request(**params)
-                    results = req.submit()
+                    try:
+                        req = site._simple_request(**params)
+                        results = req.submit()
+                        
+                        # get the entity id
+                        entity_id = results['entity']['id']
+                        print("Created "+entity_type+" entity "+entity_id+" for "+entity_label)
+                        
+                        # get the pywikibot object
+                        if entity_type == "item":
+                            entity_obj = pywikibot.ItemPage(repo,entity_id)
+                        else:
+                            entity_obj = pywikibot.PropertyPage(repo,entity_id)
+                        
+                        # add the entity id and data type to a dictionary, with the label as the dictionary key
+                        if not entity_label in entity_dictionary[entity_type]:
+                            obj = {}
+                            obj['id'] = entity_id
+                            if 'datatype' in fingerprint:
+                                obj['datatype'] = fingerprint['datatype']
+                            entity_dictionary[entity_type][entity_label] = obj
                     
-                    # get the entity id
-                    entity_id = results['entity']['id']
-                    print("Created "+entity_type+" entity "+entity_id+" for "+entity_label)
-                    
-                    # get the pywikibot object
-                    if entity_type == "item":
-                        entity_obj = pywikibot.ItemPage(repo,entity_id)
-                    else:
-                        entity_obj = pywikibot.PropertyPage(repo,entity_id)
-                    
-                    # add the entity id and data type to a dictionary, with the label as the dictionary key
-                    if not entity_label in entity_dictionary[entity_type]:
-                        obj = {}
-                        obj['id'] = entity_id
-                        if 'datatype' in fingerprint:
-                            obj['datatype'] = fingerprint['datatype']
-                        entity_dictionary[entity_type][entity_label] = obj
+                    except Exception, e:
+                        print("EXCEPTION IN req.submit")
+                        print("ERROR: "+str(e))
+                        sys.exit()
                     
                 elif len(elements) >=2:
                 
