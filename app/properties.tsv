@@ -480,5 +480,5 @@ CREATE	property	work location	location where persons were active	location of wor
 equivalent property	http://www.w3.org/ns/org#basedAt	Wikidata entity ID	P937
 CREATE	property	ArchiveGrid contributor ID	identifier for ArchiveGrid contributing institutions	ArchiveGrid ID, ArchiveGrid contributor identifier	string
 CREATE	property	OCLC institution registry ID	identifier for the OCLC institution registry	OCLC registry id	string
-CREATE	property	OCLC holdings hymbol	identifier for institutions that contribute their holdings information to OCLC's WorldCat database	WorldCat ID, OCLC identifier	string
+CREATE	property	OCLC holdings symbol	identifier for institutions that contribute their holdings information to OCLC's WorldCat database	WorldCat ID, OCLC identifier	string
 
