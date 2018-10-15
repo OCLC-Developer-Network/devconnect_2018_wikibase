@@ -41,6 +41,8 @@ equivalent property	https://www.wikidata.org/wiki/Property:P856
 equivalent property	http://schema.org/url	Wikidata entity ID	P856
 equivalent property	http://www.w3.org/2006/vcard/ns#url	Wikidata entity ID	P856
 equivalent property	http://xmlns.com/foaf/0.1/homepage	Wikidata entity ID	P856
+CREATE	property	contact information website	URL of the website for contacting an organization	contact site	url
+subproperty of	URL	Wikidata entity ID	P854
 CREATE	property	described at URL	the URL that describes the resource	webpage describing	url
 equivalent property	https://www.wikidata.org/wiki/Property:P973
 equivalent property	http://xmlns.com/foaf/0.1/page	Wikidata entity ID	P973
@@ -154,7 +156,7 @@ CREATE	property	connects with	item with which the item is physically connected	c
 equivalent property	http://www.w3.org/ns/org#linkedTo	Wikidata entity ID	P2789
 CREATE	property	contributor(s) to the creative work	person or organization that contributed to a subject: co-creator of a creative work	assistant, collaborator, contributor, contributor(s) to the subject	wikibase-item
 equivalent property	http://schema.org/contributor	Wikidata entity ID	P767
-CREATE	property	coordinate location	geocoordinates of the subject, please note that only WGS84 coordinating system is supported at the moment	position, geolocation, co-ordinate location, co-ordinates, co-ords, coordinate location, coordinates, coords, geo, geocoordinates, geographic coordinate, geographical coordinates, geotag, gps, gps co-ordinate, gps co-ordinates, gps coordinate, gps coordinates, gps location, latitude, location, location on earth, longitude, point on a map, point on earth, point on the globe, wgs 84, wgs-84, wgs84	globe-coordinate
+CREATE	property	coordinate location	geocoordinates of the subject	position, geolocation, co-ordinate location, co-ordinates, co-ords, coordinate location, coordinates, coords, geo, geocoordinates, geographic coordinate, geographical coordinates, geotag, gps, gps co-ordinate, gps co-ordinates, gps coordinate, gps coordinates, gps location, latitude, location, location on earth, longitude, point on a map, point on earth, point on the globe, wgs 84, wgs-84, wgs84	globe-coordinate
 equivalent property	http://schema.org/geo	Wikidata entity ID	P625
 equivalent property	http://www.w3.org/2006/vcard/ns#geo	Wikidata entity ID	P625
 CREATE	property	copyright owner	person or organisation who owns or hold the copyright of a work according to the Berne Convention	copyright holder, licensor	wikibase-item
@@ -290,12 +292,14 @@ equivalent property	http://purl.org/dc/terms/license	Wikidata entity ID	P275
 CREATE	property	located at street address	full street address that the subject is located at. Include building number through to post code. Use also P669 if the street is known as a separate element	street address, address, physical address, street without article, located on street (string)	string
 equivalent property	http://www.w3.org/2006/vcard/ns#street-address	Wikidata entity ID	P969
 external subproperty	http://www.w3.org/ns/org#siteAddress	Wikidata entity ID	P969
-CREATE	property	location	location of the item, physical object or event is within. In case of an administrative entity use P131. In case of a distinct terrain feature use P706.	neighborhood, venue, event location, region, based in, is in, located in, location of item, moveable object location, place held	wikibase-item
+CREATE	property	location	location of the item, physical object or event is within.s	neighborhood, venue, event location, region, based in, is in, located in, location of item, moveable object location, place held	wikibase-item
 equivalent property	http://schema.org/location	Wikidata entity ID	P276
 CREATE	property	location of final assembly	place where the item was made; location of final assembly	mint, place of origin, assembly location, location of origin, made in, minted at, place built, place made, manufactured in	wikibase-item
 equivalent property	http://schema.org/locationCreated	Wikidata entity ID	P1071
 CREATE	property	location of formation	location where a group or organization was formed	comes from, formation location, formed in, founded in, from, originates from, place of formation, place of foundation, source location of group/organisation, place of incorporation	wikibase-item
 equivalent property	http://schema.org/foundingLocation	Wikidata entity ID	P740
+CREATE	property	located in the administrative territorial entity	the item is located on the territory of the following administrative entity.	locatity,region	wikibase-item
+subproperty of	location	Wikidata entity ID	P131
 CREATE	property	logo image	graphic mark or emblem commonly used by commercial enterprises, organizations and products	sign, insignia	commonsMedia
 equivalent property	http://schema.org/logo	Wikidata entity ID	P154
 equivalent property	http://www.w3.org/2006/vcard/ns#logo	Wikidata entity ID	P154
@@ -474,3 +478,7 @@ CREATE	property	width	width of an object	size, breadth	quantity
 equivalent property	http://schema.org/width	Wikidata entity ID	P2049
 CREATE	property	work location	location where persons were active	location of work, place of work, work location, workplace, active in, place of activity	wikibase-item
 equivalent property	http://www.w3.org/ns/org#basedAt	Wikidata entity ID	P937
+CREATE	property	ArchiveGrid contributor ID	identifier for ArchiveGrid contributing institutions	ArchiveGrid ID, ArchiveGrid contributor identifier	string
+CREATE	property	OCLC institution registry ID	identifier for the OCLC institution registry	OCLC registry id	string
+CREATE	property	OCLC holdings hymbol	identifier for institutions that contribute their holdings information to OCLC's WorldCat database	WorldCat ID, OCLC identifier	string
+
