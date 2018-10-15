@@ -74,8 +74,8 @@ def get_target(value,datatype):
                 # expect the value to be a comma-separated string with the latitude (in position 0), longitude (in position 1), and globe name (in position 2)
                 # e.g., "37.43137,-122.168924,earth"
                 arr = value.split(",")
-                lat = int(arr[0])
-                lon = int(arr[1])
+                lat = float(arr[0])
+                lon = float(arr[1])
                 globe = arr[2]
                 try:
                     target = pywikibot.Coordinate(site=repo, lat=lat, lon=lon, precision=precision, globe=globe)
