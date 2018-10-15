@@ -134,7 +134,7 @@ def get_target(value,datatype):
                     pass
 
             elif datatype == 'string' or datatype == 'url':
-                target = value.strip()
+                target = unicode(value.strip())
 
             elif datatype == 'quantity':
                 try:
